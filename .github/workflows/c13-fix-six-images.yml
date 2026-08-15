@@ -1,4 +1,4 @@
-name: C13 六张问题图定点修复＋全本地图片归集
+name: C13.2 图片自动归集（增量写回）
 
 on:
   push:
@@ -8,7 +8,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: c13-localize-${{ github.ref }}
+  group: c132-localize-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -17,53 +17,27 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 55
     env:
-      C13_WORKERS: '8'
+      C132_WORKERS: '8'
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
-      - name: Download and localize every display image
+      - name: 自动归集图片（第一轮）
         run: python scripts/localize_images.py
-
-      - name: Build final all-local deploy ZIP
-        if: success()
-        shell: bash
-        run: |
-          zip -qr C13_fix6_all_local_deploy.zip index.html assets 部署说明.txt C13_六张定点修复_全本地图片审计.txt
-
-      - name: Upload final all-local deploy ZIP
-        if: success()
-        uses: actions/upload-artifact@v4
-        with:
-          name: C13-fix6-all-local-deploy
-          path: C13_fix6_all_local_deploy.zip
-          if-no-files-found: error
-
-      - name: Upload audit report
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: C13-fix6-localization-report
-          path: C13_六张定点修复_全本地图片审计.txt
-          if-no-files-found: warn
-
-      - name: Commit localized site back to this branch
-        if: success()
+      - name: 自动归集图片（第二轮重试）
+        run: python scripts/localize_images.py
+      - name: 写回仓库
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html assets/images C13_六张定点修复_全本地图片审计.txt
+          git add index.html assets/images C13.2_图片归集审计.txt
           if git diff --cached --quiet; then
-            echo "No localization changes to commit."
+            echo "No changes."
             exit 0
           fi
-          git commit -m "C13: fix six catalog images and localize [skip ci]"
+          git commit -m "C13.2: incremental image localization [skip ci]"
           git push origin "HEAD:${GITHUB_REF_NAME}"
