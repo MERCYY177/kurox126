@@ -1,0 +1,16 @@
+本轮输入远程：8
+成功本地化：0
+仍待重试：8
+最终本地：842
+最终外链：8
+真缺图：13
+
+仍待重试ID：
+- KR-MER-0203: HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found
+- KR-MER-0354: HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found
+- KR-MER-0445: HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found
+- KR-MER-0635: HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found
+- KR-MER-0661: HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found
+- KR-MER-0899: HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found
+- KR-MER-0925: HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found
+- KR-MER-0950: HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found | HTTPError:HTTP Error 404: Not Found
