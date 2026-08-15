@@ -5,6 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]; INDEX=ROOT/'index.html'; IMG_DIR=ROOT/'assets/images'; REPORT=ROOT/'C13.2_图片归集审计.txt'
 EXPECTED_MISSING={"KR-MER-0010","KR-MER-0223","KR-MER-0333","KR-MER-0603","KR-MER-0624","KR-MER-0627","KR-MER-0653","KR-MER-0668","KR-MER-0669","KR-MER-0711","KR-MER-0783","KR-MER-0798","KR-MER-0828"}
+SPECIAL_ORIGINALS={'KR-MER-0445': 'https://cdn.suruga-ya.jp/database/pics_webp/game/561268260.jpg.webp', 'KR-MER-0354': 'https://cdn.suruga-ya.jp/database/pics_webp/game/561114347.jpg.webp', 'KR-MER-0925': 'https://static.mercdn.net/item/detail/orig/photos/m55871176766_1.jpg?1766420473', 'KR-MER-0950': 'https://static.mercdn.net/item/detail/orig/photos/m94043496531_1.jpg?1783441788', 'KR-MER-0899': 'https://cdn.suruga-ya.jp/database/pics_webp/game/871155397.jpg.webp', 'KR-MER-0203': 'https://cdn.suruga-ya.jp/database/pics_webp/game/892061951.jpg.webp', 'KR-MER-0471': 'https://img.amiami.jp/images/product/main/203/GOODS-00398408.jpg', 'KR-MER-0661': 'https://cdn.suruga-ya.jp/database/pics_webp/game/871542914.jpg.webp', 'KR-MER-0635': 'https://static.mercdn.net/item/detail/orig/photos/m59870268862_1.jpg?1785422662'}
 UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/128 Safari/537.36'
 def load(s):
  m=re.search(r'const ITEMS=(\[.*?\]);\n',s,re.S)
@@ -28,7 +29,14 @@ def suruga_id(it):
    m=re.search(pat,s or '')
    if m:return m.group(1)
 def candidates(it):
- out=[]; add(out,it.get('fallbackImage','')); add(out,it.get('imageSourceUrl',''))
+ out=[]
+ special=SPECIAL_ORIGINALS.get(it.get('id',''),'')
+ if special:
+  q=urllib.parse.quote(special,safe='')
+  add(out,'https://images.weserv.nl/?url='+q+'&output=webp&q=92')
+  add(out,'https://wsrv.nl/?url='+q+'&output=webp&q=92')
+  add(out,special)
+ add(out,it.get('fallbackImage','')); add(out,it.get('imageSourceUrl',''))
  pid=suruga_id(it)
  if pid:
   add(out,f'https://cdn.suruga-ya.jp/database/pics_webp/game/{pid}.jpg.webp')

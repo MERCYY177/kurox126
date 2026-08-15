@@ -1,4 +1,4 @@
-name: C13.2 图片自动归集（增量写回）
+name: C13.5 九项额外空图自动归集（增量写回）
 
 on:
   push:
@@ -39,5 +39,5 @@ jobs:
             echo "No changes."
             exit 0
           fi
-          git commit -m "C13.2: incremental image localization [skip ci]"
+          git commit -m "C13.5: repair 9 extra missing images [skip ci]"
           git push origin "HEAD:${GITHUB_REF_NAME}"
