@@ -106,7 +106,7 @@ def main():
  newjson=json.dumps(items,ensure_ascii=False,separators=(',',':'))
  newhtml=html[:m.start(1)]+newjson+html[m.end(1):]
  local=sum(str(i.get('image','')).startswith('assets/images/') for i in items);remote=sum(not i.get('image') and bool(i.get('fallbackImage')) for i in items)
- newhtml=re.sub(r'<section class="intro"><div><h1>鬼龍紅郎</h1><p>.*?</p>',f'<section class="intro"><div><h1>鬼龍紅郎</h1><p>863 款 Active · 已本地 {local} 款 · 待自动归集 {remote} 款 · 真缺图 13 款</p>',newhtml,count=1,flags=re.S)
+ newhtml=re.sub(r'<section class="intro"><div><h1>鬼龍紅郎</h1><p>.*?</p>',f'<section class="intro"><div><h1>鬼龍紅郎</h1><p>862 款 Active · 已本地 {local} 款 · 待自动归集 {remote} 款 · 真缺图 13 款</p>',newhtml,count=1,flags=re.S)
  INDEX.write_text(newhtml,'utf-8')
  lines=[f'本轮输入远程：{len(todo)}',f'成功本地化：{len(success)}',f'仍待重试：{len(fail)}',f'最终本地：{local}',f'最终外链：{remote}','真缺图：13']
  if fail:
