@@ -1,4 +1,0 @@
-C13.3 定点修复
-- 仅修 KR-MER-0814。
-- 将 0814 的本地图从 WEBP 另存为 JPG，并把 index.html 内 0814 的图片路径改为 assets/images/KR-MER-0814.jpg。
-- 本次不改其他条目。

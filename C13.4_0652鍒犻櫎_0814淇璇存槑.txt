@@ -1,6 +1,0 @@
-C13.4 修正说明
-
-1. KR-MER-0652：从 Active 网页数据中删除。该 2024 SPRING Idol Side 阵容不含鬼龍紅郎，旧节点属于角色误归；本包不再保留该节点，也不使用任何0652图片。
-2. KR-MER-0814：使用既有真实实拍中的 Welcome to Festa A4 Clear File B 目标文件夹几何裁切图，本地文件 assets/images/KR-MER-0814.jpg。没有生成、重绘或AI补图。
-3. Active 数量同步 863 → 862；真缺图仍为13。
-4. 其他商品数据与图片不做额外修改。
