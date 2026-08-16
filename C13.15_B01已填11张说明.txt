@@ -1,0 +1,9 @@
+C13.15 / B01 当前实际填入 11/50
+
+本轮仍只更新“本批官图下载”工作区，不改主站商品图片，不改 Signature。
+
+在 C13.14 的9项基础上新增：
+- KR-MER-0144：pattythree 官方 Group D 完整阵容图；官方页明确 Group D = ALKALOID／紅月，全8种，二级商品记录确认鬼龍紅郎属于该组。后续本地化时裁单品。
+- KR-MER-0572：pattythree 官方 Cross-theme Banner Badge Vol.2 完整阵容图；商品记录确认鬼龍紅郎属于 Vol.2 的12款阵容。后续本地化时裁单品。
+
+下载按钮：优先 fetch→Blob 按 KR-MER 编号保存；若官方站禁止 CORS，则退化为打开原图。
