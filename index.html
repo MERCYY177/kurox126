@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
-<title>鬼龍紅郎 周边图鉴 · C13.9 官图清理审计版</title>
+<title>鬼龍紅郎 周边图鉴</title>
 <style>
 :root{
   --bg:#f4f1ed;--paper:#fbfaf8;--card:#fff;--ink:#25211f;--muted:#8a817b;
@@ -431,7 +431,7 @@ body.route-wishlist{overflow:hidden!important}.wishlist-topbar{position:sticky;t
 <div class="brand"><strong>鬼龍紅郎 周边图鉴</strong><small class="byline">by 狂风棉花糖　<button id="emailBtn" class="email-btn" type="button" aria-label="查看联系邮箱">✉</button></small></div><div></div>
 </header>
 <main>
-<section class="intro"><div><h1>鬼龍紅郎</h1><p>官图恢复工作版 · B03 50/50已扫 · 支持本地纠错导出</p></div><div class="stats"><div id="statGroups"></div><div id="statItems"></div><div id="statImages"></div></div></section>
+<section class="intro"><div><h1>鬼龍紅郎</h1></div><div class="stats"><div id="statGroups"></div><div id="statItems"></div><div id="statImages"></div></div></section>
 <div id="chips" class="chips"></div><div id="content"></div><div id="empty" class="empty">没有符合当前条件的周边。</div>
 </main>
 <div id="shade" class="shade"></div>
@@ -448,9 +448,6 @@ body.route-wishlist{overflow:hidden!important}.wishlist-topbar{position:sticky;t
 <button class="row" id="versionRow" data-open="versionView" style="display:none"><span class="lbl">版本</span><span class="val"><span id="versionVal">全部</span><span class="arr">›</span></span></button>
 <div class="sec">收藏</div>
 <button class="row wishlist-row" id="wishlistRow" type="button"><span class="lbl">♡ 心愿单</span><span class="val"><span id="wishlistCount">0</span><span class="arr">›</span></span></button>
-<div class="sec">官图恢复</div>
-<button class="row restore-row" id="restoreBatchRow" type="button"><span class="lbl">⇩ 本批官图下载</span><span class="val"><span id="restoreBatchCount">5可下 · 50已扫</span><span class="arr">›</span></span></button>
-<button class="row restore-row" id="correctionPoolRow" type="button"><span class="lbl">⚠ 本地纠错</span><span class="val"><span id="correctionPoolCount">0</span><span class="arr">›</span></span></button>
 <div class="sec">排序</div>
 <button class="row" data-open="sortView"><span class="lbl">排序方式</span><span class="val"><span id="sortVal">最新发售</span><span class="arr">›</span></span></button>
 </div>
@@ -465,22 +462,17 @@ body.route-wishlist{overflow:hidden!important}.wishlist-topbar{position:sticky;t
 </aside>
 <div id="modalShade" class="modal-shade"><div class="modal"><div class="mtop"><div><h3 id="modalTitle"></h3><p id="modalSub"></p></div><button id="modalClose" class="mclose">×</button></div><div id="variants" class="variants"></div></div></div>
 
-<div id="sourceShade" class="source-shade">
-  <section class="source-sheet" role="dialog" aria-modal="true" aria-labelledby="sourceTitle">
-    <div class="source-head"><div><h3 id="sourceTitle">来源</h3><p id="sourceSub"></p></div><button id="sourceClose" class="source-close" aria-label="关闭">×</button></div>
-    <div id="sourceBody" class="source-body"></div>
-  </section>
-</div>
-
-
 <div id="aboutShade" class="about-shade" aria-hidden="true">
   <section class="about-card" role="dialog" aria-modal="true" aria-labelledby="aboutTitle">
     <div class="about-head"><h2 id="aboutTitle">关于本站</h2><button id="aboutClose" class="about-close" type="button" aria-label="关闭">×</button></div>
     <div class="about-body">
-      <p>本图鉴收录截至2026年8月整理确认的鬼龍紅郎相关周边。</p>
-      <p>部分周边因原始图片限制，未能裁切至只保留小红单人，还请见谅。</p>
-      <p>由于全部内容由本人一人整理，难免会有遗漏或错误。如果发现尚未收录的周边或资料有误，欢迎通过下方邮箱告诉我，我会继续补充。</p>
-      <p class="support-line">请多多支持鬼龍紅郎(&gt; &lt;๑`)</p>
+      <p>本图鉴收录截至2026年8月已整理确认的鬼龍紅郎相关周边资料。</p>
+      <p>受现有原图的清晰度、构图或实物叠放等条件限制，部分图片暂时无法在不损失主体内容的前提下裁切为仅保留小红单人的版本，因此会保留部分原始画面，还请见谅。</p>
+      <p>图鉴中的图片主要整理自官方公开资料、商品页面及相关公开档案。对于部分发行时间较早、官方原图已难以取得的周边，也会参考公开流通或交易页面中能够明确辨认商品的实物图片。若后续取得更清晰、来源更稳定的官方图片，会优先进行替换。</p>
+      <p>本站内容均由本人独立整理与维护。由于周边数量较多、资料来源分散，难免存在疏漏，相关内容也会持续补充与修正。若发现尚未收录的周边，或现有资料存在错误，欢迎通过下方邮箱联系我。感谢你提供的每一条可供核验的线索，我会在核对后进行补充或修正。</p>
+      <p>为便于核对，来信时建议尽量附上：周边图片、商品或系列名称、大致发售时间，以及来源链接或出处（如有）。</p>
+      <p>希望这份图鉴也能给同样喜欢小红的人带来一点方便。</p>
+      <p class="support-line">最后，请多多支持鬼龍紅郎(&gt; &lt;๑`)。</p>
       <div class="email-box"><span>联系邮箱</span><strong id="contactEmail">543147970@qq.com</strong><button id="copyEmail" type="button">复制邮箱</button></div>
     </div>
   </section>
@@ -501,42 +493,6 @@ body.route-wishlist{overflow:hidden!important}.wishlist-topbar{position:sticky;t
   </div>
 </section>
 
-<section id="restorePage" class="restore-page" aria-hidden="true">
-  <header class="restore-topbar">
-    <button id="restoreBack" class="restore-back" type="button" aria-label="返回周边列表">‹</button>
-    <div class="restore-title"><strong>本批官图下载 · B03</strong><small>每轮固定50项；由D检索、核图、绑定编号</small></div>
-    <div id="restoreTopCount" class="restore-count">5可下 · 50已扫</div>
-  </header>
-  <div class="restore-body">
-    <div class="restore-note"><strong>B03扫描结算：50/50。</strong> 当前5项已有可下载官图；其余45项已全部分流：3项官页定位待原图、42项官方系列确认待精确页。系列锚点不会冒充精确版本页，全部进入尾池，不拖住B04。你不需要搜索，也不需要改名：有图的卡片直接下载；觉得哪张不对就点“⚠ 纠错”，整批看完再一键导出纠错单。</div>
-    <div id="restoreGrid" class="restore-grid"></div>
-    <section id="correctionSection" class="correction-section">
-      <div class="correction-head"><div><h2>⚠ 本批纠错池</h2><p>你觉得哪张不对就先丢这里；记录只存在当前浏览器，不会自动回写网站。</p></div><span id="correctionSectionCount" class="correction-count">0</span></div>
-      <div class="correction-tools">
-        <button id="exportCorrections" class="correction-tool" type="button" disabled>⬇ 导出纠错单</button>
-        <button id="importCorrectionsBtn" class="correction-tool" type="button">⬆ 导入纠错单</button>
-        <input id="importCorrectionsInput" type="file" accept="application/json,.json" hidden>
-      </div>
-      <div id="correctionImportNote" class="correction-import-note"></div>
-      <div id="correctionEmpty" class="correction-empty">本批还没有纠错项。</div>
-      <div id="correctionList" class="correction-list"></div>
-    </section>
-  </div>
-</section>
-<div id="correctionReasonShade" class="correction-shade" aria-hidden="true">
-  <section class="correction-picker" role="dialog" aria-modal="true" aria-labelledby="correctionPickerTitle">
-    <div class="correction-picker-head"><div><strong id="correctionPickerTitle">加入纠错池</strong><small id="correctionPickerSub"></small></div><button id="correctionPickerClose" class="correction-picker-close" type="button" aria-label="关闭">×</button></div>
-    <div class="correction-reasons">
-      <button class="correction-reason" type="button" data-reason="人物不对">人物不对</button>
-      <button class="correction-reason" type="button" data-reason="商品不对">商品不对</button>
-      <button class="correction-reason" type="button" data-reason="不像官图">不像官图</button>
-      <button class="correction-reason" type="button" data-reason="图片太糊">图片太糊</button>
-      <button class="correction-reason" type="button" data-reason="裁切不对">裁切不对</button>
-      <button class="correction-reason" type="button" data-reason="合集/阵容有问题">合集/阵容有问题</button>
-      <button class="correction-reason" type="button" data-reason="其他">其他</button>
-    </div>
-  </section>
-</div>
 <section id="detailPage" class="product-page" aria-hidden="true">
   <header class="product-topbar">
     <button id="detailBack" class="product-back" type="button" aria-label="返回周边列表">‹</button>
@@ -562,15 +518,6 @@ body.route-wishlist{overflow:hidden!important}.wishlist-topbar{position:sticky;t
     <section class="product-info-section">
       <h2>商品信息</h2>
       <div id="merchInfo" class="product-info-grid"></div>
-    </section>
-    <section class="product-info-section source-section" data-internal="qa-source">
-      <h2>图片与核验来源</h2>
-      <div id="sourceInfo" class="product-info-grid"></div>
-      <a id="sourceProof" class="product-proof" href="#" target="_blank" rel="noopener">查看核验来源 ↗</a>
-    </section>
-    <section id="noteSection" class="product-info-section note-section" data-internal="qa-note">
-      <h2>整理备注</h2>
-      <p id="productNote"></p>
     </section>
     <div class="product-bottom-space"></div>
   </div>
@@ -898,19 +845,10 @@ function showItem(id){
     detailPair('参考定价（JPY）',i.price!==null&&i.price!==''?`${i.price}円`:'未记录'),
     detailPair('规格',i.spec||'未记录'), detailPair('工艺',i.finish),
     detailPair('签名',i.signature&&i.signature!=='未标注'?(i.signature+(i.signatureColor?' · '+i.signatureColor:'')):'无/未标注'),
-    detailPair('厂商 / 渠道',i.maker||'未记录'), detailPair('地区 / 来源',i.origin||'未记录'),
+    detailPair('厂商 / 渠道',i.maker||'未记录'), detailPair('地区',i.origin||'未记录'),
     detailPair('发售状态',i.releaseStatus||'未记录')
   ].join('');
   byId('merchInfo').innerHTML=merch;
-  const source=[
-    detailPair('周边 ID',i.id), detailPair('图片状态',i.imageStatus||'未记录'),
-    detailPair('图片来源',i.imageSource||'未记录'), detailPair('图片类型',i.imageType),
-    detailPair('图片尺寸',i.imagePixels), detailPair('核验状态',i.verify||'未记录'),
-    detailPair('来源分类',i.sourceCategory), detailPair('原整理 ID',i.originalId)
-  ].join('');
-  byId('sourceInfo').innerHTML=source;
-  const proof=byId('sourceProof'); if(i.sourceUrl){proof.href=i.sourceUrl;proof.style.display='inline-flex'}else{proof.style.display='none'}
-  const note=(i.note||'').trim(); byId('noteSection').style.display=note?'block':'none'; byId('productNote').textContent=note;
   updateWishButtons(id);
   byId('wishlistBtn').onclick=()=>toggleWish(id); byId('topWish').onclick=()=>toggleWish(id);
   const openViewer=()=>{const img=byId('productImage');if(!img||!img.src)return;byId('viewerImg').src=img.src;byId('imageViewer').classList.add('open');byId('imageViewer').setAttribute('aria-hidden','false')};
@@ -936,129 +874,5 @@ byId('imageViewer').onclick=e=>{if(e.target===byId('imageViewer'))byId('viewerCl
 window.addEventListener('popstate',syncDetailHistory);
 
 refreshVersion();updateLabels();render();updateWishlistCount();syncWishlistHistory();
-</script>
-
-
-<script id="c1313-restore-batch-js">
-const RESTORE_BATCH=[{"id":"KR-MER-0197","cn":"Clear Card Collection Gum 4 SP26","name":"SP26[スペシャルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム4」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0201","cn":"Clear Card Gum 11 BOX购买特典","name":"BOX23[プロモーションカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム11」初回限定BOX購入特典","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0491","cn":"Clear Card 初代 No.26 / Normal","name":"No.26[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0492","cn":"Clear Card 初代 No.57 / Normal","name":"No.57[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0493","cn":"Clear Card Vol.2 No.88 / Normal","name":"No.88[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム2」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0494","cn":"Clear Card Vol.2 No.119 / Normal","name":"No.119[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム2」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0495","cn":"Clear Card Vol.3 No.151 / Normal","name":"No.151[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム3」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0496","cn":"Clear Card Vol.3 No.184 / Normal","name":"No.184[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム3」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0497","cn":"Clear Card Vol.3 SP18 / Special","name":"SP18[スペシャルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム3」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0498","cn":"Clear Card Vol.4 No.217 / Normal","name":"No.217[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム4」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0499","cn":"Clear Card Vol.4 No.250 / Normal","name":"No.250[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム4」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0500","cn":"Clear Card Vol.5 No.285 / Normal","name":"No.285[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム5」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0501","cn":"Clear Card Vol.5 No.321 / Normal","name":"No.321[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム5」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0502","cn":"Clear Card Vol.6 No.357 / Normal","name":"No.357[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム6」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0503","cn":"Clear Card Vol.7 No.394 / Normal","name":"No.394[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム7」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0504","cn":"Clear Card Vol.7 SP72 / Special","name":"SP72[スペシャルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム7」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0505","cn":"Clear Card Vol.8 No.431 / Normal","name":"No.431[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム8」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0506","cn":"Clear Card Vol.9 No.472 / Normal","name":"No.472[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム9」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0507","cn":"Clear Card Vol.10 No.513 / Normal","name":"No.513[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム10」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0508","cn":"Clear Card Vol.10 SP114 / Special","name":"SP114[スペシャルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム10」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0509","cn":"Clear Card Vol.11 No.554 / Normal","name":"No.554[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム11」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0510","cn":"Clear Card Vol.12 No.591 / Normal","name":"No.591[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ! クリアカードコレクションガム12」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0511","cn":"Clear Card !! 初代 No.039 / Normal","name":"No.039[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ!! クリアカードコレクションガム」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0512","cn":"Clear Card !! Vol.2 No.091 / Normal","name":"No.091[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ!! クリアカードコレクションガム2」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"Ensky Shop官方｜!! クリアカードコレクションガム2完整阵容样品图已回收；本地化阶段再按编号定位鬼龍紅郎。","preview":"https://www.enskyshop.com/html/upload/save_image/0509164006_6459f8d6600f5.jpg","download":"https://www.enskyshop.com/html/upload/save_image/0509164006_6459f8d6600f5.jpg","filename":"KR-MER-0512.jpg","scanClass":"可下载官图"},{"id":"KR-MER-0513","cn":"Clear Card !! Vol.2 SP.33 / Special","name":"SP.33[スペシャルカード]：鬼龍紅郎 「あんさんぶるスターズ!! クリアカードコレクションガム2」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"Ensky Shop官方｜!! クリアカードコレクションガム2完整阵容样品图已回收；本地化阶段再按编号定位鬼龍紅郎。","preview":"https://www.enskyshop.com/html/upload/save_image/0509164006_6459f8d6600f5.jpg","download":"https://www.enskyshop.com/html/upload/save_image/0509164006_6459f8d6600f5.jpg","filename":"KR-MER-0513.jpg","scanClass":"可下载官图"},{"id":"KR-MER-0514","cn":"Clear Card !! Vol.3 No.140 / Normal","name":"No.140[ノーマルカード]：鬼龍紅郎 「あんさんぶるスターズ!! クリアカードコレクションガム3」","group":"Ensky 官方商品线 · クリアカードコレクションガム","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0015","cn":"视觉色纸 Collection 12","name":"鬼龍紅郎 「あんさんぶるスターズ! ビジュアル色紙コレクション12」","group":"Ensky 官方商品线 · ビジュアル色紙コレクション","status":"Ensky官方NEWS｜ビジュアル色紙コレクション12阵容官图已回收；图内官方阵容含鬼龍紅郎。","preview":"https://news.ensky.co.jp/wp-content/uploads/2022/10/ansta_shikishi12.jpg","download":"https://news.ensky.co.jp/wp-content/uploads/2022/10/ansta_shikishi12.jpg","filename":"KR-MER-0015.jpg","scanClass":"可下载官图"},{"id":"KR-MER-0022","cn":"视觉色纸 Collection 20","name":"鬼龍紅郎 「あんさんぶるスターズ! ビジュアル色紙コレクション20」","group":"Ensky 官方商品线 · ビジュアル色紙コレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0193","cn":"视觉色纸 Collection 1","name":"鬼龍紅郎 「あんさんぶるスターズ! ビジュアル色紙コレクション」","group":"Ensky 官方商品线 · ビジュアル色紙コレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0196","cn":"视觉色纸 Collection 3","name":"鬼龍紅郎 「あんさんぶるスターズ! ビジュアル色紙コレクション3」","group":"Ensky 官方商品线 · ビジュアル色紙コレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0198","cn":"视觉色纸 Collection 8","name":"鬼龍紅郎 「あんさんぶるスターズ! ビジュアル色紙コレクション8」","group":"Ensky 官方商品线 · ビジュアル色紙コレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0205","cn":"!!视觉色纸 Collection 2","name":"鬼龍紅郎 「あんさんぶるスターズ!! ビジュアル色紙コレクション2」","group":"Ensky 官方商品线 · ビジュアル色紙コレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0214","cn":"!!视觉色纸 Collection 8","name":"鬼龍紅郎 「あんさんぶるスターズ!! ビジュアル色紙コレクション8」","group":"Ensky 官方商品线 · ビジュアル色紙コレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0617","cn":"视觉色纸 Collection 5","name":"鬼龍紅郎 「あんさんぶるスターズ! ビジュアル色紙コレクション5」","group":"Ensky 官方商品线 · ビジュアル色紙コレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0636","cn":"视觉色纸 Collection 15","name":"鬼龍紅郎 「あんさんぶるスターズ! ビジュアル色紙コレクション15」","group":"Ensky 官方商品线 · ビジュアル色紙コレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0018","cn":"生写 Collection 4","name":"鬼龍紅郎 「あんさんぶるスターズ! 生ブロマイドコレクション4」","group":"Ensky 官方商品线 · 生ブロマイドコレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0020","cn":"生写 Collection 5","name":"鬼龍紅郎 「あんさんぶるスターズ! 生ブロマイドコレクション5」","group":"Ensky 官方商品线 · 生ブロマイドコレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0199","cn":"生写 Collection 3","name":"鬼龍紅郎 「あんさんぶるスターズ! 生ブロマイドコレクション3」","group":"Ensky 官方商品线 · 生ブロマイドコレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0528","cn":"生ブロマイド Collection 初代","name":"鬼龍紅郎 「あんさんぶるスターズ! 生ブロマイドコレクション」","group":"Ensky 官方商品线 · 生ブロマイドコレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0529","cn":"生ブロマイド Collection 2","name":"鬼龍紅郎 「あんさんぶるスターズ! 生ブロマイドコレクション2」","group":"Ensky 官方商品线 · 生ブロマイドコレクション","status":"Ensky官方NEWS｜生ブロマイドコレクション2官方商品图已回收；本地化阶段再定位鬼龍紅郎。","preview":"https://news.ensky.co.jp/wp-content/uploads/2022/10/agf2016-namabro-enst.jpg","download":"https://news.ensky.co.jp/wp-content/uploads/2022/10/agf2016-namabro-enst.jpg","filename":"KR-MER-0529.jpg","scanClass":"可下载官图"},{"id":"KR-MER-0530","cn":"生ブロマイド Collection 6","name":"鬼龍紅郎 「あんさんぶるスターズ! 生ブロマイドコレクション6」","group":"Ensky 官方商品线 · 生ブロマイドコレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0531","cn":"生ブロマイド Collection 7","name":"鬼龍紅郎 「あんさんぶるスターズ! 生ブロマイドコレクション7」","group":"Ensky 官方商品线 · 生ブロマイドコレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0532","cn":"生ブロマイド Collection 8","name":"鬼龍紅郎 「あんさんぶるスターズ! 生ブロマイドコレクション8」","group":"Ensky 官方商品线 · 生ブロマイドコレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0151","cn":"Long Can Badge Collection 6","name":"鬼龍紅郎 「あんさんぶるスターズ! ロングカンバッジコレクション6」","group":"Ensky 官方商品线 · ロングカンバッジコレクション","status":"Ensky官方NEWS｜ロングカンバッジコレクション第6弾官方阵容图已回收；本地化阶段再定位鬼龍紅郎。","preview":"https://news.ensky.co.jp/wp-content/uploads/2022/10/ensemble-stars-6.png","download":"https://news.ensky.co.jp/wp-content/uploads/2022/10/ensemble-stars-6.png","filename":"KR-MER-0151.png","scanClass":"可下载官图"},{"id":"KR-MER-0154","cn":"Long Can Badge Collection 8","name":"鬼龍紅郎 「あんさんぶるスターズ! ロングカンバッジコレクション8」","group":"Ensky 官方商品线 · ロングカンバッジコレクション","status":"本轮已扫｜Ensky官方NEWS精确命中ロングカンバッジコレクション第8弾；目标官图像素尚未稳定回收，先进入尾池。","preview":"","download":"","filename":"","scanClass":"官页定位待原图"},{"id":"KR-MER-0845","cn":"Long Can Badge Collection 9 Kuro","name":"鬼龍紅郎 「あんさんぶるスターズ! ロングカンバッジコレクション9」","group":"Ensky 官方商品线 · ロングカンバッジコレクション","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0329","cn":"柔软透明大挂件 Collections 3","name":"鬼龍紅郎 「あんさんぶるスターズ! やわらかクリアストラップL コレクションズ3＜B＞」","group":"Ensky 官方商品线 · やわらかクリアストラップLコレクションズ","status":"本轮已扫｜Ensky官方NEWS精确命中やわらかクリアストラップL コレクションズ3；B组目标原图待回收，先进入尾池。","preview":"","download":"","filename":"","scanClass":"官页定位待原图"},{"id":"KR-MER-0839","cn":"Soft Clear Strap L Collections 2 Third Years","name":"鬼龍紅郎 「あんさんぶるスターズ! やわらかクリアストラップLコレクションズ2：3年生!」","group":"Ensky 官方商品线 · やわらかクリアストラップLコレクションズ","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0840","cn":"Soft Clear Strap L Collections Third Years Initial","name":"鬼龍紅郎 「あんさんぶるスターズ! やわらかクリアストラップLコレクションズ/3年生!」","group":"Ensky 官方商品线 · やわらかクリアストラップLコレクションズ","status":"本轮已扫｜Ensky官方站可确认该商品线存在，但未锁定这条母表记录对应的精确版本官页/官图；进入官源尾池。","preview":"","download":"","filename":"","scanClass":"官方系列确认待精确页"},{"id":"KR-MER-0296","cn":"Big小馒头抱枕 vol.5","name":"鬼龍紅郎 ビッグおまんじゅうクッションvol.5 「あんさんぶるスターズ!」","group":"Ensky 官方商品线 · ビッグおまんじゅうクッション vol.5","status":"本轮已扫｜Ensky官方NEWS精确命中ビッグおまんじゅうクッションvol.5，阵容明确含鬼龍紅郎；目标原图像素待回收。","preview":"","download":"","filename":"","scanClass":"官页定位待原图"}];
-const RESTORE_BATCH_ID='B03';
-const CORRECTION_KEY='kuro_restore_corrections_v1';
-let correctionPickId='';
-function loadCorrectionPool(){
-  try{
-    const raw=JSON.parse(localStorage.getItem(CORRECTION_KEY)||'[]');
-    return Array.isArray(raw)?raw:[];
-  }catch(e){return []}
-}
-function saveCorrectionPool(rows){
-  try{localStorage.setItem(CORRECTION_KEY,JSON.stringify(rows));return true}catch(e){return false}
-}
-function correctionFor(id){return loadCorrectionPool().find(x=>x.id===id&&x.batch===RESTORE_BATCH_ID)}
-function currentCorrections(){return loadCorrectionPool().filter(x=>x.batch===RESTORE_BATCH_ID)}
-function showCorrectionNote(msg){
-  const n=document.getElementById('correctionImportNote'); if(!n)return;
-  n.textContent=msg;n.classList.add('show');setTimeout(()=>n.classList.remove('show'),3200);
-}
-function openCorrectionPicker(id){
-  const x=RESTORE_BATCH.find(v=>v.id===id); if(!x)return;
-  correctionPickId=id;
-  document.getElementById('correctionPickerSub').textContent=`${id} · ${x.cn||x.name||''}`;
-  const sh=document.getElementById('correctionReasonShade');sh.classList.add('open');sh.setAttribute('aria-hidden','false');
-}
-function closeCorrectionPicker(){
-  correctionPickId='';const sh=document.getElementById('correctionReasonShade');sh.classList.remove('open');sh.setAttribute('aria-hidden','true');
-}
-function addCorrection(reason){
-  const id=correctionPickId;const x=RESTORE_BATCH.find(v=>v.id===id); if(!x)return;
-  let rows=loadCorrectionPool().filter(v=>!(v.id===id&&v.batch===RESTORE_BATCH_ID));
-  rows.push({schema:1,batch:RESTORE_BATCH_ID,id:x.id,cn:x.cn||'',name:x.name||'',reason:String(reason||'其他'),preview:x.preview||'',download:x.download||'',filename:x.filename||'',addedAt:new Date().toISOString()});
-  saveCorrectionPool(rows);closeCorrectionPicker();renderRestoreBatch();renderCorrectionPool();
-}
-function removeCorrection(id){
-  const rows=loadCorrectionPool().filter(v=>!(v.id===id&&v.batch===RESTORE_BATCH_ID));saveCorrectionPool(rows);renderRestoreBatch();renderCorrectionPool();
-}
-function renderCorrectionPool(){
-  const rows=currentCorrections();
-  const count=rows.length;
-  const side=document.getElementById('correctionPoolCount');if(side)side.textContent=String(count);
-  const sec=document.getElementById('correctionSectionCount');if(sec)sec.textContent=String(count);
-  const btn=document.getElementById('exportCorrections');if(btn)btn.disabled=!count;
-  const empty=document.getElementById('correctionEmpty');if(empty)empty.style.display=count?'none':'block';
-  const list=document.getElementById('correctionList');if(!list)return;
-  list.innerHTML=rows.map(x=>{
-    const item=RESTORE_BATCH.find(v=>v.id===x.id)||x;
-    const thumb=(x.preview||item.preview)?`<img src="${esc(x.preview||item.preview)}" alt="${esc(x.id)}" loading="lazy">`:`<span>${esc(x.id)}</span>`;
-    return `<article class="correction-item"><div class="correction-item-top"><div class="correction-mini">${thumb}</div><div><div class="cid">${esc(x.id)}</div><div class="cname">${esc(x.cn||item.cn||x.name||item.name||'')}</div><div class="creason">⚠ ${esc(x.reason||'其他')}</div></div></div><button class="correction-remove" type="button" onclick="removeCorrection('${esc(x.id)}')">↩ 移出纠错池</button></article>`;
-  }).join('');
-}
-function exportCorrections(){
-  const rows=currentCorrections();if(!rows.length)return;
-  const payload={schema:'kuro-restore-corrections-v1',batch:RESTORE_BATCH_ID,exportedAt:new Date().toISOString(),count:rows.length,corrections:rows};
-  const blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json;charset=utf-8'});
-  const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=`${RESTORE_BATCH_ID}_纠错单_${rows.length}项.json`;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),3000);
-}
-async function importCorrectionsFile(file){
-  if(!file)return;
-  try{
-    const text=await file.text();const obj=JSON.parse(text);const incoming=Array.isArray(obj)?obj:(Array.isArray(obj.corrections)?obj.corrections:[]);
-    if(!incoming.length)throw new Error('文件里没有纠错记录');
-    let rows=loadCorrectionPool();let added=0;
-    for(const r of incoming){
-      if(!r||!r.id)continue;const batch=r.batch||obj.batch||RESTORE_BATCH_ID;
-      rows=rows.filter(v=>!(v.id===r.id&&v.batch===batch));
-      rows.push({...r,batch,id:String(r.id),reason:String(r.reason||'其他')});added++;
-    }
-    saveCorrectionPool(rows);renderRestoreBatch();renderCorrectionPool();showCorrectionNote(`已导入 ${added} 条纠错记录。`);
-  }catch(e){showCorrectionNote(`导入失败：${e.message||e}`)}
-}
-async function downloadRestoreItem(id){
- const x=RESTORE_BATCH.find(v=>v.id===id); if(!x||!x.download)return;
- if(correctionFor(id)){showCorrectionNote(`${id} 已在纠错池，先暂缓下载。`);return}
- try{
-   const r=await fetch(x.download,{mode:'cors',cache:'no-store'});
-   if(!r.ok) throw new Error('HTTP '+r.status);
-   const b=await r.blob();
-   const url=URL.createObjectURL(b); const a=document.createElement('a');
-   a.href=url; a.download=x.filename||(`${x.id}.jpg`); document.body.appendChild(a); a.click(); a.remove();
-   setTimeout(()=>URL.revokeObjectURL(url),3000);
- }catch(e){
-   window.open(x.download,'_blank','noopener');
- }
-}
-function renderRestoreBatch(){
- const grid=document.getElementById('restoreGrid'); if(!grid)return;
- const ready=RESTORE_BATCH.filter(x=>x.download).length;
- document.getElementById('restoreBatchCount').textContent=`${ready}可下 · ${RESTORE_BATCH.length}已扫`;
- document.getElementById('restoreTopCount').textContent=`${ready}可下 · ${RESTORE_BATCH.length}已扫`;
- grid.innerHTML=RESTORE_BATCH.map(x=>{
-   const flagged=!!correctionFor(x.id);
-   const thumb=x.preview?`<img src="${esc(x.preview)}" alt="${esc(x.id)}" loading="lazy">`:`<span>${esc(x.id)}<br>${esc(x.scanClass||'本轮已扫')}</span>`;
-   let actions='';
-   if(x.download){
-     if(flagged){
-       actions=`<div class="restore-badge">⚠ 已加入纠错</div><div class="restore-actions"><span class="restore-download disabled">暂缓下载</span><button class="restore-correct active" type="button" onclick="removeCorrection('${esc(x.id)}')">↩ 移出纠错</button></div>`;
-     }else{
-       actions=`<div class="restore-actions"><button class="restore-download" type="button" onclick="downloadRestoreItem('${esc(x.id)}')">下载 ${esc(x.id)}</button><button class="restore-correct" type="button" onclick="openCorrectionPicker('${esc(x.id)}')">⚠ 纠错</button></div>`;
-     }
-   }else{
-     actions=`<span class="restore-download disabled">${esc(x.scanClass||'本轮已扫')}</span>`;
-   }
-   return `<article class="restore-card${flagged?' is-correction':''}"><div class="restore-thumb">${thumb}</div><div class="restore-info"><div class="restore-id">${esc(x.id)}</div><div class="restore-name">${esc(x.cn||x.name)}</div><div class="restore-status">${esc(x.status||'')}</div>${actions}</div></article>`;
- }).join('');
- renderCorrectionPool();
-}
-function openRestoreBatch(){closeDrawer();document.getElementById('restorePage').classList.add('open');document.getElementById('restorePage').setAttribute('aria-hidden','false');document.body.classList.add('route-restore');document.getElementById('restorePage').scrollTop=0;renderRestoreBatch()}
-function closeRestoreBatch(){document.getElementById('restorePage').classList.remove('open');document.getElementById('restorePage').setAttribute('aria-hidden','true');document.body.classList.remove('route-restore')}
-function openCorrectionSection(){openRestoreBatch();setTimeout(()=>document.getElementById('correctionSection').scrollIntoView({behavior:'smooth',block:'start'}),80)}
-document.getElementById('restoreBatchRow').onclick=openRestoreBatch;
-document.getElementById('correctionPoolRow').onclick=openCorrectionSection;
-document.getElementById('restoreBack').onclick=closeRestoreBatch;
-document.getElementById('correctionPickerClose').onclick=closeCorrectionPicker;
-document.getElementById('correctionReasonShade').addEventListener('click',e=>{if(e.target.id==='correctionReasonShade')closeCorrectionPicker()});
-document.querySelectorAll('.correction-reason').forEach(b=>b.onclick=()=>addCorrection(b.dataset.reason));
-document.getElementById('exportCorrections').onclick=exportCorrections;
-document.getElementById('importCorrectionsBtn').onclick=()=>document.getElementById('importCorrectionsInput').click();
-document.getElementById('importCorrectionsInput').addEventListener('change',e=>{importCorrectionsFile(e.target.files&&e.target.files[0]);e.target.value=''});
-renderRestoreBatch();
 </script>
 </body></html>
