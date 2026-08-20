@@ -1,0 +1,58 @@
+{
+  "version": "C13.38",
+  "generatedAt": "2026-08-20",
+  "active": 1283,
+  "localizedRecords": 1273,
+  "missingRecords": 10,
+  "uniqueAssetFiles": 1268,
+  "zipLocalizedRecords": [
+    "KR-MER-0880",
+    "KR-MER-0993",
+    "KR-MER-1024",
+    "KR-MER-1138",
+    "KR-MER-1179",
+    "KR-MER-1183",
+    "KR-MER-1203",
+    "KR-MER-1210",
+    "KR-MER-1211",
+    "KR-MER-1228",
+    "KR-MER-1229",
+    "KR-MER-1255",
+    "KR-MER-1257",
+    "KR-MER-1258",
+    "KR-MER-1270",
+    "KR-MER-1277",
+    "KR-MER-1292",
+    "KR-MER-1370",
+    "KR-MER-1371",
+    "KR-MER-1372",
+    "KR-MER-1373",
+    "KR-MER-1374"
+  ],
+  "failedExternalIds": [
+    "KR-MER-0203",
+    "KR-MER-0488",
+    "KR-MER-0899",
+    "KR-MER-0997",
+    "KR-MER-1141"
+  ],
+  "remainingMissingIds": [
+    "KR-MER-0203",
+    "KR-MER-0333",
+    "KR-MER-0488",
+    "KR-MER-0637",
+    "KR-MER-0669",
+    "KR-MER-0899",
+    "KR-MER-0997",
+    "KR-MER-1009",
+    "KR-MER-1038",
+    "KR-MER-1141"
+  ],
+  "correctedImage": {
+    "id": "KR-MER-1024",
+    "oldImage": "KR-MER-1024.jpg",
+    "newImage": "KR-MER-1024.avif"
+  },
+  "skippedDuplicateFile": "5uperlove.avif",
+  "noGeneratedImages": true
+}

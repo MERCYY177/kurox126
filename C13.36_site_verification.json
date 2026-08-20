@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-08-20",
+  "itemsJsSyntax": "passed",
+  "activeCount": 1288,
+  "uniqueIds": true,
+  "missingLocalImageFiles": 0,
+  "httpSmokeTest": {
+    "index": 200,
+    "itemsJs": 200,
+    "sampleNewImage": 200
+  },
+  "searchRegression": {
+    "熊努包": 1,
+    "抱抱熊围巾": 1,
+    "抱抱熊痛包": 1,
+    "A咖背带裤Q版杯垫": 1,
+    "Sparkle Vol.7": 1,
+    "流光透卡": 2,
+    "10周年纪念卡片": 16,
+    "爱丽丝贴纸": 1
+  }
+}

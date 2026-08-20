@@ -1,19 +1,11 @@
 {
-  "version": "C13.34",
-  "activeCount": 1076,
-  "localImageRecordCount": 1050,
-  "noImageRecordCount": 26,
-  "uniqueAssetFileCount": 1072,
+  "version": "C13.38",
+  "generatedAt": "2026-08-20",
+  "activeCount": 1283,
+  "localImageRecordCount": 1273,
+  "noImageRecordCount": 10,
+  "uniqueAssetFileCount": 1268,
   "assets": [
-    {
-      "assetPath": "assets/images/0783_animate_official_B25.jpg",
-      "sha256": "3bfefa1d9f226037775e500c4e02e9e8aa2701adea4506ff749ea3e1b5e1d80e",
-      "sizeBytes": 276963,
-      "width": 600,
-      "height": 600,
-      "format": "JPEG",
-      "recordIds": []
-    },
     {
       "assetPath": "assets/images/KR-MER-0001.webp",
       "sha256": "6e5deb6439e180d0687f86ca0053f397b720ab363a018325217ebfdf5ccdac53",
@@ -356,15 +348,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0031_back.webp",
-      "sha256": "6d226c3ece7f3f7f1077cef63abbef018919440b936c2b9778e6a47ffe2aa1b8",
-      "sizeBytes": 16596,
-      "width": 359,
-      "height": 512,
-      "format": "WEBP",
-      "recordIds": []
-    },
-    {
       "assetPath": "assets/images/KR-MER-0032.webp",
       "sha256": "aa61aae2fe9d6977a5339aa6fcf38527d25874f3103e991f879fa0a3275d4aea",
       "sizeBytes": 11006,
@@ -471,8 +454,7 @@
       "height": 512,
       "format": "WEBP",
       "recordIds": [
-        "KR-MER-0041",
-        "KR-MER-0732"
+        "KR-MER-0041"
       ]
     },
     {
@@ -725,8 +707,7 @@
       "height": 1600,
       "format": "WEBP",
       "recordIds": [
-        "KR-MER-0064",
-        "KR-MER-0747"
+        "KR-MER-0064"
       ]
     },
     {
@@ -1621,15 +1602,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0147_source.webp",
-      "sha256": "9ffa3d31e318ccd4640c574d79385589ce27477342c9fcfd5cb546c32f03b494",
-      "sizeBytes": 254806,
-      "width": 1660,
-      "height": 1350,
-      "format": "WEBP",
-      "recordIds": []
-    },
-    {
       "assetPath": "assets/images/KR-MER-0148.webp",
       "sha256": "e1d6665f843740d18107e47e3fabbd8f68f05df9ceb0cc28fe348342acff3e8d",
       "sizeBytes": 69378,
@@ -2433,24 +2405,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0222.webp",
-      "sha256": "2991ca493afeb6781ab33bde29c6f5dc148830e10f08a95d06673233715fb11a",
-      "sizeBytes": 195564,
-      "width": 727,
-      "height": 1024,
-      "format": "WEBP",
-      "recordIds": []
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0222_source.jpg",
-      "sha256": "4c04e427fd84d4a4f8b2cb0421d00ec86d34c473d31e3ce0d9878dee359f045a",
-      "sizeBytes": 120907,
-      "width": 600,
-      "height": 600,
-      "format": "JPEG",
-      "recordIds": []
-    },
-    {
       "assetPath": "assets/images/KR-MER-0223.webp",
       "sha256": "97340ff11e8f087638f9d91f91d2111e10ee3190d7f3b5dcdb84bdfdd0087ad2",
       "sizeBytes": 60328,
@@ -2612,8 +2566,7 @@
       "height": 512,
       "format": "WEBP",
       "recordIds": [
-        "KR-MER-0237",
-        "KR-MER-0775"
+        "KR-MER-0237"
       ]
     },
     {
@@ -2932,8 +2885,7 @@
       "height": 512,
       "format": "WEBP",
       "recordIds": [
-        "KR-MER-0266",
-        "KR-MER-0743"
+        "KR-MER-0266"
       ]
     },
     {
@@ -3021,8 +2973,7 @@
       "height": 474,
       "format": "WEBP",
       "recordIds": [
-        "KR-MER-0274",
-        "KR-MER-0739"
+        "KR-MER-0274"
       ]
     },
     {
@@ -3235,24 +3186,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0293.webp",
-      "sha256": "533aa50c23470d6481d0af1fb8abc51526c8efc3fe5b711b9e549ac34b12894a",
-      "sizeBytes": 34612,
-      "width": 1024,
-      "height": 882,
-      "format": "WEBP",
-      "recordIds": []
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0294.jpg",
-      "sha256": "39042c270a2292cc8cb2f8818a5aa16e243d96c5d08c17f4af3fff888d75992f",
-      "sizeBytes": 32616,
-      "width": 600,
-      "height": 600,
-      "format": "JPEG",
-      "recordIds": []
-    },
-    {
       "assetPath": "assets/images/KR-MER-0294.webp",
       "sha256": "955cb02791c1fae607ed76162c9c6599de5d2a194b154c2276e0e1f90c9451aa",
       "sizeBytes": 33614,
@@ -3447,8 +3380,7 @@
       "height": 1200,
       "format": "WEBP",
       "recordIds": [
-        "KR-MER-0311",
-        "KR-MER-0752"
+        "KR-MER-0311"
       ]
     },
     {
@@ -3914,15 +3846,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0354_source.jpg",
-      "sha256": "402e917dde5b4b2e036c1da49080aff2338e14951ffc048a0d67afd3c1f0496b",
-      "sizeBytes": 591614,
-      "width": 2214,
-      "height": 2560,
-      "format": "JPEG",
-      "recordIds": []
-    },
-    {
       "assetPath": "assets/images/KR-MER-0355.webp",
       "sha256": "0ccc43520e882a04d830cf1961e42b9cad2a15177392163cebe326cb25eb892f",
       "sizeBytes": 43654,
@@ -4150,8 +4073,7 @@
       "height": 504,
       "format": "WEBP",
       "recordIds": [
-        "KR-MER-0377",
-        "KR-MER-0860"
+        "KR-MER-0377"
       ]
     },
     {
@@ -4386,15 +4308,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0398_source.jpg",
-      "sha256": "37bc4ba9c9d7ba4f12048eb8d5b86f5d6db415ac10b4c9440ff1a26e3317b54f",
-      "sizeBytes": 480768,
-      "width": 2214,
-      "height": 2560,
-      "format": "JPEG",
-      "recordIds": []
-    },
-    {
       "assetPath": "assets/images/KR-MER-0399.webp",
       "sha256": "cc79d96c47a023464d2989385bd4c623e71073389faedb95b75682fc65f42406",
       "sizeBytes": 124934,
@@ -4624,15 +4537,6 @@
       "recordIds": [
         "KR-MER-0445"
       ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0445_source.webp",
-      "sha256": "c08581ef4fc0b6eec41161f5b1780df5293ea3ccfebe4d273e15cb32d5f4d24d",
-      "sizeBytes": 313186,
-      "width": 1661,
-      "height": 1350,
-      "format": "WEBP",
-      "recordIds": []
     },
     {
       "assetPath": "assets/images/KR-MER-0446.jpg",
@@ -5075,15 +4979,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0485.webp",
-      "sha256": "86cdc191db96ba469c23a8ffe432e9a473fb7ea3bd63f2fac62401e515ac21f1",
-      "sizeBytes": 21008,
-      "width": 550,
-      "height": 472,
-      "format": "WEBP",
-      "recordIds": []
-    },
-    {
       "assetPath": "assets/images/KR-MER-0486.jpg",
       "sha256": "c815bd6d52e0e1aa1232ba3df47f9d18ff3fa17edc3d9aa792281801be675e62",
       "sizeBytes": 254522,
@@ -5093,24 +4988,6 @@
       "recordIds": [
         "KR-MER-0486"
       ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0486.webp",
-      "sha256": "2a96831d184ffeac0a36411e7e1655c8d9e995ecfbccd73260ae6c6ea330ee1d",
-      "sizeBytes": 17094,
-      "width": 245,
-      "height": 515,
-      "format": "WEBP",
-      "recordIds": []
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0487.webp",
-      "sha256": "1a9055f6bc8fbbec6aa1f868d0aa408b87a789bcc7ebc92cbd7278e39c1b3cdb",
-      "sizeBytes": 63908,
-      "width": 299,
-      "height": 238,
-      "format": "WEBP",
-      "recordIds": []
     },
     {
       "assetPath": "assets/images/KR-MER-0489.webp",
@@ -5397,24 +5274,6 @@
       "recordIds": [
         "KR-MER-0515"
       ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0515.webp",
-      "sha256": "4d6e99482823fbf9ea6992c3594faea2f87a80e4ea1aefd7b7f73cb58183635b",
-      "sizeBytes": 221034,
-      "width": 729,
-      "height": 1024,
-      "format": "WEBP",
-      "recordIds": []
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0515_source.jpg",
-      "sha256": "a7ce7bca425216ab8c29bd04366198b54e66757c25d36225eed9711c332526fe",
-      "sizeBytes": 116322,
-      "width": 600,
-      "height": 600,
-      "format": "JPEG",
-      "recordIds": []
     },
     {
       "assetPath": "assets/images/KR-MER-0516.webp",
@@ -5899,15 +5758,6 @@
       "recordIds": [
         "KR-MER-0559"
       ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0559_source.webp",
-      "sha256": "39588402ceab9f6ba12e773d575a27b3f7d05ac6170aa16d6f6febe3201d76a6",
-      "sizeBytes": 82382,
-      "width": 800,
-      "height": 800,
-      "format": "WEBP",
-      "recordIds": []
     },
     {
       "assetPath": "assets/images/KR-MER-0560.webp",
@@ -6537,6 +6387,17 @@
       ]
     },
     {
+      "assetPath": "assets/images/KR-MER-0624.png",
+      "sha256": "f8be448d4a08885e51c2db63f2aa809a4d2b271a010ae140513e5b16d893f49d",
+      "sizeBytes": 9310,
+      "width": 94,
+      "height": 127,
+      "format": "PNG",
+      "recordIds": [
+        "KR-MER-0624"
+      ]
+    },
+    {
       "assetPath": "assets/images/KR-MER-0625.webp",
       "sha256": "f46e03dbc114be6599321a3a336eaba1c58dd6aa2caef5cdba6ce06170620ea3",
       "sizeBytes": 130862,
@@ -6644,6 +6505,17 @@
       "format": "WEBP",
       "recordIds": [
         "KR-MER-0634"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-0635.jpg",
+      "sha256": "e231ea6f0c787529d8601893f2fde03ac4237abb595f5f8508c22fae71278017",
+      "sizeBytes": 51072,
+      "width": 378,
+      "height": 504,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-0635"
       ]
     },
     {
@@ -6878,6 +6750,17 @@
       ]
     },
     {
+      "assetPath": "assets/images/KR-MER-0661.webp",
+      "sha256": "665ac1e9b59412e45d25632a99b09f239844f70c5556b2d579c442b119f40d14",
+      "sizeBytes": 6184,
+      "width": 200,
+      "height": 200,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-0661"
+      ]
+    },
+    {
       "assetPath": "assets/images/KR-MER-0662.webp",
       "sha256": "08ec33675de0e2439518ed51f65f2907974745eba4b515330fd660cf6fd9d3f0",
       "sizeBytes": 52608,
@@ -7061,8 +6944,7 @@
       "height": 1024,
       "format": "WEBP",
       "recordIds": [
-        "KR-MER-0139",
-        "KR-MER-0679"
+        "KR-MER-0139"
       ]
     },
     {
@@ -7360,17 +7242,6 @@
       "format": "WEBP",
       "recordIds": [
         "KR-MER-0706"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0707.webp",
-      "sha256": "0ec43e0f14d4a30ad614ae9c755b70059e3457038dbf61e0ca1054c388824026",
-      "sizeBytes": 24234,
-      "width": 512,
-      "height": 320,
-      "format": "WEBP",
-      "recordIds": [
-        "KR-MER-0707"
       ]
     },
     {
@@ -7759,72 +7630,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0746.webp",
-      "sha256": "ee7b392a899f61ae8f3c10cdc2fc6bf4c76745bf4898775bb7bc5045d7d3761b",
-      "sizeBytes": 83228,
-      "width": 1600,
-      "height": 1600,
-      "format": "WEBP",
-      "recordIds": [
-        "KR-MER-0746"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0748.webp",
-      "sha256": "21a6012c248392b385e996a048c1122b1f0468260965da167b51021930bed8e1",
-      "sizeBytes": 117484,
-      "width": 1200,
-      "height": 1200,
-      "format": "WEBP",
-      "recordIds": [
-        "KR-MER-0748"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0749.webp",
-      "sha256": "3f2ca4372f6671a8ae09db0340f470bdde8bd32c48a760fdb21dadecf5e983ac",
-      "sizeBytes": 109392,
-      "width": 1200,
-      "height": 1200,
-      "format": "WEBP",
-      "recordIds": [
-        "KR-MER-0749"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0750.webp",
-      "sha256": "395d7563836afdf823312d10f4c6b94e21ab08614057a6026cb5611420a96f98",
-      "sizeBytes": 106558,
-      "width": 1200,
-      "height": 1200,
-      "format": "WEBP",
-      "recordIds": [
-        "KR-MER-0750"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0751.webp",
-      "sha256": "e196cf13b5a4ffd25c56364884c36d0ae1abbd060150c1f410cf71756e2c54d7",
-      "sizeBytes": 100026,
-      "width": 1200,
-      "height": 1200,
-      "format": "WEBP",
-      "recordIds": [
-        "KR-MER-0751"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0753.webp",
-      "sha256": "8d9bacb9808e994c457d8226d4c3aabaf0cca2599a1eca030adae6f6be3673be",
-      "sizeBytes": 126206,
-      "width": 1200,
-      "height": 1200,
-      "format": "WEBP",
-      "recordIds": [
-        "KR-MER-0753"
-      ]
-    },
-    {
       "assetPath": "assets/images/KR-MER-0754.webp",
       "sha256": "b33a60707d870055ba295a176a1d45f378739701454e297aac67ccd2b2ccfc14",
       "sizeBytes": 31676,
@@ -7902,17 +7707,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0761.jpg",
-      "sha256": "dd4fd8d958c2acb73039fe6bb9795b0fc34ceb843e59dd3bd71f3fb54d25ea45",
-      "sizeBytes": 417618,
-      "width": 975,
-      "height": 754,
-      "format": "JPEG",
-      "recordIds": [
-        "KR-MER-0761"
-      ]
-    },
-    {
       "assetPath": "assets/images/KR-MER-0762.webp",
       "sha256": "62a660fb23a113015ee0a507736d2b62ebb39acc6a97832d229f858f543bcce9",
       "sizeBytes": 44096,
@@ -7921,17 +7715,6 @@
       "format": "WEBP",
       "recordIds": [
         "KR-MER-0762"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0763.png",
-      "sha256": "bab5e921a3a07cd63f7073f80ab351a767175fae102d9e2922fb5829bf3625d7",
-      "sizeBytes": 382995,
-      "width": 800,
-      "height": 800,
-      "format": "PNG",
-      "recordIds": [
-        "KR-MER-0763"
       ]
     },
     {
@@ -7968,17 +7751,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0768.jpg",
-      "sha256": "7dd1c215207f23bae7814690d17150c5800e5090d82c70516fac272a67f5473f",
-      "sizeBytes": 91345,
-      "width": 560,
-      "height": 560,
-      "format": "JPEG",
-      "recordIds": [
-        "KR-MER-0768"
-      ]
-    },
-    {
       "assetPath": "assets/images/KR-MER-0769.webp",
       "sha256": "c9ceb2ad6ad91a0df65671bacc12c3c394644d214b3a1f20442cd2d783961082",
       "sizeBytes": 57104,
@@ -8009,17 +7781,6 @@
       "format": "JPEG",
       "recordIds": [
         "KR-MER-0771"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0772.jpg",
-      "sha256": "728e6ce068b5b159ed5d68382f78e8c18b053f1832444ae30f3da3a505fb7c6d",
-      "sizeBytes": 98960,
-      "width": 600,
-      "height": 600,
-      "format": "JPEG",
-      "recordIds": [
-        "KR-MER-0772"
       ]
     },
     {
@@ -8100,17 +7861,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0781.png",
-      "sha256": "6da8eb8b163506c7fc5b87a36b431ea5ad22df8d198cb0e9834861309ff18c41",
-      "sizeBytes": 147242,
-      "width": 800,
-      "height": 795,
-      "format": "PNG",
-      "recordIds": [
-        "KR-MER-0781"
-      ]
-    },
-    {
       "assetPath": "assets/images/KR-MER-0782.webp",
       "sha256": "2d0c824254db30eaebb2f224000718d8a551b7cca3630a903a06d68bde506563",
       "sizeBytes": 114970,
@@ -8163,17 +7913,6 @@
       "format": "WEBP",
       "recordIds": [
         "KR-MER-0786"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0787.jpg",
-      "sha256": "9f231255d38430779fd3a3e3d296e3f029b0d14324a2c06968b9d5402a1af2f9",
-      "sizeBytes": 91151,
-      "width": 600,
-      "height": 600,
-      "format": "JPEG",
-      "recordIds": [
-        "KR-MER-0787"
       ]
     },
     {
@@ -8309,17 +8048,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0800.jpg",
-      "sha256": "a1239abc8e39f62e94670b23206c9ff1785d7ef093b1fd661ec7558c11b081d6",
-      "sizeBytes": 87447,
-      "width": 600,
-      "height": 555,
-      "format": "JPEG",
-      "recordIds": [
-        "KR-MER-0800"
-      ]
-    },
-    {
       "assetPath": "assets/images/KR-MER-0801.webp",
       "sha256": "546d321973373f84ca15a6738921a133e2c2df18b6003b1972e6defb9c7dc10b",
       "sizeBytes": 33594,
@@ -8383,17 +8111,6 @@
       "format": "WEBP",
       "recordIds": [
         "KR-MER-0806"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0807.png",
-      "sha256": "2744066ffe5bd65356353376dfabc90da2337f99ccb11d65bf8bc09807434350",
-      "sizeBytes": 214137,
-      "width": 600,
-      "height": 198,
-      "format": "PNG",
-      "recordIds": [
-        "KR-MER-0807"
       ]
     },
     {
@@ -8471,17 +8188,6 @@
       "format": "JPEG",
       "recordIds": [
         "KR-MER-0814"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0815.jpg",
-      "sha256": "2f1fad16cf665852bd466009a6a99f718ef26bab9161e6a4059e9890057e3bff",
-      "sizeBytes": 26192,
-      "width": 600,
-      "height": 600,
-      "format": "JPEG",
-      "recordIds": [
-        "KR-MER-0815"
       ]
     },
     {
@@ -8639,28 +8345,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0830.jpg",
-      "sha256": "610940cb70dcc33b2bc60dc9f2edac8b3833abc9419d25af8250193ac45b00dd",
-      "sizeBytes": 136589,
-      "width": 600,
-      "height": 600,
-      "format": "JPEG",
-      "recordIds": [
-        "KR-MER-0830"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0831.jpg",
-      "sha256": "e78c80f77b529102c19922db2a21f2efe6b496b4e1550864583263cd5ea25d90",
-      "sizeBytes": 207975,
-      "width": 600,
-      "height": 600,
-      "format": "JPEG",
-      "recordIds": [
-        "KR-MER-0831"
-      ]
-    },
-    {
       "assetPath": "assets/images/KR-MER-0832.webp",
       "sha256": "10fed41574144b8be30f6fc9046045776260dcb7c9ac2d8648aacdf87fdbff72",
       "sizeBytes": 129674,
@@ -8691,17 +8375,6 @@
       "format": "WEBP",
       "recordIds": [
         "KR-MER-0834"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0835.jpg",
-      "sha256": "02055f43100eb02e0a382d465e0dfc39ec6673e52ac1a30fa36f741f1dd6cc89",
-      "sizeBytes": 97808,
-      "width": 688,
-      "height": 688,
-      "format": "JPEG",
-      "recordIds": [
-        "KR-MER-0835"
       ]
     },
     {
@@ -9035,17 +8708,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0867.jpg",
-      "sha256": "ee735cf5745b2e36847f607059ac77651462b5f477ae3db520a5ff868773a3bd",
-      "sizeBytes": 108122,
-      "width": 400,
-      "height": 400,
-      "format": "JPEG",
-      "recordIds": [
-        "KR-MER-0867"
-      ]
-    },
-    {
       "assetPath": "assets/images/KR-MER-0868.webp",
       "sha256": "6299d4b97105beee25aaaeb509ff99c3b279ef0af41588aa5582f7599b091a8c",
       "sizeBytes": 117204,
@@ -9178,6 +8840,17 @@
       ]
     },
     {
+      "assetPath": "assets/images/KR-MER-0880.webp",
+      "sha256": "4cb67d353c6b5f5efdce2810e10f872e03b59391f44e5230515a12669e73d988",
+      "sizeBytes": 51264,
+      "width": 533,
+      "height": 533,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-0880"
+      ]
+    },
+    {
       "assetPath": "assets/images/KR-MER-0881.webp",
       "sha256": "8538d38bc547aba8464b6a6985e9df81e3dbb8d592525a281dafc490931a8742",
       "sizeBytes": 16446,
@@ -9241,17 +8914,6 @@
       "format": "WEBP",
       "recordIds": [
         "KR-MER-0886"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0887.webp",
-      "sha256": "009252f605435f9ba02f8248c08a49d78173927c640b7b554489c02a6063f55a",
-      "sizeBytes": 55528,
-      "width": 503,
-      "height": 512,
-      "format": "WEBP",
-      "recordIds": [
-        "KR-MER-0887"
       ]
     },
     {
@@ -9530,24 +9192,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0913.webp",
-      "sha256": "c29d21451ec12ff397328b026fa9d3d4538a5537f90617005d636a305cde2fa5",
-      "sizeBytes": 10284,
-      "width": 171,
-      "height": 161,
-      "format": "WEBP",
-      "recordIds": []
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0913_source.jpg",
-      "sha256": "1cf40b1b7e7e584b3a2876a11e183e63afcba53e5c03e7efaa9e94d56fb31d68",
-      "sizeBytes": 90764,
-      "width": 800,
-      "height": 800,
-      "format": "JPEG",
-      "recordIds": []
-    },
-    {
       "assetPath": "assets/images/KR-MER-0914.webp",
       "sha256": "f49085da6eb2947aa21934416b8f4a91c187e6b39d498963bf3b0a386e752484",
       "sizeBytes": 32324,
@@ -9570,24 +9214,6 @@
       ]
     },
     {
-      "assetPath": "assets/images/KR-MER-0915.webp",
-      "sha256": "f8a173cf625df2c84a6c702c77875bf56a6aaee83293059350a66b2807ff7977",
-      "sizeBytes": 9976,
-      "width": 116,
-      "height": 215,
-      "format": "WEBP",
-      "recordIds": []
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0915_source.jpg",
-      "sha256": "f4fedd34169fa563b3573df68464e7314ac21516a20dfd80ae355160c937d962",
-      "sizeBytes": 86536,
-      "width": 800,
-      "height": 800,
-      "format": "JPEG",
-      "recordIds": []
-    },
-    {
       "assetPath": "assets/images/KR-MER-0916.jpg",
       "sha256": "4df0395b5d0ef6a95eb1dc2fc7f8a078668f8f85d057fcb713f3c0ea0943c878",
       "sizeBytes": 19421,
@@ -9597,15 +9223,6 @@
       "recordIds": [
         "KR-MER-0916"
       ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0916.webp",
-      "sha256": "3d6f9010a66b4a8b1ef8902109b18162a5ac288ce29372eaf1d4c1dbed25196d",
-      "sizeBytes": 9964,
-      "width": 157,
-      "height": 222,
-      "format": "WEBP",
-      "recordIds": []
     },
     {
       "assetPath": "assets/images/KR-MER-0917.webp",
@@ -9696,6 +9313,17 @@
       ]
     },
     {
+      "assetPath": "assets/images/KR-MER-0925.jpg",
+      "sha256": "3054d635d53335c3c4056ab589c7bc4975079767f42a62dc5bed5bfa0e69b91d",
+      "sizeBytes": 109546,
+      "width": 1024,
+      "height": 799,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-0925"
+      ]
+    },
+    {
       "assetPath": "assets/images/KR-MER-0926.webp",
       "sha256": "76d96fe6ccb38f14aed7c848b82f3da323a268658cbdd8ed6ae9f650e9dc0e5a",
       "sizeBytes": 104538,
@@ -9761,33 +9389,6 @@
       "recordIds": [
         "KR-MER-0950"
       ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0951.jpg",
-      "sha256": "fb680a8abc6406747c862074c04176bbfe21568590e6bbdb8c4f33c903ded39f",
-      "sizeBytes": 91426,
-      "width": 400,
-      "height": 400,
-      "format": "JPEG",
-      "recordIds": []
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0952.jpg",
-      "sha256": "665731ef9f0f37694d5c4095161bdd6da5f46a73e665af0217ab3959bc9ea68a",
-      "sizeBytes": 124845,
-      "width": 400,
-      "height": 400,
-      "format": "JPEG",
-      "recordIds": []
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0954.jpg",
-      "sha256": "f462cd12dff8ed4d06070264d07eb9d2919b6ce4683ce3bb0ccaca1703e38e33",
-      "sizeBytes": 873273,
-      "width": 1024,
-      "height": 1024,
-      "format": "JPEG",
-      "recordIds": []
     },
     {
       "assetPath": "assets/images/KR-MER-0955.jpg",
@@ -10070,7 +9671,7 @@
       "sizeBytes": 19166,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0980"
       ]
@@ -10081,7 +9682,7 @@
       "sizeBytes": 4644,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0981"
       ]
@@ -10092,7 +9693,7 @@
       "sizeBytes": 4935,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0982"
       ]
@@ -10103,7 +9704,7 @@
       "sizeBytes": 11462,
       "width": 378,
       "height": 504,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0983"
       ]
@@ -10114,7 +9715,7 @@
       "sizeBytes": 7898,
       "width": 378,
       "height": 504,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0984"
       ]
@@ -10125,7 +9726,7 @@
       "sizeBytes": 7197,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0985"
       ]
@@ -10136,7 +9737,7 @@
       "sizeBytes": 11914,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0986"
       ]
@@ -10147,7 +9748,7 @@
       "sizeBytes": 9125,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0987"
       ]
@@ -10158,7 +9759,7 @@
       "sizeBytes": 5247,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0988"
       ]
@@ -10169,7 +9770,7 @@
       "sizeBytes": 13359,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0989"
       ]
@@ -10180,7 +9781,7 @@
       "sizeBytes": 13171,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0990"
       ]
@@ -10191,7 +9792,7 @@
       "sizeBytes": 13388,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0991"
       ]
@@ -10208,12 +9809,23 @@
       ]
     },
     {
+      "assetPath": "assets/images/KR-MER-0993.webp",
+      "sha256": "c254a3c21822722fd15d853e9ebd7d049a0d41c0a7ce07b864a822ca41a1f45c",
+      "sizeBytes": 110752,
+      "width": 640,
+      "height": 1024,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-0993"
+      ]
+    },
+    {
       "assetPath": "assets/images/KR-MER-0994.avif",
       "sha256": "4299cf93bcbf43dbf9cf2259bfa968ad63a75b035c28ae86039d01b6d2ced4a7",
       "sizeBytes": 9789,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0994"
       ]
@@ -10224,7 +9836,7 @@
       "sizeBytes": 10233,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0995"
       ]
@@ -10235,20 +9847,9 @@
       "sizeBytes": 16162,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0996"
-      ]
-    },
-    {
-      "assetPath": "assets/images/KR-MER-0998.avif",
-      "sha256": "c0b349a35f71efe9236b33d61cdde1921a5b5141c811337686565ecafa34abb8",
-      "sizeBytes": 9257,
-      "width": 540,
-      "height": 540,
-      "format": "AVIF",
-      "recordIds": [
-        "KR-MER-0998"
       ]
     },
     {
@@ -10257,7 +9858,7 @@
       "sizeBytes": 5472,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-0999"
       ]
@@ -10268,7 +9869,7 @@
       "sizeBytes": 2400,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1000"
       ]
@@ -10279,7 +9880,7 @@
       "sizeBytes": 10845,
       "width": 289,
       "height": 386,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1001"
       ]
@@ -10290,7 +9891,7 @@
       "sizeBytes": 9101,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1002"
       ]
@@ -10301,7 +9902,7 @@
       "sizeBytes": 9076,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1003"
       ]
@@ -10312,9 +9913,20 @@
       "sizeBytes": 21511,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1004"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1005.jpg",
+      "sha256": "933c21fb03fd5410f20246adb743d057904bad43ccb6cd4986c605786d082754",
+      "sizeBytes": 92724,
+      "width": 405,
+      "height": 540,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1005"
       ]
     },
     {
@@ -10340,12 +9952,34 @@
       ]
     },
     {
+      "assetPath": "assets/images/KR-MER-1008.jpg",
+      "sha256": "b8f247056e9b9d7a199a3ad80a56f032507dd7bc754be230e4d0d33e951d4492",
+      "sizeBytes": 26596,
+      "width": 405,
+      "height": 540,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1008"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1010.jpg",
+      "sha256": "1181b8dc04bb5b3c2325c6846342eab262ca676629de4b827d674560ff545867",
+      "sizeBytes": 32237,
+      "width": 378,
+      "height": 504,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1010"
+      ]
+    },
+    {
       "assetPath": "assets/images/KR-MER-1011.avif",
       "sha256": "fa04a217cdfca701d4b683b4cfa3761f3232b93cfb687157a2193d0231451f2b",
       "sizeBytes": 3207,
       "width": 187,
       "height": 249,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1011"
       ]
@@ -10356,9 +9990,31 @@
       "sizeBytes": 4678,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1012"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1013.jpg",
+      "sha256": "d968fb9252e74d2b11862a3efcb2d8d55008480ff9da3365d9ac5269a440a570",
+      "sizeBytes": 51909,
+      "width": 405,
+      "height": 540,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1013"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1014.jpg",
+      "sha256": "d4d2913887561eb9627ce4341cd6bd874055bbdd6b1f4aff4afad501264bd838",
+      "sizeBytes": 77549,
+      "width": 405,
+      "height": 540,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1014"
       ]
     },
     {
@@ -10367,7 +10023,7 @@
       "sizeBytes": 4872,
       "width": 184,
       "height": 245,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1015"
       ]
@@ -10411,7 +10067,7 @@
       "sizeBytes": 1752,
       "width": 240,
       "height": 320,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1019"
       ]
@@ -10439,6 +10095,17 @@
       ]
     },
     {
+      "assetPath": "assets/images/KR-MER-1022.jpg",
+      "sha256": "1d6ff3985c23d2c980406d4787b41f21d371ccb5a3084ddeff2520086aa00b66",
+      "sizeBytes": 80167,
+      "width": 405,
+      "height": 540,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1022"
+      ]
+    },
+    {
       "assetPath": "assets/images/KR-MER-1023.png",
       "sha256": "ced7fb2a328769c11628a28dcda9c3efa3498dba17673c9615dca40781e91664",
       "sizeBytes": 201116,
@@ -10447,6 +10114,17 @@
       "format": "PNG",
       "recordIds": [
         "KR-MER-1023"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1024.avif",
+      "sha256": "db5fdecb55c9166e527e6c21c27043fdeed75b00b175f685ccb1bfc756ffb020",
+      "sizeBytes": 3090,
+      "width": 405,
+      "height": 540,
+      "format": "AVIF",
+      "recordIds": [
+        "KR-MER-1024"
       ]
     },
     {
@@ -10488,7 +10166,7 @@
       "sizeBytes": 5134,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1028"
       ]
@@ -10499,7 +10177,7 @@
       "sizeBytes": 5725,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1029"
       ]
@@ -10510,9 +10188,20 @@
       "sizeBytes": 5650,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1030"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1031.jpg",
+      "sha256": "c874464e6846ff0310992613da65fa744901e9b5710f926a120604cb99306d69",
+      "sizeBytes": 40377,
+      "width": 405,
+      "height": 540,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1031"
       ]
     },
     {
@@ -10642,7 +10331,7 @@
       "sizeBytes": 13035,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1044"
       ]
@@ -10653,7 +10342,7 @@
       "sizeBytes": 12735,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1045"
       ]
@@ -10664,7 +10353,7 @@
       "sizeBytes": 11884,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1046"
       ]
@@ -10686,7 +10375,7 @@
       "sizeBytes": 13206,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1048"
       ]
@@ -10697,7 +10386,7 @@
       "sizeBytes": 12774,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1049"
       ]
@@ -10708,7 +10397,7 @@
       "sizeBytes": 11835,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1050"
       ]
@@ -10719,7 +10408,7 @@
       "sizeBytes": 13940,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1051"
       ]
@@ -10741,7 +10430,7 @@
       "sizeBytes": 15679,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1053"
       ]
@@ -10862,7 +10551,7 @@
       "sizeBytes": 13120,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1064"
       ]
@@ -10873,7 +10562,7 @@
       "sizeBytes": 9045,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1065"
       ]
@@ -10917,7 +10606,7 @@
       "sizeBytes": 10344,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1069"
       ]
@@ -10928,7 +10617,7 @@
       "sizeBytes": 27655,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1070"
       ]
@@ -10939,7 +10628,7 @@
       "sizeBytes": 10129,
       "width": 378,
       "height": 504,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1071"
       ]
@@ -10950,7 +10639,7 @@
       "sizeBytes": 22238,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1072"
       ]
@@ -10972,7 +10661,7 @@
       "sizeBytes": 5192,
       "width": 248,
       "height": 331,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1075"
       ]
@@ -10983,7 +10672,7 @@
       "sizeBytes": 11471,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1076"
       ]
@@ -10994,7 +10683,7 @@
       "sizeBytes": 13266,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1077"
       ]
@@ -11016,7 +10705,7 @@
       "sizeBytes": 10784,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1079"
       ]
@@ -11027,7 +10716,7 @@
       "sizeBytes": 12615,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1080"
       ]
@@ -11038,7 +10727,7 @@
       "sizeBytes": 13731,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1081"
       ]
@@ -11049,7 +10738,7 @@
       "sizeBytes": 12574,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1082"
       ]
@@ -11060,7 +10749,7 @@
       "sizeBytes": 12015,
       "width": 378,
       "height": 504,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1083"
       ]
@@ -11071,7 +10760,7 @@
       "sizeBytes": 15359,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1084"
       ]
@@ -11082,7 +10771,7 @@
       "sizeBytes": 13709,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1085"
       ]
@@ -11093,7 +10782,7 @@
       "sizeBytes": 14688,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1086"
       ]
@@ -11104,7 +10793,7 @@
       "sizeBytes": 8988,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1087"
       ]
@@ -11115,7 +10804,7 @@
       "sizeBytes": 3709,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1088"
       ]
@@ -11126,7 +10815,7 @@
       "sizeBytes": 18681,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1089"
       ]
@@ -11137,7 +10826,7 @@
       "sizeBytes": 7607,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1090"
       ]
@@ -11148,7 +10837,7 @@
       "sizeBytes": 13290,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1091"
       ]
@@ -11170,7 +10859,7 @@
       "sizeBytes": 18504,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1093"
       ]
@@ -11181,7 +10870,7 @@
       "sizeBytes": 241656,
       "width": 1600,
       "height": 1600,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1094"
       ]
@@ -11192,7 +10881,7 @@
       "sizeBytes": 326521,
       "width": 1600,
       "height": 1600,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1095"
       ]
@@ -11214,7 +10903,7 @@
       "sizeBytes": 14272,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1097"
       ]
@@ -11225,7 +10914,7 @@
       "sizeBytes": 13489,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1098"
       ]
@@ -11236,7 +10925,7 @@
       "sizeBytes": 15538,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1099"
       ]
@@ -11247,7 +10936,7 @@
       "sizeBytes": 19130,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1100"
       ]
@@ -11258,7 +10947,7 @@
       "sizeBytes": 15545,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1101"
       ]
@@ -11269,7 +10958,7 @@
       "sizeBytes": 17265,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1102"
       ]
@@ -11280,7 +10969,7 @@
       "sizeBytes": 18898,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1103"
       ]
@@ -11291,7 +10980,7 @@
       "sizeBytes": 19636,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1104"
       ]
@@ -11302,7 +10991,7 @@
       "sizeBytes": 12888,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1105"
       ]
@@ -11313,7 +11002,7 @@
       "sizeBytes": 11912,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1106"
       ]
@@ -11335,7 +11024,7 @@
       "sizeBytes": 13982,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1108"
       ]
@@ -11346,7 +11035,7 @@
       "sizeBytes": 6928,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1109"
       ]
@@ -11357,7 +11046,7 @@
       "sizeBytes": 7140,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1110"
       ]
@@ -11368,7 +11057,7 @@
       "sizeBytes": 16158,
       "width": 378,
       "height": 504,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1111"
       ]
@@ -11379,7 +11068,7 @@
       "sizeBytes": 9015,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1112"
       ]
@@ -11390,7 +11079,7 @@
       "sizeBytes": 11058,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1113"
       ]
@@ -11401,7 +11090,7 @@
       "sizeBytes": 10080,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1114"
       ]
@@ -11434,7 +11123,7 @@
       "sizeBytes": 5879,
       "width": 378,
       "height": 504,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1117"
       ]
@@ -11445,7 +11134,7 @@
       "sizeBytes": 17946,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1118"
       ]
@@ -11456,7 +11145,7 @@
       "sizeBytes": 15774,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1119"
       ]
@@ -11478,7 +11167,7 @@
       "sizeBytes": 14350,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1121"
       ]
@@ -11489,7 +11178,7 @@
       "sizeBytes": 12118,
       "width": 405,
       "height": 540,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1122"
       ]
@@ -11511,7 +11200,7 @@
       "sizeBytes": 1962,
       "width": 125,
       "height": 82,
-      "format": "AVIF",
+      "format": "HEIF",
       "recordIds": [
         "KR-MER-1124"
       ]
@@ -11660,6 +11349,17 @@
       ]
     },
     {
+      "assetPath": "assets/images/KR-MER-1138.jpg",
+      "sha256": "9747bb0dd114b0d5b0eabd0fa4fdf2b9061ecc1df8fff6f4cd8e78f282def9dc",
+      "sizeBytes": 67690,
+      "width": 756,
+      "height": 1008,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1138"
+      ]
+    },
+    {
       "assetPath": "assets/images/KR-MER-1139.png",
       "sha256": "87474dfcb9157dead482544ec2e64762c1adb9a073867024cf312d63e50c3e40",
       "sizeBytes": 70921,
@@ -11682,67 +11382,2582 @@
       ]
     },
     {
-      "assetPath": "assets/images/animate10th_allchars.jpg",
-      "sha256": "ebdf19370753b049cbf49c4b70b246f886c2ce397ef6f698d35bebe483cb36f1",
-      "sizeBytes": 905906,
-      "width": 3000,
-      "height": 1688,
-      "format": "JPEG",
-      "recordIds": []
+      "assetPath": "assets/images/KR-MER-1142.webp",
+      "sha256": "b1c831cd728bbfc78205118ecb8af5682db6ada54a11e13917a6e58f0a886c00",
+      "sizeBytes": 826,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1142"
+      ]
     },
     {
-      "assetPath": "assets/images/animate10th_birthday.jpg",
-      "sha256": "d9205ed7275add618f724856441a0012c0e1e4fc0e8af9566a642992fbd86076",
-      "sizeBytes": 1097791,
-      "width": 3000,
-      "height": 1687,
-      "format": "JPEG",
-      "recordIds": []
+      "assetPath": "assets/images/KR-MER-1143.webp",
+      "sha256": "e02612ee5722b1ea1a7b9d6c004b972f74359e7cfe49d5680cc97f6a674e0d75",
+      "sizeBytes": 1542,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1143"
+      ]
     },
     {
-      "assetPath": "assets/images/animate10th_key.jpg",
-      "sha256": "ee8f995d0e2437715429ffbc5a77aa7daa127437d546f29e5ab8d6ce8a0d01b5",
-      "sizeBytes": 1145191,
-      "width": 3000,
-      "height": 2121,
-      "format": "JPEG",
-      "recordIds": []
+      "assetPath": "assets/images/KR-MER-1144.webp",
+      "sha256": "c598dc54ff68e0f10f9f1f1825be51f6d1deb612e41b3543fa715cca08109f40",
+      "sizeBytes": 870,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1144"
+      ]
     },
     {
-      "assetPath": "assets/images/animate10th_menu.jpg",
-      "sha256": "700a8526ae235b088a32f627f1aaabecfb17488639fb752bfe28195576e8a86f",
-      "sizeBytes": 707941,
-      "width": 3000,
-      "height": 1688,
-      "format": "JPEG",
-      "recordIds": []
+      "assetPath": "assets/images/KR-MER-1145.webp",
+      "sha256": "3a89dc72f96847630dde0c9e0cba91f4b03ce8d1994dd07426b74e53f7f302b8",
+      "sizeBytes": 1560,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1145"
+      ]
     },
     {
-      "assetPath": "assets/images/superbloom_allchars.jpg",
-      "sha256": "28b208630f3d0b014e27eb4021d4aac55d5cf789d9e3f09c298f5295148599c0",
-      "sizeBytes": 1002492,
-      "width": 3000,
-      "height": 1688,
-      "format": "JPEG",
-      "recordIds": []
+      "assetPath": "assets/images/KR-MER-1146.webp",
+      "sha256": "6b6047894f493d0d2033170d5ccec492a2396ec71dff0bb0818d5558fc65f3c6",
+      "sizeBytes": 2574,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1146"
+      ]
     },
     {
-      "assetPath": "assets/images/superbloom_key.jpg",
-      "sha256": "1309514178dc8a25484ed141732434bc59fde70ae32c22f3de62f1587e03dcfc",
-      "sizeBytes": 956803,
-      "width": 3000,
-      "height": 2121,
-      "format": "JPEG",
-      "recordIds": []
+      "assetPath": "assets/images/KR-MER-1147.webp",
+      "sha256": "6ba1aa07c6a243511ec72fe9a71acaac07690c8fca4db918880a6c038cbd39a7",
+      "sizeBytes": 1174,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1147"
+      ]
     },
     {
-      "assetPath": "assets/images/superbloom_menu1.jpg",
-      "sha256": "f1a56bfbe00066de6cbf3f2b75ed4ac4e6862063d5c719e7690c7de6da322abb",
-      "sizeBytes": 973991,
-      "width": 3000,
-      "height": 1687,
+      "assetPath": "assets/images/KR-MER-1148.webp",
+      "sha256": "bb0729cecf89816e67f68551ce03b90b10de0321fe14522caadac86810846e68",
+      "sizeBytes": 1062,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1148"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1149.webp",
+      "sha256": "1c82a6d85cc13534c8aafa365f9e245ef895e23d70cc412207e94327910403a9",
+      "sizeBytes": 2794,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1149"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1150.webp",
+      "sha256": "c639976b068b43d935ab80f43f9d168f8f7ea103478cf0002a0003f7c0e25f66",
+      "sizeBytes": 1144,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1150"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1151.webp",
+      "sha256": "9556f3e99f626284ccff5e9c37760fbbacf17a4513b16b5928ccfc1eb07f46d6",
+      "sizeBytes": 1200,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1151"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1152.webp",
+      "sha256": "59e496fd45b03b920efd9c0ba17cff177d3bd981d7fed6a94cb0582d96b9a4de",
+      "sizeBytes": 1666,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1152"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1153.webp",
+      "sha256": "0eeb11d5b015c4515a12d1cfd62cbdb2e6a8c378a3736ab6351a1bdf18dcf885",
+      "sizeBytes": 860,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1153"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1154.webp",
+      "sha256": "6e614887d60cc6f5f3cfde7926f8dd28e5a49103a6e721e84a96da2c841b5440",
+      "sizeBytes": 780,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1154"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1155.webp",
+      "sha256": "bc96b0e6f311bf38853a7f6049b7d6c35212e0e14e1a43e1c57f1be6b4ebcc38",
+      "sizeBytes": 1392,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1155"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1156.webp",
+      "sha256": "5e75d80b2e4505129adf986d28129abfd88a1d1dd3f3b7fb5082bd8201ea4284",
+      "sizeBytes": 2446,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1156"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1157.webp",
+      "sha256": "ba4e6bc5eb188ac4a5c318a8728042c4bd15317b820aa683c0cedf0a6f211368",
+      "sizeBytes": 2242,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1157"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1158.webp",
+      "sha256": "5ae425a3bc774fa6ac00fe41780ea28169e83d515f9e556c059e18fc722b5e6a",
+      "sizeBytes": 1052,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1158"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1159.webp",
+      "sha256": "e2b7b03c75b940e32b7402037773ec92aee7e4e1f6a1fd18c660bec04a2c9335",
+      "sizeBytes": 1114,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1159"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1160.webp",
+      "sha256": "5c727c0b7f62d1739dbcd26defb0c5cc5453561814dfdc8b982e57b6b038154f",
+      "sizeBytes": 1194,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1160"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1161.webp",
+      "sha256": "cbf163371d448f516b3ec935f30cc048b27d2392dab14d3ca2b9771c308f3d42",
+      "sizeBytes": 2598,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1161"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1162.webp",
+      "sha256": "c441e54ff49a7ced94962e59bbd7d6f9bcef30185bffdb939e3ea7ad6a94fff0",
+      "sizeBytes": 2580,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1162"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1163.webp",
+      "sha256": "74434f7c6a0cb8f4fb5da17197aa63d75d6fbeab2e66196b4333e43c45f66ff6",
+      "sizeBytes": 1988,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1163"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1164.webp",
+      "sha256": "d48461185ed019d5ce61b3381831943c649c01b36f9e5fc0b22159d9e8c2dbd0",
+      "sizeBytes": 2536,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1164"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1165.webp",
+      "sha256": "af7b47fb84f33aaaaeed00a8b4ebfd03f2a8bf2dfd2b8838a2c9b9dce274b978",
+      "sizeBytes": 1418,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1165"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1166.webp",
+      "sha256": "21fabf7aee2bdcfc4ca0049168c8b2a80ef88b943ce38d68c19ea3b92978a89a",
+      "sizeBytes": 1688,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1166"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1167.webp",
+      "sha256": "b21a7a60f8acb731e7b66209334b42bcd79ef483f2060ca515f75191a1eb97b9",
+      "sizeBytes": 2380,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1167"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1168.webp",
+      "sha256": "2d86bd98ce8cbd7151dc7734092f6b7c755293b575203e1452c3e517b452e2ae",
+      "sizeBytes": 1636,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1168"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1169.webp",
+      "sha256": "9650a77fc722968ee250ffdda0271c937734083d1d4215dfe9542abd1f42500f",
+      "sizeBytes": 2252,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1169"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1170.webp",
+      "sha256": "25f11253d6e1a407fa9ad4b250e23456a64472f4ad9f02c9675eeb9f058cb999",
+      "sizeBytes": 1158,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1170"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1171.webp",
+      "sha256": "ef2b44920bde0e00df59b9e3dd2141092fa0807ff96090755fa1fa015c8b3b20",
+      "sizeBytes": 1920,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1171"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1172.webp",
+      "sha256": "97f74d7ca8c227bc8bdd46284d67e5a2d41914cb88366754dbef7f83de172687",
+      "sizeBytes": 1086,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1172"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1173.webp",
+      "sha256": "1e3d3ec33a39d473138b96bfe107ecaaf47f38a8d7d937c10a5c033ec49e33d8",
+      "sizeBytes": 2246,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1173"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1174.webp",
+      "sha256": "93ca8236695fe4ad698017c8bdea1287f7598398f4168db1c35f0afce529b703",
+      "sizeBytes": 2364,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1174"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1175.webp",
+      "sha256": "64805d90a0cff22047fdb1498deab83c5dac93c0228cb806d72e110d0c8b17f8",
+      "sizeBytes": 1826,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1175"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1176.webp",
+      "sha256": "ee08d6d108141689ad6a13316bbbdaa53a91cc1425af52bc2f339417c8af6ca7",
+      "sizeBytes": 1396,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1176"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1177.webp",
+      "sha256": "699bc01a099a891c0c00dcc4876bd1e15434a753ba0d300b5a324b7b54ff900d",
+      "sizeBytes": 2406,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1177"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1178.webp",
+      "sha256": "0784012805afe6faa97e5069a97da6baef518479a1bab8dedadc2b308241daf5",
+      "sizeBytes": 814,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1178"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1179.jpg",
+      "sha256": "ace9dafeb133c9645d3e877b3f9339e03169a3a47024276c5688106621d402cb",
+      "sizeBytes": 71417,
+      "width": 768,
+      "height": 1024,
       "format": "JPEG",
-      "recordIds": []
+      "recordIds": [
+        "KR-MER-1179"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1180.webp",
+      "sha256": "3501660fc661078f80815fdbf7f5c9f6528f4712a0963c46b6ed888ad52a4c5d",
+      "sizeBytes": 3096,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1180"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1181.webp",
+      "sha256": "7887be5ba63774f4b38444a145aea38517da78d70adac72ba41a3565f084387e",
+      "sizeBytes": 3226,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1181"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1182.webp",
+      "sha256": "5a8539e1ae278fc48b2fcb865634df64d4af411990348b5d8e3749c5fb45ae79",
+      "sizeBytes": 1242,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1182"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1183.jpg",
+      "sha256": "4f21516cabb7c6d77449daff5450b3df61d15683d7ea10f2c921165acdb4ffbe",
+      "sizeBytes": 59520,
+      "width": 768,
+      "height": 1024,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1183"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1184.webp",
+      "sha256": "65092fe1833df88dbb0c54b86007cbc3a369fcf15ab3d841272f308541730014",
+      "sizeBytes": 1718,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1184"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1185.webp",
+      "sha256": "e75c3666e3d7c4e19646a0a8b202a63f82aa14d592219b499776c0e37ef04058",
+      "sizeBytes": 1220,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1185"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1186.webp",
+      "sha256": "e73b11eebea8c195735eaecac10fd40f3a883c9be62344aca431e471556b165e",
+      "sizeBytes": 1370,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1186"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1187.webp",
+      "sha256": "10be9405c4b76249dce852830f2a5bc0907ff118139a4561c88f0f805d4b9fae",
+      "sizeBytes": 2064,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1187"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1188.webp",
+      "sha256": "6f5610d2e0e48c081a539ac864729f5b2043bc9db996744d70d1a2ad4b1d893f",
+      "sizeBytes": 2272,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1188"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1189.webp",
+      "sha256": "398e6e7b36a3c17b8932fe06456149c4a459cda96520c23cc43ab71b3f16350c",
+      "sizeBytes": 1740,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1189"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1190.webp",
+      "sha256": "b940d9e88e62f399d46c0939b1e82cf56d2103c11e94552fed39efc1d6bef97a",
+      "sizeBytes": 1570,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1190"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1191.webp",
+      "sha256": "5f04e531b52c8a87cd9efac9040951c923e58420245c6b300ea8c767b528873d",
+      "sizeBytes": 1228,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1191"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1192.webp",
+      "sha256": "63365392fa8c32dd0cbf4564487f8cf7786ad1b9ecda5fd9db32ef5a1ceab690",
+      "sizeBytes": 1642,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1192"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1193.webp",
+      "sha256": "a423a06ca9c012a1fff03a6339ada0115a1812d1c4ec066986c5d6b05a7b1dd8",
+      "sizeBytes": 2656,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1193"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1194.webp",
+      "sha256": "2433d9bcc88fd9e51c9e84c3dc99a910cdcfd7c561b686b6ed01933580025d75",
+      "sizeBytes": 1576,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1194"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1195.webp",
+      "sha256": "c6007096770551275df106d670abb7fa40b54040ed740630c932745a55cc5fd4",
+      "sizeBytes": 1426,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1195"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1196.webp",
+      "sha256": "43b37ec043009db8a2ec092f16782342f127dc76d70ace2e0ba0d3fd0b857975",
+      "sizeBytes": 1974,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1196"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1197.webp",
+      "sha256": "22a3356ddbc0a3f22a86d0aa5703a580145c0bbe9c777c90320617ff7b7a79c8",
+      "sizeBytes": 2294,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1197"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1198.webp",
+      "sha256": "c4c4ea589ba82f53640158eb6b52898488403ba51a2310c888d49cc4c49e96f1",
+      "sizeBytes": 2700,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1198"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1199.webp",
+      "sha256": "a4fe9eb620b2c5fc401426ef7180d1732ea30a4e73adcf09017fe4cd3c1896e8",
+      "sizeBytes": 1188,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1199"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1200.webp",
+      "sha256": "d41fd08508c56f03b2bd0c064a0d9df8f94841c506d3b468a6d733094f072740",
+      "sizeBytes": 2208,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1200"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1201.webp",
+      "sha256": "c70a9d75c02b2be7ed65a86b2639aad123cb0ffd54986aa07a4b212d0b08bd2d",
+      "sizeBytes": 2006,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1201"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1202.webp",
+      "sha256": "c474128b81bde67dc88e3391ec89592b1ca34aeb009b43a817131446cb4e6e60",
+      "sizeBytes": 1442,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1202"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1203.jpg",
+      "sha256": "eb61a25d3af2c8ddbe895e84964f4e88bc27b2e8cf37372e0ab74e40cbfd302d",
+      "sizeBytes": 36915,
+      "width": 756,
+      "height": 1008,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1203"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1204.webp",
+      "sha256": "6e0e65845fd3ab29725df42f0ac808620ac5361b59e89a945bb5f3eb75e4ad78",
+      "sizeBytes": 788,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1204"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1205.webp",
+      "sha256": "7383a256a7bffd27eb55e99f71308f1c44d8e67882fb792af08f052d9de0406d",
+      "sizeBytes": 950,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1205"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1206.webp",
+      "sha256": "b20e431aadad1f3e31b3224420e35ab7c42dfd077a8bbb79a95d626a2f0cc4ce",
+      "sizeBytes": 2872,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1206"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1207.webp",
+      "sha256": "b7ca7895db3f062625e0e51c82ecd5c7392337dc39e9e15a75d91ded9d131277",
+      "sizeBytes": 1312,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1207"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1208.webp",
+      "sha256": "d7ff0f5c2192fea16c06d8fe1a66452695642d8643427f6d78cc3910db301f24",
+      "sizeBytes": 1382,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1208"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1209.webp",
+      "sha256": "e9af01aefd96ef70b75e59ea9676d96a15d832147dce4aaf4469fef49a17764e",
+      "sizeBytes": 1094,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1209"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1210.jpg",
+      "sha256": "dfcc0596589a2e8f6e516a3104971a8ad8e8f998d7742024b490b6e0c6682265",
+      "sizeBytes": 16294,
+      "width": 378,
+      "height": 504,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1210"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1211.jpg",
+      "sha256": "5d2fa45da9f3081e14fad06fb71d0c655b366a1b3e94112e65504cf3069fc7ab",
+      "sizeBytes": 21259,
+      "width": 272,
+      "height": 362,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1211"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1212.webp",
+      "sha256": "8ee61fe158e77dbb015854ff31dfee1576f963a4cb48a2329411ef6838f85d34",
+      "sizeBytes": 1122,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1212"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1213.webp",
+      "sha256": "b59a0ac772f384b4176e9e973dd2daa885a90b8acfe07fba6361ad8e010ec6b8",
+      "sizeBytes": 1630,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1213"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1214.webp",
+      "sha256": "c6acbff0d9fb5e939262fb6c489da7c01e918752e9a72f46d2dbd04b428d6127",
+      "sizeBytes": 2432,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1214"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1215.webp",
+      "sha256": "768d069ba7038133690646d57edf6ee810a74a60e58fa7cbda39e824d3afa055",
+      "sizeBytes": 1114,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1215"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1216.webp",
+      "sha256": "a36f536c514013ff0a9343c227ca9c5bc9b5229b93d22c6c37bb52cd32143d74",
+      "sizeBytes": 2972,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1216"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1217.webp",
+      "sha256": "2b4494094dcb8e6af92ce0187a0cd2be9f03d2124461a7c71ecfcd822510f9f6",
+      "sizeBytes": 1890,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1217"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1218.webp",
+      "sha256": "c1e1a85cf523b48d9a6d85d5412e0b3a48c6fd0556872521f0388d70ae57a9df",
+      "sizeBytes": 1598,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1218"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1219.webp",
+      "sha256": "99b8a016799cf7affc996e224667d66e1525534847315c3e191fa93aec34a47a",
+      "sizeBytes": 2234,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1219"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1220.webp",
+      "sha256": "869b9ca8ebff674609cd8608c11a366d672c685a55ec4cb2129eb88442d61839",
+      "sizeBytes": 2330,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1220"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1221.webp",
+      "sha256": "501a349100a9ff0731227fbebbb9f2f18d5b80459422f27400dc6358aab9c164",
+      "sizeBytes": 2762,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1221"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1222.webp",
+      "sha256": "da5e0cb27665fa4af6ae5a85b16a15a5fb7af763a2cd353316fb3eed315a65ab",
+      "sizeBytes": 2038,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1222"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1223.webp",
+      "sha256": "106f19c8a306a42b9ea0fd6cd9b239373b3a827380991ce2e12512f7c4daf10c",
+      "sizeBytes": 2230,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1223"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1224.webp",
+      "sha256": "41603148c21508fc64adb5b288da306fe1e92684d6223f5ac502e9a23ada7099",
+      "sizeBytes": 1824,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1224"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1225.webp",
+      "sha256": "30aec9fee0661428d08172dcaffdbbae5902daeca3a2e624b8d0ed5c719faee6",
+      "sizeBytes": 2120,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1225"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1226.webp",
+      "sha256": "53631818bb8f809095020ba1fb6297c6d0bab9cb35da81658d64992796612358",
+      "sizeBytes": 2214,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1226"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1227.webp",
+      "sha256": "f90a475b5556e12c72ae6d8fa0651eb47b2c2f93e26bb33df2e6585c08a97fbd",
+      "sizeBytes": 2030,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1227"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1228.jpg",
+      "sha256": "1912eed6ad1d532321b2e4876a8bdecf072fa192c60bc6a0fbfe1168bcc6bbbe",
+      "sizeBytes": 18150,
+      "width": 272,
+      "height": 362,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1228"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1229.jpg",
+      "sha256": "b71bb2b6f654edcd31c637ea98c4751b9d3aed780d8b50a80ab312fc49b8ce98",
+      "sizeBytes": 28462,
+      "width": 350,
+      "height": 496,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1229"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1230.webp",
+      "sha256": "58f4ca11d1ba630805490596c5bf4e915394ad8b930e2ff83c054366fe29d1d1",
+      "sizeBytes": 2446,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1230"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1231.webp",
+      "sha256": "8bf6924d4f6589875086b04aded5897d1f137ec0c1d986c844346ed164daad23",
+      "sizeBytes": 2996,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1231"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1232.webp",
+      "sha256": "7c0d3b4412904c77eb20e3e6bf160ce8f4e2f9dd620746c50c574fffe1afe062",
+      "sizeBytes": 2468,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1232"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1233.webp",
+      "sha256": "485c8f3d8acb493653083c10f9d484903d93f3f71d72f8789f30c8b8f4ea75e1",
+      "sizeBytes": 1042,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1233"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1234.webp",
+      "sha256": "d5f1a1217ee688386972adb06cc9241d8e6498eb6ac42b269c222a9669d872d0",
+      "sizeBytes": 1900,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1234"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1235.webp",
+      "sha256": "732e38e2a68251145f9c55292691cc13caf715eec2a31806c57a9f6718cd88d1",
+      "sizeBytes": 2056,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1235"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1236.webp",
+      "sha256": "3efd6941946d6cf7312039ef46e9218b7f3cdd92b454c11231fd0503b02b2844",
+      "sizeBytes": 1240,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1236"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1237.webp",
+      "sha256": "d9dd5f964b1c0ff64b38d2b2b64323c57f051033a1d179d0c441723419f8c221",
+      "sizeBytes": 2234,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1237"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1238.webp",
+      "sha256": "a760db2c8a74fad6ab1341c7075dd5478de29ddc402c1101e9289b7c3d809296",
+      "sizeBytes": 2396,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1238"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1239.webp",
+      "sha256": "f3ed3738d079aa28d6b6f1626ba3a1ffae96a338332f8d09264b46919575c693",
+      "sizeBytes": 2028,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1239"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1240.webp",
+      "sha256": "90171a3e741d2efcf614c362dee8ba2c809723b4a9f0f664dbe54c1d2101e832",
+      "sizeBytes": 1758,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1240"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1241.webp",
+      "sha256": "0c0c5ea8208372e3ec05fe4d9fec4fb8c322ebd50db98deabc96c083263ac351",
+      "sizeBytes": 1618,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1241"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1242.webp",
+      "sha256": "ecc8984493ba7fceadaee06e0802c32846c74a64a5c9461de1a66e5062c9bdc7",
+      "sizeBytes": 2248,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1242"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1243.webp",
+      "sha256": "5a49e65ded44f68ef840e26e498c96b06e8c40055ce213c438ff38797c747229",
+      "sizeBytes": 1652,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1243"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1244.webp",
+      "sha256": "e16f08b31dc0f7c3bcb0195d398e71f4f5a7831610f2cd6560c601649fd4238f",
+      "sizeBytes": 1890,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1244"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1245.jpg",
+      "sha256": "8ac09c1e5f5b057ccc60190ee796baa5237605ecf0a13806d5821a445d8f2f1d",
+      "sizeBytes": 22160,
+      "width": 240,
+      "height": 319,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1245"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1246.webp",
+      "sha256": "974a7bb9ef5086b889c53338491ac516f1b3ad91b41766a0a5a9a83eed10b8ac",
+      "sizeBytes": 966,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1246"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1247.webp",
+      "sha256": "bec6605253b7bdb750ee1fad753b214eb3d0daf7a1b756a115be108e1358b004",
+      "sizeBytes": 2046,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1247"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1248.webp",
+      "sha256": "836cc9eb85db93226c7965434f2d00279cdc3dc420ea98cca03219bc0cc2be32",
+      "sizeBytes": 2696,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1248"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1249.webp",
+      "sha256": "f32d6d8db1cff7b8abdfff716816d15d90edaa180c497ac905632cff02e80e7e",
+      "sizeBytes": 1978,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1249"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1250.webp",
+      "sha256": "014fa9beb19956259d2cd6554e38cd328817a138e6de313254dac8b711535be7",
+      "sizeBytes": 2618,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1250"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1251.webp",
+      "sha256": "dae40db9c5ceeb7d3ca24437033d353efe5db79d01c2a92e97c93972cff1e9bf",
+      "sizeBytes": 714,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1251"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1252.webp",
+      "sha256": "7d34a6f688a5a5df7eae46e86b13361713af0f708f31973109a78bc90dba4b51",
+      "sizeBytes": 416,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1252"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1253.webp",
+      "sha256": "c1f1519776c4fc354467f8e955556f000e811caec1be4aeed3738c65189603e2",
+      "sizeBytes": 738,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1253"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1254.webp",
+      "sha256": "073475ebdb0eb889a85a969d885b4d216b09c8f0be38321f504efb58102d305c",
+      "sizeBytes": 1754,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1254"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1255.jpg",
+      "sha256": "55c5c65be0a34fcfb06e614d729c2f24df5954efee91367332bc36f858f930bf",
+      "sizeBytes": 19202,
+      "width": 378,
+      "height": 504,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1255"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1256.webp",
+      "sha256": "151dc188bffad90f026e95e644e0ac92547ce2f8a4ad9a90cf43b1caeed8af9c",
+      "sizeBytes": 2898,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1256"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1257.jpg",
+      "sha256": "b4d1dd35165ebdfdc8af241038868f58f8108a2c43354f9db6f5877daf77d2eb",
+      "sizeBytes": 17376,
+      "width": 378,
+      "height": 504,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1257"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1258.jpg",
+      "sha256": "08d2ef162ac147ccac0bb3f375cc11650f1fca7418dfc632d1bf24100f71dc10",
+      "sizeBytes": 24548,
+      "width": 378,
+      "height": 504,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1258"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1259.webp",
+      "sha256": "67f7cec0ac22477dcbe96f5112b9fcc520f0e15516d91ba98885d4424750e96d",
+      "sizeBytes": 3174,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1259"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1260.webp",
+      "sha256": "08422fc5914bface84abfee3183fe36968634f31e4aff959fb0bb693b9d9faa9",
+      "sizeBytes": 2194,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1260"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1261.webp",
+      "sha256": "3a61ab7d329f1a7f78849ce18bcb32ceeae48ddddfbfaaad726e1a9e3cc1d053",
+      "sizeBytes": 1410,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1261"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1262.webp",
+      "sha256": "b78005c6e443201128cddb861d9abd7bec60a3190c0b5dbd9ca2f9635e65166a",
+      "sizeBytes": 1406,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1262"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1263.webp",
+      "sha256": "6f9da7a50b67a89694bbc4d0f880f29344ef60f5d85dd13b3c0628827860b40f",
+      "sizeBytes": 1418,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1263"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1264.webp",
+      "sha256": "9fc0472e87261de694476bb1aa81f06aa8dc7d4a533aa4440ccce37636a094eb",
+      "sizeBytes": 1384,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1264"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1265.webp",
+      "sha256": "d86a3d43b8e83e8dcb8db7acf1a514fc419a1023225ab98f5a2487f0431b0803",
+      "sizeBytes": 1296,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1265"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1266.webp",
+      "sha256": "8919324c887870410f3b0241f95874812a64ffa85c0ffad22a61ece74ed169d7",
+      "sizeBytes": 1712,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1266"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1267.webp",
+      "sha256": "73468444444db01894b277f8631e829f52770ad9d36662d7c35ecd80df43f815",
+      "sizeBytes": 2964,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1267"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1268.webp",
+      "sha256": "019c2e7d84221a87a5cecfd10411c8af56bfb1c52d6de3ce96150ad2ba49b663",
+      "sizeBytes": 1624,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1268"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1269.webp",
+      "sha256": "ddb9e0c8a9892fb7a211079a4fadeba6de2437c8301c379e9434ea1c2ae4ded4",
+      "sizeBytes": 1828,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1269"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1270.jpg",
+      "sha256": "9a4cdef2a2c6317ad8d2391d35839983ac7dcd605143534e87cf7e2ce6b75031",
+      "sizeBytes": 13554,
+      "width": 272,
+      "height": 362,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1270"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1271.webp",
+      "sha256": "657e589c45561316726986c271fa62b19d30608786166c7f61974484abdd8838",
+      "sizeBytes": 1370,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1271"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1272.webp",
+      "sha256": "f6aed0d6d6afbbbf4a57d852d03e652ae80a1c18165e1c59d64876cf1f8c12ee",
+      "sizeBytes": 1418,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1272"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1273.webp",
+      "sha256": "272e2a8ab8ca8d4748d56173d0969659b9df57676562ee8b254883fce16d6c52",
+      "sizeBytes": 2936,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1273"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1274.webp",
+      "sha256": "7000d604fc78f99e70fbf205bfba30eb55b1232a3a9bafd1928ad857284207fa",
+      "sizeBytes": 2332,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1274"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1275.webp",
+      "sha256": "6b747721e28bceb9e6876a757f81c67e52cff1458fea6feae418faac35e22597",
+      "sizeBytes": 1066,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1275"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1276.webp",
+      "sha256": "00c46310b56832b0c3a8e266cf26e8a47ae3b40ea8567d4480bcff5ba0659fef",
+      "sizeBytes": 1206,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1276"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1277.jpg",
+      "sha256": "c28c5539267327aebac72da9c99f6d22e15c2b1cef1755afddae327663e65ed3",
+      "sizeBytes": 14112,
+      "width": 272,
+      "height": 362,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1277"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1278.webp",
+      "sha256": "7c6c7c559165ba345003b099c4d88603fdf11e63b15c912c84d70457f073671b",
+      "sizeBytes": 2464,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1278"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1279.webp",
+      "sha256": "ce8a6c376c226c06b67eb02eca5f01a74bf4503e79e7f20a7243aa0d82b9d9d1",
+      "sizeBytes": 1752,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1279"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1280.webp",
+      "sha256": "5956738bf10c446edf2df1049677cb897bfdd75bc710d161e13716351a62ccbe",
+      "sizeBytes": 2058,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1280"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1281.webp",
+      "sha256": "b3131dd438cc696c032fb8e03f2ed9485f2a75ad931fb59cbd6a48da8e1b7591",
+      "sizeBytes": 1870,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1281"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1282.webp",
+      "sha256": "4ed678e6ec2beb70e39ab63c9dc4407939485fda98971bfffbd53ec4ca728c26",
+      "sizeBytes": 1980,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1282"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1283.webp",
+      "sha256": "54198d3b0c9920e0cd488a46cbb46fe37c1218383fdf552ab84664e5d814e23e",
+      "sizeBytes": 2014,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1283"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1284.webp",
+      "sha256": "8147f07fcc7056943dca780cb64600a38a6bdd735a325a166646e54383abc92b",
+      "sizeBytes": 1408,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1284"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1285.webp",
+      "sha256": "31437ce597a826fe426e42028031d540165876f14828ff2e0a91bfeeaeb5b5a6",
+      "sizeBytes": 2244,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1285"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1286.webp",
+      "sha256": "3b6c9afea5472144650058a197952c3877cee1cd82cef1f420eeab4a9c4a9bc3",
+      "sizeBytes": 3008,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1286"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1287.webp",
+      "sha256": "97513a93564b043838dcd64622e50106b1e4be280ba2b467a50cc2bfcaa33218",
+      "sizeBytes": 986,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1287"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1288.webp",
+      "sha256": "2884a250de4b638b74073adbd1d17a17e68cc15072428f5f736767553912c8f8",
+      "sizeBytes": 808,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1288"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1289.webp",
+      "sha256": "cf86714ec47321cd59712cf5da82fed4de84bdd48752bed91de59af72a07b2af",
+      "sizeBytes": 1890,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1289"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1290.webp",
+      "sha256": "0ac46e3c71a058b5204ff266dc443a197f5955c3d184cbffc79c3bfc4c5c3e33",
+      "sizeBytes": 1854,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1290"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1291.webp",
+      "sha256": "e0240c2caf7ab2f4dc6c778b18b155266c82f6b80787b83fa622e739827d0def",
+      "sizeBytes": 1960,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1291"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1292.jpg",
+      "sha256": "835a9d93cc889dcffa79240bc4b90efd40ec4fb915f82a50ea19e752a4c1cd82",
+      "sizeBytes": 23609,
+      "width": 272,
+      "height": 362,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1292"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1293.webp",
+      "sha256": "af169e816c6ad31c1081a9d06d7f94b9a4f1f9950d83aba6e866ba6c83e382e2",
+      "sizeBytes": 2532,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1293"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1294.webp",
+      "sha256": "519ed542f7c997a2960452637b0a93b470eb0fbe7dd47882ca26b3b3907cfa28",
+      "sizeBytes": 1926,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1294"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1295.webp",
+      "sha256": "abb6fdba8b52b45d8243333c43d4666268bf156ce6ceeccca8c249e77a13306e",
+      "sizeBytes": 1330,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1295"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1296.webp",
+      "sha256": "9dc109b43006f3dea56e1a74f0d2bc66a14888d8e42cbeb42f977327d3469515",
+      "sizeBytes": 1342,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1296"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1297.webp",
+      "sha256": "e5ba2fc16287f1fb201267fdc5365be706929bef0f72399486ec6d184d5f7628",
+      "sizeBytes": 1234,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1297"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1298.webp",
+      "sha256": "2dff7616b481f16410d18e6bc387b84d74d1ab9a9c08ea88c664a360c9977614",
+      "sizeBytes": 1506,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1298"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1299.webp",
+      "sha256": "de5a71dab5519fd01b20a10b5412be345c3a00723746ae2c32ec9728710f900f",
+      "sizeBytes": 2104,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1299"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1300.webp",
+      "sha256": "fc98ef2f63325023e99282c442ed9ac33cc3af5c1494eb0deaa8b1f5d0530b7d",
+      "sizeBytes": 2520,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1300"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1301.webp",
+      "sha256": "9535b29c343513ea40888e1dc2f59c2e941ea079771c47d786d167d334613a37",
+      "sizeBytes": 1504,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1301"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1302.webp",
+      "sha256": "745a9cbf30a57f955591e4c47dbded3e94ab2aac9bba9823c7ae49df0b50bda1",
+      "sizeBytes": 1316,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1302"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1303.webp",
+      "sha256": "5b84066dc03155b708186968f097ea9be14b5bacb5a2545a2033e14b5f590fe6",
+      "sizeBytes": 1192,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1303"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1304.webp",
+      "sha256": "412f83b924b116fbc5b4b46e20c58628d6ef6394ae2fac5cfd99cdaeb8b74fad",
+      "sizeBytes": 1632,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1304"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1305.webp",
+      "sha256": "b870706624184153749fcb015a73093bcceed2d10c7c8f066558f2d966aef9aa",
+      "sizeBytes": 1370,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1305"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1306.webp",
+      "sha256": "6bcdb5541566efd958e412e37518e85ce7582c1810ed8819a6f0d4c524458ce5",
+      "sizeBytes": 1758,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1306"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1307.webp",
+      "sha256": "339f20085307f93e8df707046e9c41a1554b71586bc2f3014f9d19cf2d880b11",
+      "sizeBytes": 1096,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1307"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1308.webp",
+      "sha256": "625eed56eb6f9baf4666160eced755b04d427222f6c8b8254525a2924ca45970",
+      "sizeBytes": 1074,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1308"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1309.webp",
+      "sha256": "5ab28284f74bb1c2741d39d9791695ff6834a957fee6c22d894401cb338dec2b",
+      "sizeBytes": 1320,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1309"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1310.webp",
+      "sha256": "268559978af7eb50d58adb3a8b56daa01845a74d7661fd16b297f6835e5069c1",
+      "sizeBytes": 1930,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1310"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1311.webp",
+      "sha256": "9ce45d5b31c77303b5a60b0ff0fd1ec92600caa69fccb1bebbf56aed7630e06d",
+      "sizeBytes": 1236,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1311"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1312.webp",
+      "sha256": "854505bdf45709d18b143f5a58d8da29c3c92d1f58b0ae21466bce49065953e4",
+      "sizeBytes": 1356,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1312"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1313.webp",
+      "sha256": "29ad32ba86351f49c600b92746f947f5dff9e558c3e717630cd7f2f700bfb923",
+      "sizeBytes": 1206,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1313"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1314.webp",
+      "sha256": "d3ea60b014d7c7a21e7c9c98d14f86e0ee03baab27baa08f26559111b228b43c",
+      "sizeBytes": 1236,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1314"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1315.webp",
+      "sha256": "bcfe37c1b30acc3453e9de69b4b6dbe971b682f0ec8ab84a47c74089305744c7",
+      "sizeBytes": 1230,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1315"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1316.webp",
+      "sha256": "abc4b30adb574402e93a3c3e24c1c430a7493b7483ffbbe7bc0dc271dc9f2b52",
+      "sizeBytes": 1874,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1316"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1317.webp",
+      "sha256": "d43c1fd8b75a2be07e53adc7b4c8de90ef56933588e5da152c5059e157d5b9dd",
+      "sizeBytes": 2656,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1317"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1318.webp",
+      "sha256": "7ec26ce04642bf41353421a06d6b9831dfd93f47b23c90a81f44198b84e05a97",
+      "sizeBytes": 1410,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1318"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1319.webp",
+      "sha256": "dfc250d4eec0057a2a940352ea500d3b477f4f1ef51455c80c26518b6a3b4822",
+      "sizeBytes": 1272,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1319"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1320.webp",
+      "sha256": "c587eb7808a9c9c34bee23e613e53fb80790a23eae93037b46d367af1151d134",
+      "sizeBytes": 2156,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1320"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1321.webp",
+      "sha256": "46fb7f16f4892190a542a31bbbc4242ae36bb799d9967333405aaba5f26e0628",
+      "sizeBytes": 1386,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1321"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1322.webp",
+      "sha256": "1b0f5c94f8ed6faabc10995bc829bed16798c04065df9775f247919bf05f8201",
+      "sizeBytes": 1238,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1322"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1323.webp",
+      "sha256": "3596dabd31a952f9cba85535830d172a3ee035ea46c8f3b6f4a406ee0abcb38d",
+      "sizeBytes": 1368,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1323"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1324.webp",
+      "sha256": "8ce9dd09221edf282dae0f03a740ac1f8190382b32660408851d004e6aa0e0a9",
+      "sizeBytes": 1392,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1324"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1325.webp",
+      "sha256": "8a4849d2287c14d0426d966002f0c077e1d7327d7e5efe74c95866d1ccc1d1e2",
+      "sizeBytes": 3576,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1325"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1326.webp",
+      "sha256": "13824176e37edba7da89b7ad81d7c8de4cd39016ede291efa3f5b1458e9f1425",
+      "sizeBytes": 1284,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1326"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1327.webp",
+      "sha256": "0dd5656cb3b46329d5b293b5541a0643d2548980414183a5f8a65a123440f035",
+      "sizeBytes": 1694,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1327"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1328.webp",
+      "sha256": "63477af24b27f075edf0af2fa0f7689b8186eaa9f4a7ebc7bdee28acd6eb0595",
+      "sizeBytes": 2414,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1328"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1329.webp",
+      "sha256": "65ddb6822f450354358e72387a0361e74bb2686f102cd373fb430a13bcac001e",
+      "sizeBytes": 1158,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1329"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1330.webp",
+      "sha256": "1ec9d001b074c54939cdc34e91671a9925bcefa2a1f7b04b3d3e1cf0ddcceb61",
+      "sizeBytes": 1576,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1330"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1331.webp",
+      "sha256": "e3f5664d9847eb835b4c5f1375d461ed4e817690e6ad4c2239af6465bd515c1b",
+      "sizeBytes": 1114,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1331"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1332.webp",
+      "sha256": "4bb717c516ffca91977671d035f55378e1880c534a75d6f319be43cddf0a8b1e",
+      "sizeBytes": 1174,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1332"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1333.webp",
+      "sha256": "8e8f0db4f9aa5e56b7f09454fc43c860846fcffb5ee1e085c3478e2961288433",
+      "sizeBytes": 1592,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1333"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1334.webp",
+      "sha256": "fee144d61880be5f1c704ea73b69f293ca3b2e7aa959c55e271601c822027f30",
+      "sizeBytes": 1528,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1334"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1335.webp",
+      "sha256": "96869c1188a323f6050ca6cccb4547d95d5a6930ef72f2dc45103896f2ba63b4",
+      "sizeBytes": 1512,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1335"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1336.webp",
+      "sha256": "41140ec6370f2edd8e4118abcff8d378aa087499ad6559be96c2b07a243f6b91",
+      "sizeBytes": 1890,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1336"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1337.webp",
+      "sha256": "24f41678c28d73ae1ee748a434f69a78ca3cd20abdb897b21965232dc3193953",
+      "sizeBytes": 2410,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1337"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1338.webp",
+      "sha256": "3b0c383b569f93ce9834f9c5b8002706534bb0fe404c98a2da1dc7a6aa9317ce",
+      "sizeBytes": 2230,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1338"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1339.webp",
+      "sha256": "7ac0d5aade553e5868c4efd0792ba7e3a02e1d4bcfb1f030f083e89152a787fd",
+      "sizeBytes": 518,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1339"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1340.webp",
+      "sha256": "21f01de956aa82c88c9e5381ed3087702c3c28c599b20934b9365a00947ba7ac",
+      "sizeBytes": 1854,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1340"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1341.webp",
+      "sha256": "8f24e10ca42250c03f1b1d77f08e26b969263fcd4da3c7d0d9bf6e8063ef0def",
+      "sizeBytes": 1764,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1341"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1342.webp",
+      "sha256": "9084bfd495feb4e7bf496bb47aa90c1536a6a930663743f948843d8c62832c93",
+      "sizeBytes": 1498,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1342"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1343.webp",
+      "sha256": "6e057f983c8b1e32277c11ede166cfa387b60fe69c47c85ce2dfd8b0cd9080c9",
+      "sizeBytes": 1194,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1343"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1344.webp",
+      "sha256": "4163a6234510c47ab563ff24beeed2b31b5c11a39900be411679b005e614579c",
+      "sizeBytes": 1034,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1344"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1345.webp",
+      "sha256": "4a096ed79d5b48882883ea05384040a63f47b6518cd0960d1cf0581f98f8836c",
+      "sizeBytes": 1368,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1345"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1346.webp",
+      "sha256": "60c5eb5d7eac90cfb6857d19c33762991850a1bf9a3c4a201194fa5d3f0902a3",
+      "sizeBytes": 1488,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1346"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1347.webp",
+      "sha256": "05653e1cfa9b58f417a6443847bd8c38be73f9887e6df0955f28481230d7f920",
+      "sizeBytes": 3350,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1347"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1348.webp",
+      "sha256": "384ead0036cb6983e3e76ed429d194d589e49b02cdb88bb904efe143b7e11356",
+      "sizeBytes": 2290,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1348"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1349.webp",
+      "sha256": "cb03a6ba86c35e2740a3d9d28fae4c54713aa3b6575f9ac08aeb38a90bba4dbb",
+      "sizeBytes": 1204,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1349"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1350.webp",
+      "sha256": "31667d2b8ce347ab5c75ac0de475fd12fdf2c43452c0cff04bf15f6d7f80e433",
+      "sizeBytes": 1804,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1350"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1351.webp",
+      "sha256": "c5f71e09775e3994b2ed0600c87c8e768a1f11e0c7ab2085834efae401df5206",
+      "sizeBytes": 1610,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1351"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1352.webp",
+      "sha256": "2baa361789ee3516448a0c54ae4666938ba1ddf174d644f4272bc20544e74e34",
+      "sizeBytes": 1240,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1352"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1353.webp",
+      "sha256": "fee40adbc6a5fdcee30f7fed24847d9de5739ab0936ca8ee30e2d3626e930207",
+      "sizeBytes": 1102,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1353"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1354.webp",
+      "sha256": "d5a2636e344b25f03d1a607e788ad4eafdc3af3505985ef4beb34ea54b8da41d",
+      "sizeBytes": 1016,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1354"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1355.webp",
+      "sha256": "e7de445b6275be7aa1f353a2e0a4481fb2b76d22568a2e5a20cf424ea0f406ff",
+      "sizeBytes": 2264,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1355"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1356.webp",
+      "sha256": "ab5f51c25d57e1be807b178240b11405834dacc004af30a87b0fadaf87f8572c",
+      "sizeBytes": 2106,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1356"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1357.webp",
+      "sha256": "0cfba7146b041e310a42168f83e6dcc63e59a704a23b92a4895d65111a5cd28f",
+      "sizeBytes": 1362,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1357"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1358.webp",
+      "sha256": "d35d6841751d80d70e8d52994fbd6ce627bbc9f16b1d511ed43f08f766bca4d9",
+      "sizeBytes": 1386,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1358"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1359.webp",
+      "sha256": "41a0014e4f37164a84ecb4fce3de87b1b6ef6c20b64c786cdc7b789fb30f1d22",
+      "sizeBytes": 1336,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1359"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1360.webp",
+      "sha256": "64a0f974f7919cccc0d61db0f4342b06e3a15364748939cb71ace563ea593c87",
+      "sizeBytes": 1156,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1360"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1361.webp",
+      "sha256": "627d2b2f81dd4b901d056e203f83450105b7fefd9b9a07a24be12044bc41e712",
+      "sizeBytes": 1930,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1361"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1362.webp",
+      "sha256": "76802453bbccc67a998f9c4fa408ab93fceb30e25386d368e43cef580eec2117",
+      "sizeBytes": 1882,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1362"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1363.webp",
+      "sha256": "4368b4b5931dcfe9e7910b7afd6f95ac3cb4a5c477bde95150cb1bbbe5857ff0",
+      "sizeBytes": 1486,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1363"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1364.webp",
+      "sha256": "30794b596089bcf1c50fd87b382d77af835c19a8631e531c0a6302ce83523293",
+      "sizeBytes": 1230,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1364"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1365.webp",
+      "sha256": "d1d5728a04e6dde650a8a0bcff8672576fae15704cbc4691daa8d5dc8ee31fba",
+      "sizeBytes": 1334,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1365"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1366.webp",
+      "sha256": "6b840197c4d5645bade5bffaefb46b6b76388e6d452c8b626e0600042a8271e9",
+      "sizeBytes": 1226,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1366"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1367.webp",
+      "sha256": "43afa9c8188dd19e1e6ec508d9ca23ad547ec2a911ab637970ee9d1402aa38bf",
+      "sizeBytes": 1110,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1367"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1368.webp",
+      "sha256": "b8aab493f692158da346bb38d0208031f758f2959552b2fbeb5087d2e4c35c7b",
+      "sizeBytes": 1348,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1368"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1369.webp",
+      "sha256": "d3a5901c09c458d56144b526ea10ce6316935b9fd92b141730bff92100a59c48",
+      "sizeBytes": 1294,
+      "width": 96,
+      "height": 128,
+      "format": "WEBP",
+      "recordIds": [
+        "KR-MER-1369"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1370.jpg",
+      "sha256": "dec1c58865700e776300d582d4cc7e9ef19edc9e2d5abb2398a006a1bfa835aa",
+      "sizeBytes": 149689,
+      "width": 756,
+      "height": 1008,
+      "format": "JPEG",
+      "recordIds": [
+        "KR-MER-1370",
+        "KR-MER-1371",
+        "KR-MER-1372",
+        "KR-MER-1373",
+        "KR-MER-1374"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1382.png",
+      "sha256": "842f417df4f0adbbf711104954b7c483de76beaeda562b938e3c829214cb6963",
+      "sizeBytes": 37514,
+      "width": 152,
+      "height": 207,
+      "format": "PNG",
+      "recordIds": [
+        "KR-MER-1382"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1383.png",
+      "sha256": "7bb4158bd74edd8c4d8cb46e24c236f360c92fa8e0a71de285d32bfb58de6f4e",
+      "sizeBytes": 23032,
+      "width": 160,
+      "height": 202,
+      "format": "PNG",
+      "recordIds": [
+        "KR-MER-1383"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1384.png",
+      "sha256": "27bf2a68971199c5acf8d8a90f74e42f43a95dc76010bc479a58479720ef7c45",
+      "sizeBytes": 17507,
+      "width": 103,
+      "height": 109,
+      "format": "PNG",
+      "recordIds": [
+        "KR-MER-1384"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1385.png",
+      "sha256": "261d586ec63a9ab3ca34eeb4eb04e64e3bca973a94132708c1924b25eaf698bb",
+      "sizeBytes": 9366,
+      "width": 101,
+      "height": 130,
+      "format": "PNG",
+      "recordIds": [
+        "KR-MER-1385"
+      ]
+    },
+    {
+      "assetPath": "assets/images/KR-MER-1386.png",
+      "sha256": "ff15805de1d256c5af6023e7ca286a7739beb2ea237586aab2c5bd4c4f7867f0",
+      "sizeBytes": 16728,
+      "width": 101,
+      "height": 130,
+      "format": "PNG",
+      "recordIds": [
+        "KR-MER-1386"
+      ]
     }
   ]
 }

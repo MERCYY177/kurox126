@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-08-20",
+  "baseActive": 1045,
+  "qiandaoRecords": 393,
+  "existingMapped": 162,
+  "duplicateRecords": 2,
+  "additionalDuplicateIntercepted": {
+    "qiandaoIndex": 161,
+    "name": "Sparkle挂件vol.7",
+    "masterId": "KR-MER-0397"
+  },
+  "addedFromQiandao": 233,
+  "manualAdded": 10,
+  "activeAfter": 1288,
+  "nextId": "KR-MER-1385",
+  "localImageRecords": 1245,
+  "totalMissingImages": 43,
+  "addedMissingImages": [
+    "KR-MER-1179",
+    "KR-MER-1183",
+    "KR-MER-1203",
+    "KR-MER-1210",
+    "KR-MER-1211",
+    "KR-MER-1228",
+    "KR-MER-1229",
+    "KR-MER-1255",
+    "KR-MER-1257",
+    "KR-MER-1258",
+    "KR-MER-1270",
+    "KR-MER-1277",
+    "KR-MER-1292",
+    "KR-MER-1370",
+    "KR-MER-1371",
+    "KR-MER-1372",
+    "KR-MER-1373",
+    "KR-MER-1374"
+  ],
+  "uniqueIds": true,
+  "missingLocalImageFiles": 0,
+  "duplicateNewSourceUrls": 0,
+  "seriesCoverageGroups": 882,
+  "websiteEntry": "index.html"
+}

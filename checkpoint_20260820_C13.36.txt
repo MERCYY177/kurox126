@@ -1,0 +1,6 @@
+C13.36 千岛393零碎分类审计写回完成。
+
+Active 1045 → 1288：千岛新增233，用户补充新增10。
+图片1245/1288已本地化，43条待补。
+items.js、source_image_archive.json、image_manifest.json已同步；image_manifest已按当前Active重建。
+母表版本：v2.15 Active1288，含统一母表、图片索引、网页导出、千岛审计台账、系列覆盖汇总和总览。

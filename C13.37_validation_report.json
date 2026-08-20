@@ -1,0 +1,121 @@
+{
+  "version": "C13.37",
+  "generatedAt": "2026-08-20",
+  "previousActive": 1288,
+  "withdrawnDuplicateIds": {
+    "KR-MER-1375": "KR-MER-1008",
+    "KR-MER-1376": "KR-MER-1010",
+    "KR-MER-1377": "KR-MER-1013",
+    "KR-MER-1378": "KR-MER-1014",
+    "KR-MER-1379": "KR-MER-1022",
+    "KR-MER-1380": "KR-MER-1024",
+    "KR-MER-1381": "KR-MER-1031"
+  },
+  "localizedExistingIds": [
+    "KR-MER-0624",
+    "KR-MER-0635",
+    "KR-MER-0661",
+    "KR-MER-0925",
+    "KR-MER-1005",
+    "KR-MER-1008",
+    "KR-MER-1010",
+    "KR-MER-1013",
+    "KR-MER-1014",
+    "KR-MER-1022",
+    "KR-MER-1024",
+    "KR-MER-1031",
+    "KR-MER-1245",
+    "KR-MER-1382",
+    "KR-MER-1383",
+    "KR-MER-1384"
+  ],
+  "retainedValidManualIds": [
+    "KR-MER-1382",
+    "KR-MER-1383",
+    "KR-MER-1384"
+  ],
+  "addedIds": [
+    "KR-MER-1385",
+    "KR-MER-1386"
+  ],
+  "activeAfter": 1283,
+  "localImageRecords": 1252,
+  "missingImageRecords": 31,
+  "missingImageIds": [
+    "KR-MER-0203",
+    "KR-MER-0333",
+    "KR-MER-0488",
+    "KR-MER-0637",
+    "KR-MER-0669",
+    "KR-MER-0880",
+    "KR-MER-0899",
+    "KR-MER-0993",
+    "KR-MER-0997",
+    "KR-MER-1009",
+    "KR-MER-1038",
+    "KR-MER-1138",
+    "KR-MER-1141",
+    "KR-MER-1179",
+    "KR-MER-1183",
+    "KR-MER-1203",
+    "KR-MER-1210",
+    "KR-MER-1211",
+    "KR-MER-1228",
+    "KR-MER-1229",
+    "KR-MER-1255",
+    "KR-MER-1257",
+    "KR-MER-1258",
+    "KR-MER-1270",
+    "KR-MER-1277",
+    "KR-MER-1292",
+    "KR-MER-1370",
+    "KR-MER-1371",
+    "KR-MER-1372",
+    "KR-MER-1373",
+    "KR-MER-1374"
+  ],
+  "uniqueAssetFiles": 1251,
+  "reviewedWithoutReplacement": [
+    {
+      "file": "VbuWUEye6I(1).jpg",
+      "decision": "与560709114.jpg为同一商品的低清缩略图，未重复写入",
+      "targetId": "KR-MER-0925"
+    },
+    {
+      "file": "871581125m.jpg",
+      "decision": "对应KR-MER-0155；现有本地图1024×1024，优于该192×192文件，保留现图",
+      "targetId": "KR-MER-0155"
+    },
+    {
+      "file": "SVSt9sFKpZkphqpPS5RuZ8.jpg",
+      "decision": "对应KR-MER-0406；现有本地图已是1016×1024同款，未重复写入",
+      "targetId": "KR-MER-0406"
+    },
+    {
+      "file": "屏幕截图 2026-08-20 132811.png",
+      "decision": "对应KR-MER-1158；现有本地图已本地化，截图仅作核验证据",
+      "targetId": "KR-MER-1158"
+    },
+    {
+      "file": "屏幕截图 2026-08-20 132839.png",
+      "decision": "对应KR-MER-1148；现有本地图已本地化，截图仅作核验证据",
+      "targetId": "KR-MER-1148"
+    },
+    {
+      "file": "屏幕截图 2026-08-20 132933.png",
+      "decision": "对应KR-MER-1178；现有本地图已本地化，截图仅作核验证据",
+      "targetId": "KR-MER-1178"
+    },
+    {
+      "file": "屏幕截图 2026-08-20 132953.png",
+      "decision": "对应KR-MER-1199与KR-MER-1186；两项均已有本地图，截图仅作核验证据",
+      "targetId": "KR-MER-1199 / KR-MER-1186"
+    },
+    {
+      "file": "屏幕截图 2026-08-20 133025.png",
+      "decision": "对应KR-MER-1182；现有本地图已本地化，截图仅作核验证据",
+      "targetId": "KR-MER-1182"
+    }
+  ],
+  "noGeneratedImages": true
+}

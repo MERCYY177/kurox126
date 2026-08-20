@@ -1604,8 +1604,8 @@
     "imageSource": "駿河屋角色单品档案原图",
     "imageSourceUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/892061951.jpg.webp",
     "sourceUrl": "https://www.suruga-ya.jp/product/detail/892061951",
-    "imageAuditStatus": "非官图已撤",
-    "imageAuditReason": "非官方图片来源：cdn.suruga-ya.jp"
+    "imageAuditStatus": "用户实测外链无图",
+    "imageAuditReason": "2026-08-20 用户下载核验：外链未能取得有效商品图，继续保留缺图状态。"
   },
   "KR-MER-0204": {
     "fallbackImage": "",
@@ -3652,8 +3652,8 @@
     "imageSource": "公开真实商品图/旧图鉴迁移",
     "imageSourceUrl": "https://jp.mercari.com/item/m69517677969",
     "sourceUrl": "https://jp.mercari.com/item/m69517677969",
-    "imageAuditStatus": "非官图已撤",
-    "imageAuditReason": "非官方图片来源：jp.mercari.com"
+    "imageAuditStatus": "用户实测外链无图",
+    "imageAuditReason": "2026-08-20 用户下载核验：外链未能取得有效商品图，继续保留缺图状态。"
   },
   "KR-MER-0489": {
     "fallbackImage": "",
@@ -4673,11 +4673,11 @@
   },
   "KR-MER-0624": {
     "fallbackImage": "",
-    "imageSource": "駿河屋鬼龍紅郎精确角色页（NO IMAGE）",
+    "imageSource": "用户提供招福绘马商品页截图裁切",
     "imageSourceUrl": "",
     "sourceUrl": "https://www.suruga-ya.jp/kaitori/kaitori_detail/508800953",
-    "imageAuditStatus": "终态没图・停止检索",
-    "imageAuditReason": "历史最终图片尾池已封锁：商品身份确认，但没有取得符合终态标准的可用图；不再重复检索。"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-0625": {
     "fallbackImage": "https://cdn.suruga-ya.jp/database/pics_webp/game/892288298.jpg.webp",
@@ -4761,11 +4761,11 @@
   },
   "KR-MER-0635": {
     "fallbackImage": "https://images.weserv.nl/?url=https%3A%2F%2Fstatic.mercdn.net%2Fitem%2Fdetail%2Forig%2Fphotos%2Fm59870268862_1.jpg%3F1785422662&output=webp&q=92",
-    "imageSource": "Mercari第五弾二手实物图裁切",
-    "imageSourceUrl": "https://jp.mercari.com/item/m59870268862",
+    "imageSource": "用户提供花伴透卡第五弹商品图",
+    "imageSourceUrl": "",
     "sourceUrl": "https://www.suruga-ya.jp/kaitori/search_buy?category=50108&page=734&search_word=%E3%81%82%E3%82%93%E3%81%95%E3%82%93%E3%81%B6%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
-    "imageAuditStatus": "非官图已撤",
-    "imageAuditReason": "非官方图片来源：jp.mercari.com"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-0636": {
     "fallbackImage": "",
@@ -4945,11 +4945,11 @@
   },
   "KR-MER-0661": {
     "fallbackImage": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.suruga-ya.jp%2Fdatabase%2Fpics_webp%2Fgame%2F871542914.jpg.webp&output=webp&q=92",
-    "imageSource": "精确二手实物原图＋駿河屋/au PAY鬼龍紅郎单品档案",
-    "imageSourceUrl": "https://wowma.jp/item/638932677",
+    "imageSource": "用户提供Enjoy summer徽章商品图",
+    "imageSourceUrl": "",
     "sourceUrl": "https://www.suruga-ya.jp/product/detail/871542914",
-    "imageAuditStatus": "非官图已撤",
-    "imageAuditReason": "非官方图片来源：wowma.jp"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-0662": {
     "fallbackImage": "https://cdn.suruga-ya.jp/database/pics_webp/game/871526669.jpg.webp",
@@ -6697,11 +6697,11 @@
   },
   "KR-MER-0880": {
     "fallbackImage": "https://pattythree-shop-product.jp/cdn/shop/files/00_4573641886433_80973463-d2b7-485b-97db-39f539bdf6e9.jpg?v=1765851709&width=533",
-    "imageSource": "Pattythree官方A组商品图（外链）",
+    "imageSource": "Pattythree官方A组商品图（外链）（用户下载后本地化）",
     "imageSourceUrl": "https://pattythree-shop-product.jp/cdn/shop/files/00_4573641886433_80973463-d2b7-485b-97db-39f539bdf6e9.jpg?v=1765851709&width=533",
     "sourceUrl": "https://pattythree-shop-product.jp/collections/starrysymphony-4th",
-    "imageAuditStatus": "按新规则接入集体图",
-    "imageAuditReason": "无单人图时按用户新规则采用可明确对应本商品/系列且包含鬼龍紅郎的官方/厂商集体图。"
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
   },
   "KR-MER-0881": {
     "fallbackImage": "https://cdn.suruga-ya.jp/database/pics_webp/game/608378935.jpg.webp",
@@ -6852,8 +6852,8 @@
     "imageSource": "駿河屋2022 animatecafe Group B・鬼龍紅郎精确单品档案图",
     "imageSourceUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/871155397.jpg.webp",
     "sourceUrl": "https://www.suruga-ya.jp/product/detail/871155397",
-    "imageAuditStatus": "非官图已撤",
-    "imageAuditReason": "非官方图片来源：cdn.suruga-ya.jp"
+    "imageAuditStatus": "用户实测外链无图",
+    "imageAuditReason": "2026-08-20 用户下载核验：外链未能取得有效商品图，继续保留缺图状态。"
   },
   "KR-MER-0900": {
     "fallbackImage": "https://cdn.suruga-ya.jp/database/pics_webp/game/508497712.jpg.webp",
@@ -7057,11 +7057,11 @@
   },
   "KR-MER-0925": {
     "fallbackImage": "https://images.weserv.nl/?url=https%3A%2F%2Fstatic.mercdn.net%2Fitem%2Fdetail%2Forig%2Fphotos%2Fm55871176766_1.jpg%3F1766420473&output=webp&q=92",
-    "imageSource": "Mercari精确HOLIDAY四人同一实体实物原图＋駿河屋单品档案",
-    "imageSourceUrl": "https://jp.mercari.com/item/m55871176766",
+    "imageSource": "用户提供ENSEMBLE HOLIDAY四人亚克力挂件原图",
+    "imageSourceUrl": "",
     "sourceUrl": "https://www.suruga-ya.jp/product/detail/560709132",
-    "imageAuditStatus": "非官图已撤",
-    "imageAuditReason": "非官方图片来源：jp.mercari.com"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-0926": {
     "fallbackImage": "https://cdn.suruga-ya.jp/database/pics_webp/game/992276672.jpg.webp",
@@ -7425,11 +7425,11 @@
   },
   "KR-MER-0993": {
     "fallbackImage": "",
-    "imageSource": "官方活动存在性+精确商品页证据；图片未取得",
+    "imageSource": "官方活动存在性+精确商品页证据；图片未取得（用户下载后本地化）",
     "imageSourceUrl": "",
     "sourceUrl": "https://www.suruga-ya.jp/product/detail/859216033",
-    "imageAuditStatus": "精确商品身份已锁定・图未取得",
-    "imageAuditReason": "已锁定为POP-UP SHOP -10年のキセキ-购买特典「紅月＆Special for Princess」ごほうびシール；当前未取得可作为最终资产的官方图片。"
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
   },
   "KR-MER-0994": {
     "fallbackImage": "",
@@ -7460,8 +7460,8 @@
     "imageSource": "千岛SPU商品主图（外链）",
     "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/121417a2dc6923ec32e9d964c60ee9b1.png",
     "sourceUrl": "",
-    "imageAuditStatus": "千岛图源已接入",
-    "imageAuditReason": "2026-08-19 Firecrawl检索到鬼龍紅郎「爱丽丝贴纸」千岛精确角色页，商品名与2016年条目吻合，接入角色页主图。"
+    "imageAuditStatus": "用户实测外链无图",
+    "imageAuditReason": "2026-08-20 用户下载核验：外链未能取得有效商品图，继续保留缺图状态。"
   },
   "KR-MER-0998": {
     "fallbackImage": "",
@@ -7521,11 +7521,11 @@
   },
   "KR-MER-1005": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/39bvKUWbbN.png",
-    "imageSource": "千岛紅月集体图（外链）",
-    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/39bvKUWbbN.png",
+    "imageSource": "用户提供红月门店海报商品图",
+    "imageSourceUrl": "",
     "sourceUrl": "https://qiandao.com/spu?id=860041712540623046",
-    "imageAuditStatus": "已接入",
-    "imageAuditReason": "千岛SPU角色阵容明确含蓮巳敬人、神崎颯馬、鬼龍紅郎；按用户新规则，无单人图时采用明确对应商品的集体图。"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-1006": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/40a954926623186604c1a3a6d8024872.png?imginfo=w768,h1024",
@@ -7545,11 +7545,11 @@
   },
   "KR-MER-1008": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/VZTEws9jKd.png",
-    "imageSource": "千岛SPU商品主图（外链）",
-    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/VZTEws9jKd.png",
+    "imageSource": "用户提供GIRA姓名钥匙扣商品图",
+    "imageSourceUrl": "",
     "sourceUrl": "",
-    "imageAuditStatus": "千岛图源已接入",
-    "imageAuditReason": "2026-08-19 Firecrawl抽取千岛对应鬼龍紅郎商品页主图。"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-1009": {
     "fallbackImage": "",
@@ -7561,11 +7561,11 @@
   },
   "KR-MER-1010": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/NeHOcKeXWT.png",
-    "imageSource": "千岛SPU商品主图（外链）",
-    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/NeHOcKeXWT.png",
+    "imageSource": "用户提供日记系列挂件组合商品图",
+    "imageSourceUrl": "",
     "sourceUrl": "",
-    "imageAuditStatus": "千岛图源已接入",
-    "imageAuditReason": "2026-08-19 Firecrawl抽取千岛对应鬼龍紅郎商品页主图。"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-1011": {
     "fallbackImage": "",
@@ -7585,19 +7585,19 @@
   },
   "KR-MER-1013": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/frIdwT79L5E.png",
-    "imageSource": "千岛SPU商品主图（外链）",
-    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/frIdwT79L5E.png",
+    "imageSource": "用户提供一番赏甜品特典挂件商品图",
+    "imageSourceUrl": "",
     "sourceUrl": "",
-    "imageAuditStatus": "千岛图源已接入",
-    "imageAuditReason": "2026-08-19 Firecrawl抽取千岛对应鬼龍紅郎商品页主图。"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-1014": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/fSIXzBQMDlo.png",
-    "imageSource": "千岛SPU商品主图（外链）",
-    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fSIXzBQMDlo.png",
+    "imageSource": "用户提供印记亚克力挂件第二弹商品图",
+    "imageSourceUrl": "",
     "sourceUrl": "",
-    "imageAuditStatus": "千岛图源已接入",
-    "imageAuditReason": "2026-08-19 Firecrawl抽取千岛对应鬼龍紅郎商品页主图。"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-1015": {
     "fallbackImage": "",
@@ -7657,11 +7657,11 @@
   },
   "KR-MER-1022": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/5ab9cfae9b9f55b2f08be1b908b9c490.png",
-    "imageSource": "千岛角色单品图（外链）",
-    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/5ab9cfae9b9f55b2f08be1b908b9c490.png",
+    "imageSource": "用户提供10th POPUP卡套商品图",
+    "imageSourceUrl": "",
     "sourceUrl": "https://qiandao.com/spu?id=881696094759709262",
-    "imageAuditStatus": "已接入",
-    "imageAuditReason": "千岛精确角色页“鬼龙红郎-10thPOPUP 卡套”，角色商品主图。"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-1023": {
     "fallbackImage": "https://public.qiandaocdn.com/interior/images/VZTZgXf8zu.png?imginfo=w1134,h1512",
@@ -7673,11 +7673,11 @@
   },
   "KR-MER-1024": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/6UfJnzgcW4mU5hghtmohiZzwFqfPYezZ.png?imginfo=w1320,h1320",
-    "imageSource": "千岛角色单品图（外链）",
-    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/6UfJnzgcW4mU5hghtmohiZzwFqfPYezZ.png?imginfo=w1320,h1320",
+    "imageSource": "用户提供爱丽丝咖啡馆挂件商品图（用户下载后本地化）",
+    "imageSourceUrl": "",
     "sourceUrl": "https://qiandao.com/spu?id=764353326551844902",
-    "imageAuditStatus": "已接入",
-    "imageAuditReason": "千岛精确角色页“鬼龙红郎-爱丽丝咖啡馆挂件”，与カフェB实体对应。"
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
   },
   "KR-MER-1025": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/f8U5BpvLAu0.png?imginfo=w756,h1008",
@@ -7729,11 +7729,11 @@
   },
   "KR-MER-1031": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/fm52mCfkbjO.png",
-    "imageSource": "千岛SPU商品主图（外链）",
-    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fm52mCfkbjO.png",
+    "imageSource": "用户提供5uper Love心形扣商品图",
+    "imageSourceUrl": "",
     "sourceUrl": "",
-    "imageAuditStatus": "千岛图源已接入",
-    "imageAuditReason": "2026-08-19 Firecrawl抽取千岛对应鬼龍紅郎商品页主图。"
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   },
   "KR-MER-1032": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/fr6SG53wzLe.png?imginfo=w283,h377",
@@ -8577,11 +8577,11 @@
   },
   "KR-MER-1138": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/fBFpea0NZap.png",
-    "imageSource": "千岛SPU商品主图（外链）",
+    "imageSource": "千岛SPU商品主图（外链）（用户下载后本地化）",
     "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fBFpea0NZap.png",
     "sourceUrl": "https://qiandao.com/spu?id=937907281331255915",
-    "imageAuditStatus": "千岛图源已接入",
-    "imageAuditReason": "2026-08-19 Firecrawl抽取千岛SPU商品主图；当前以外链接入，保留本地化入口。"
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
   },
   "KR-MER-1139": {
     "fallbackImage": "https://treasure.qiandaocdn.com/treasure/images/fiEeU5j1mqD.png",
@@ -8604,7 +8604,1911 @@
     "imageSource": "千岛SPU系列/集体主图（外链）",
     "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fjhQdJbYAZX.png",
     "sourceUrl": "https://qiandao.com/spu?id=1008450323871755591",
-    "imageAuditStatus": "按新规则接入集体图",
-    "imageAuditReason": "用户已同意：找不到单人图时，先使用可明确对应系列的集体图。该图来自花伴透卡第十弹系列页主图。"
+    "imageAuditStatus": "用户实测外链无图",
+    "imageAuditReason": "2026-08-20 用户下载核验：外链未能取得有效商品图，继续保留缺图状态。"
+  },
+  "KR-MER-1142": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fvhAznjx0lm.png",
+    "sourceUrl": "https://qiandao.com/spu?id=927249971747501254",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1143": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/dc9f7b038ab8eec99a12ffd41c70faa3.png",
+    "sourceUrl": "https://qiandao.com/spu?id=372437492072416028",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1144": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/9cb548580a5ebe064324174dc7cf115c.png",
+    "sourceUrl": "https://qiandao.com/spu?id=413302800223792957",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1145": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/DGrmiH4lYv.png",
+    "sourceUrl": "https://qiandao.com/spu?id=522352844502938387",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1146": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/foL8imVta81.png",
+    "sourceUrl": "https://qiandao.com/spu?id=845226500952173806",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1147": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/339534ccd5f7c7a5ae7fe05b089bd88e.png",
+    "sourceUrl": "https://qiandao.com/spu?id=686663625934483225",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1148": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f6rjIfJ8fPa.png",
+    "sourceUrl": "https://qiandao.com/spu?id=908777099437844154",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1149": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fd536e1b5c9de548c4a8d0cdec7f6a49.jpg",
+    "sourceUrl": "https://qiandao.com/spu?id=498515904859181703",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1150": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/99d25f2e1e8a93b03a600455df9116bd.png",
+    "sourceUrl": "https://qiandao.com/spu?id=513062989155313118",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1151": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/6356c364fc441851611f2c9336a3f2e1.png",
+    "sourceUrl": "https://qiandao.com/spu?id=415237356573130618",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1152": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/0f7d1a545b13be36b983f6a8f16295cd.png",
+    "sourceUrl": "https://qiandao.com/spu?id=363101878143409221",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1153": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/07013d5f040116028373aefe20e69e3b.png",
+    "sourceUrl": "https://qiandao.com/spu?id=378295062959907975",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1154": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/63787e5bc5879bdb0e9c90732d7255aa.png",
+    "sourceUrl": "https://qiandao.com/spu?id=369768758308366656",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1155": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/903a49e9241814b250cc1f38ce417f5d.png",
+    "sourceUrl": "https://qiandao.com/spu?id=369111551002620564",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1156": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/ffFW2WAUvRg.png",
+    "sourceUrl": "https://qiandao.com/spu?id=856680016941948891",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1157": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fb8cf314cb99d58c3f49d6ac5c7fca33.png",
+    "sourceUrl": "https://qiandao.com/spu?id=335629892928452460",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1158": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/c29822bf439a2de8f00806cd793c1cf4.png",
+    "sourceUrl": "https://qiandao.com/spu?id=389999866748636458",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1159": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/676ccf932e49e33bcf1b0ed07ef4d67b.png",
+    "sourceUrl": "https://qiandao.com/spu?id=818907323614403728",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1160": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/2ff3ed92e8f5954ba1e1292f29aabcbb.png",
+    "sourceUrl": "https://qiandao.com/spu?id=372511039092296866",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1161": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fj6Si1YJVZy.png",
+    "sourceUrl": "https://qiandao.com/spu?id=1002945586695026382",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1162": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fiWruivIxok.png",
+    "sourceUrl": "https://qiandao.com/spu?id=874482656383891909",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1163": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/562ea6f6fbb7360065c521de47973771.png",
+    "sourceUrl": "https://qiandao.com/spu?id=701146994390928837",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1164": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/93ce53abfc2f72001d3b9409da8ed593.png",
+    "sourceUrl": "https://qiandao.com/spu?id=674116647778286090",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1165": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/511567926d2d2122ccdfe69dabc35e9c.png",
+    "sourceUrl": "https://qiandao.com/spu?id=663788677360772137",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1166": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/T0ahaxHyP3hleNDaxXnsKVLngJdbuuFi.png",
+    "sourceUrl": "https://qiandao.com/spu?id=686722896483238379",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1167": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/0623573c95082ddec54e37b88fec98a7.png",
+    "sourceUrl": "https://qiandao.com/spu?id=702064910506591427",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1168": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fa7o3YKEmyI.png",
+    "sourceUrl": "https://qiandao.com/spu?id=1020524188831629133",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1169": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/gzJ5fw42HJ.png",
+    "sourceUrl": "https://qiandao.com/spu?id=777348278386716310",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1170": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fBPo0WARHKD.png",
+    "sourceUrl": "https://qiandao.com/spu?id=939082781667917859",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1171": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/2d6c0f4985293b78180d0f0b3be24b56.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=343438147767556366",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1172": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/5c154790a82637cc7e19094f9112d64c.png",
+    "sourceUrl": "https://qiandao.com/spu?id=392398142127065304",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1173": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/3190685e7ddbb5ef24704a1e27f1b48a.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=361729618912404544",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1174": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f8AN0bUTMJu.png",
+    "sourceUrl": "https://qiandao.com/spu?id=972175811773746517",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1175": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/d015995eebd4dc6c5e2818ef996857dd.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=447758844643301135",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1176": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/a607589068dbb011753ea04a570d98ac.png",
+    "sourceUrl": "https://qiandao.com/spu?id=323449314137406463",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1177": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/1ac9242124b5fe433253e4b397bd56b2.png",
+    "sourceUrl": "https://qiandao.com/spu?id=460029944165049550",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1178": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fc2cf31bfa0505aafe16a4addbb10852.png",
+    "sourceUrl": "https://qiandao.com/spu?id=324512198284128100",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1179": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/95fc1efb531ba28d487e8929fd396f23.png",
+    "sourceUrl": "https://qiandao.com/spu?id=681252499717543412",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1180": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/11413f5acc7ab14f21152b884cf9aada.jpg",
+    "sourceUrl": "https://qiandao.com/spu?id=543067171123862101",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1181": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fyNZHGtZOwe.png",
+    "sourceUrl": "https://qiandao.com/spu?id=982462539768058287",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1182": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/d12b44c8f26bac163a25835e3adf7027.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=448906185026950950",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1183": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/6d3de277cf20edb6de59c7fec67f9d4f.png",
+    "sourceUrl": "https://qiandao.com/spu?id=712007244400593159",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1184": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fbe9c1fbd8dda7bc84f9dbeb3c79fa04.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=455171039073293107",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1185": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/388e97869603797bac7cefe6fcd40c39.png",
+    "sourceUrl": "https://qiandao.com/spu?id=379047313596813085",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1186": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/d8e5722f9858b0305e9a2da170e049a7.png",
+    "sourceUrl": "https://qiandao.com/spu?id=338711974344958847",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1187": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/VZywxNp0aT.png",
+    "sourceUrl": "https://qiandao.com/spu?id=794357609451803799",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1188": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/eddb146a219c948408374bbf7845220a.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=462278097551706379",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1189": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fvoNITW1LXA.png",
+    "sourceUrl": "https://qiandao.com/spu?id=920648290259739331",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1190": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f46f09f4b8165d4b5fbde6a4283d6402.png",
+    "sourceUrl": "https://qiandao.com/spu?id=327488756649252534",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1191": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/01b0ba062ba63b3f6dc71ed6ead42bec.png",
+    "sourceUrl": "https://qiandao.com/spu?id=361668819355353803",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1192": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/20379035121534fb9115849ddf1da646.png",
+    "sourceUrl": "https://qiandao.com/spu?id=367585033726240672",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1193": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/V3EUT9LcqM.png",
+    "sourceUrl": "https://qiandao.com/spu?id=794317927175210093",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1194": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/e8bdd8af090eb5f326e318a7542f2d9a.png",
+    "sourceUrl": "https://qiandao.com/spu?id=398748058000684471",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1195": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/67f6ad8f13babf14741bb11fa306d9f1.jpg",
+    "sourceUrl": "https://qiandao.com/spu?id=323129437858054881",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1196": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fed50aaca601bbe60cfb2b6ccb351f97.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=358378621003558656",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1197": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/0f760bcdd32b7cc37b995ff8900d9e64.png",
+    "sourceUrl": "https://qiandao.com/spu?id=382933644819308497",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1198": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/foL6WU4M0EG.png",
+    "sourceUrl": "https://qiandao.com/spu?id=845214557721907960",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1199": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/37e036d160fb6f4744346f3e38388b8e.png",
+    "sourceUrl": "https://qiandao.com/spu?id=330058001790658367",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1200": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/9364106a015a27c9305e2c455c320bf8.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=333034452781615403",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1201": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/affdcb2b41458a4ec79a5cfc2346c861.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=454414849951269636",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1202": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/inkZ5S2IRkgikzNawcSDanSquarbg7t6.png",
+    "sourceUrl": "https://qiandao.com/spu?id=652997975756464929",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1203": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/04f360046ab15030ed6de94cfa00f058.png",
+    "sourceUrl": "https://qiandao.com/spu?id=703823033894325330",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1204": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/a3deb5581a65bca9016f16a249172fbd.png",
+    "sourceUrl": "https://qiandao.com/spu?id=390190494577260674",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1205": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/952822371e1ce9b193c4ffe0fabd8d9f.png",
+    "sourceUrl": "https://qiandao.com/spu?id=805427568755927605",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1206": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/dfffdb87a3234570e24950dfc86c7450.png",
+    "sourceUrl": "https://qiandao.com/spu?id=748377487024808858",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1207": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/638cb1a702c30adf7eedaec2dab61146.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=364278815146513295",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1208": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fauqC6feW6n.png",
+    "sourceUrl": "https://qiandao.com/spu?id=1022668513531195870",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1209": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fyNeQkkYKhR.png",
+    "sourceUrl": "https://qiandao.com/spu?id=982452390760286272",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1210": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/14a50c845bf983c1c0d0be5db95ecd08.png",
+    "sourceUrl": "https://qiandao.com/spu?id=356909733598327185",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1211": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/2226c7296248e573dde8f7f90901bd46.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=333034959587762968",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1212": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/0651174e101e35e0b809babd3ecde5e7.png",
+    "sourceUrl": "https://qiandao.com/spu?id=342724526066583246",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1213": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fTrXPNdzF0h.png",
+    "sourceUrl": "https://qiandao.com/spu?id=990011909010911015",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1214": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/b92a60224f0c7edb30d256ff15ef3bfc.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=362022089005223393",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1215": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/c5d9de4861412379da39b577dbb87b20.png",
+    "sourceUrl": "https://qiandao.com/spu?id=386530284792899933",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1216": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fv4B7qs4KDK.png",
+    "sourceUrl": "https://qiandao.com/spu?id=923605062784160943",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1217": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/3c0230c7edd446512a064089a4acd8c5.png",
+    "sourceUrl": "https://qiandao.com/spu?id=370548616995026472",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1218": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fa9db91cb35096a43d42f1a54f5f90de.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=367579136736303428",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1219": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/524e5ad407008f247d064577ee8a6d65.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=334610727254009815",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1220": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f6zhlUBRmKb.png",
+    "sourceUrl": "https://qiandao.com/spu?id=912768701382564975",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1221": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fc5bdd63832f7c89718ab284513aa83a.png",
+    "sourceUrl": "https://qiandao.com/spu?id=672983029815256698",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1222": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/e9079ed580970e0f3fe9852c0ce82ae9.png",
+    "sourceUrl": "https://qiandao.com/spu?id=329740350304289597",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1223": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/1e0907c5d0d474e51a5bfe5dd798d148.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=343837145934484894",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1224": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/8774BFA0FB38AA1FC04EC80CF44D6230.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=512017138849040524",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1225": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/989c99353026804fa92d6f735928b6c2.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=392802908434868679",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1226": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fa81563c16af0e0e567a344bb4d24e9e.png",
+    "sourceUrl": "https://qiandao.com/spu?id=555727252948649976",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1227": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/b6iI4f3H7U.png",
+    "sourceUrl": "https://qiandao.com/spu?id=813327007898191444",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1228": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/1cb6d0aab4c7fd16de54d86b7515de15.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=367568300533867015",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1229": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/a0de8fb0cd76646e4c13711c5c255694.jpg",
+    "sourceUrl": "https://qiandao.com/spu?id=495948575273086862",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1230": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/13a28c350e47c0447f134d7a57625baf.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=333510137589321419",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1231": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/ad14068a7f40f36c711f1c8c1f5f4a47.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=386547228438935614",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1232": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/a98bd166a53e36f7494764266d3b82de.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=363575432647333034",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1233": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/nwfvPHUl2G.png",
+    "sourceUrl": "https://qiandao.com/spu?id=802840420043224614",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1234": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/d4312760125e72b5c6559e6893d40a5a.png",
+    "sourceUrl": "https://qiandao.com/spu?id=334541921877896466",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1235": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/D3I8gTj7rM.png",
+    "sourceUrl": "https://qiandao.com/spu?id=767223059416414785",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1236": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/c3a2682b293c0f25f92164e615f90f53.png",
+    "sourceUrl": "https://qiandao.com/spu?id=358353345120944735",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1237": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/3062096f45a3ba170499db0ba7d3be7b.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=499705962987413726",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1238": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/VNrAzFFKfO.png",
+    "sourceUrl": "https://qiandao.com/spu?id=792823965750947458",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1239": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/312849ddb31635fda6ea3228662aa75e.png",
+    "sourceUrl": "https://qiandao.com/spu?id=654837127997159872",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1240": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/D3nFJ477h3.png",
+    "sourceUrl": "https://qiandao.com/spu?id=767237602175626103",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1241": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/92c4f9521115b464925392b72c97eb70.png",
+    "sourceUrl": "https://qiandao.com/spu?id=366939414242464708",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1242": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/eb4dd68ea0abf8fdf7a0ed6a47939a21.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=333034809263905366",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1243": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/2800612da336ede6d4b08969161c5272.png",
+    "sourceUrl": "https://qiandao.com/spu?id=504954623476393607",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1244": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fUu5qsHNEXf.png",
+    "sourceUrl": "https://qiandao.com/spu?id=389642791757559665",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1245": {
+    "fallbackImage": "",
+    "imageSource": "用户提供樱花cafe Q版徽章较大图",
+    "imageSourceUrl": "",
+    "sourceUrl": "https://qiandao.com/spu?id=361643294364625854",
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
+  },
+  "KR-MER-1246": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/ded5545d4b52b24cd37ed1afac350602.png",
+    "sourceUrl": "https://qiandao.com/spu?id=513100101967713973",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1247": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/a25be3e90df4afe3525775aea9a33130.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=342127834850048429",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1248": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/c4ce8d37da6951ecd888e97b1e1e4357.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=343165241250751987",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1249": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/88e4b9acfc3f80a4d545c53d70c9f798.png",
+    "sourceUrl": "https://qiandao.com/spu?id=654837127997159820",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1250": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/011f0340caa6964bedbafdaa6427a8ec.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=379913857608450725",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1251": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/b3635f34e4e94d195bd899041ea68e92.png",
+    "sourceUrl": "https://qiandao.com/spu?id=371001920728466758",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1252": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/00142822d098216292c121ddde4cf8c1.png",
+    "sourceUrl": "https://qiandao.com/spu?id=479340288926732495",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1253": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/456cb9420bd9c9a26584b23921d55651.png",
+    "sourceUrl": "https://qiandao.com/spu?id=390540448512536166",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1254": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/17298e6700eb7621742ac7dbdd419819.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=339768540594772925",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1255": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/9ff655927726f7e01040dc3511dc0271.png",
+    "sourceUrl": "https://qiandao.com/spu?id=596180209879789327",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1256": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/0b72c4cba2fe07e527352af19c563fd6.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=360509487423023813",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1257": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/28da1cfc0b202b937eaf07702a2c1ddb.png",
+    "sourceUrl": "https://qiandao.com/spu?id=517477983607538781",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1258": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f49d37af0ae3e8b3855eeb1a76bcaa58.png",
+    "sourceUrl": "https://qiandao.com/spu?id=588011740428537436",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1259": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f6zhbU89dUV.png",
+    "sourceUrl": "https://qiandao.com/spu?id=912771195684843385",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1260": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/1fea63ca84c3ceaa7d0ce61b876502eb.png",
+    "sourceUrl": "https://qiandao.com/spu?id=720091210370257247",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1261": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/bdf4e332141d2d42f91dd1ae7bcdd17b.png",
+    "sourceUrl": "https://qiandao.com/spu?id=753103054856862171",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1262": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/a4e5138525229f520bb016f9428fc854.png",
+    "sourceUrl": "https://qiandao.com/spu?id=346449641396528126",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1263": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/6e52050e4dfeaa0b538ceeeea067223b.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=367261472365125829",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1264": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/ee6a6f8e41b462d09669de69c1ac5240.png",
+    "sourceUrl": "https://qiandao.com/spu?id=338984365466050164",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1265": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fT8NEAM8m8a.png",
+    "sourceUrl": "https://qiandao.com/spu?id=990299181119715169",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1266": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f637aZKx4Ed.png",
+    "sourceUrl": "https://qiandao.com/spu?id=916022085422186914",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1267": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fc8807c69840c775f15d0d123fa47723.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=389986320421792440",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1268": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/884faf8b9e65bab33ff21fe9ac837295.png",
+    "sourceUrl": "https://qiandao.com/spu?id=691189310283793662",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1269": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/D3bAhWgOuE.png",
+    "sourceUrl": "https://qiandao.com/spu?id=767243006318233714",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1270": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/067abe36a960969afa6e035fa1f6fdb9.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=359024356451555434",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1271": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/822564781d306f45fc58cbe29ab0f950.png",
+    "sourceUrl": "https://qiandao.com/spu?id=714505996244036405",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1272": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/bd3dce39bbf5c0d8339b375a4f4c76e4.png",
+    "sourceUrl": "https://qiandao.com/spu?id=380712545432000562",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1273": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/53c9b322bdbfbef5202ae88a6c857abb.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=363546360013855759",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1274": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/02da4803f1dcc087afbc60b0836242ad.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=354184705697935197",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1275": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/db8276e1f09c884ec1c4018177f389f1.png",
+    "sourceUrl": "https://qiandao.com/spu?id=341566933595860109",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1276": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/54010c83859d061efa1d84c2820d75e5.png",
+    "sourceUrl": "https://qiandao.com/spu?id=654837127997159898",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1277": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/65a94f3f69442ac970297e11a44e16c1.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=380722844763435514",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1278": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/baqe3m8bOL.png",
+    "sourceUrl": "https://qiandao.com/spu?id=815807283865878712",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1279": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/a1f792ecf512465f1289063aa874f23f.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=365049435358612722",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1280": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f1415fa98c023495560b1b89b16dd75c.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=361233348326232912",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1281": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f748e8d86d4353005849671530cfb5cc.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=365764272535536852",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1282": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/0bde20b694a25a470287f206da169bb7.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=401009126353924571",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1283": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/3f0e5fb95819ee4b1cb0a22f0b2f708c.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=362737862485013724",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1284": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/c7c9e800ac5dba07fa3a67f546fcf992.png",
+    "sourceUrl": "https://qiandao.com/spu?id=390707492675481549",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1285": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/1a0c2d8ca9350a89f43e6ed88c2e9683.png",
+    "sourceUrl": "https://qiandao.com/spu?id=741234758842935173",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1286": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/611a050fb96dfb2e35e23c9aade6f600.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=337874026225598550",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1287": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/ccea139d768d913368978a3b1884f302.png",
+    "sourceUrl": "https://qiandao.com/spu?id=390194390112417015",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1288": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/ba0e877cc4990c2b1541dcd2a170faab.png",
+    "sourceUrl": "https://qiandao.com/spu?id=344226768187603411",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1289": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/01e2bc9c368f1d82be74b2c1944c2c39.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=358748593781366175",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1290": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/cd17fdd504717eee36dbafdb4a760152.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=346862155825540714",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1291": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/DktPcD2VTG.png",
+    "sourceUrl": "https://qiandao.com/spu?id=764597194794765559",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1292": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/d1c229e9c4bc1cc2bdc5b6fa6d467c66.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=364681163387716030",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1293": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/dc650e71e8a61a25f09ca4a1d40b66fb.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=365765638335225648",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1294": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/D3MZGe60x9.png",
+    "sourceUrl": "https://qiandao.com/spu?id=767221439140000417",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1295": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/53150fde57dfdd8545370cd7580931e0.png",
+    "sourceUrl": "https://qiandao.com/spu?id=704858340056102630",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1296": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/ed86d0e809e5933a9200421cd130c934.png",
+    "sourceUrl": "https://qiandao.com/spu?id=361285996035365738",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1297": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/35fb5aa38f5b34dc0f13b573b3bbaec1.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=333873831124933179",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1298": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/ede8d9e237d08152b2bd2c0d704e9be7.png",
+    "sourceUrl": "https://qiandao.com/spu?id=388030383725307852",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1299": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/c318600c267cff7d32dfdb34e506c41c.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=395201922547634536",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1300": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/65af8134fefcfd4a1465d980072fbfd9.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=359423930144106809",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1301": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/a3fada0a447664ca73557833a840fc8d.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=363878489834694906",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1302": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/56fbd20995354b1dc8f693f5126f3264.png",
+    "sourceUrl": "https://qiandao.com/spu?id=751741649008324338",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1303": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/b4e3e531898d0afb1083836592c43373.png",
+    "sourceUrl": "https://qiandao.com/spu?id=691189310283793661",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1304": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fygCv1qS3vL.png",
+    "sourceUrl": "https://qiandao.com/spu?id=987235950314711601",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1305": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/d48e68b67075f8a6038b1ca292faf4b4.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=366179200736056107",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1306": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/bwRk8tEwuR.png",
+    "sourceUrl": "https://qiandao.com/spu?id=816557719879175963",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1307": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/1af073a9dbbfa4e5897f8e7f148508f6.png",
+    "sourceUrl": "https://qiandao.com/spu?id=392424526111080949",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1308": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/1551adf1b691caa1b559d6180b6af6e9.png",
+    "sourceUrl": "https://qiandao.com/spu?id=362346320381379218",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1309": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/7ef861974865963c3a3fa8367e8d2ca9.png",
+    "sourceUrl": "https://qiandao.com/spu?id=717494215445089489",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1310": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f6P450BDRlG.png",
+    "sourceUrl": "https://qiandao.com/spu?id=912057455872050862",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1311": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/07866566d9e33913f73b0b82f9a05f8c.png",
+    "sourceUrl": "https://qiandao.com/spu?id=388399604883928069",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1312": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/616f44aed19503866a07d9855361d5c2.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=387713728671491410",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1313": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/5101894695a46b0685fbf3edc06a9108.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=345658946507253391",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1314": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/e1a48c85578be452a3f4db6f04e59f7d.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=363138999545569067",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1315": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/l9JBHHaoiVjw0aeqhPhuyLuo39uUnun4.png",
+    "sourceUrl": "https://qiandao.com/spu?id=634771603431027192",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1316": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/c0e5ffb076e05391261a03de579cc2e0.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=493381456140231755",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1317": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fo7BolOlDC0.png",
+    "sourceUrl": "https://qiandao.com/spu?id=844564889157511184",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1318": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/2b3bc583495ba29bd7c496203c13fab2.png",
+    "sourceUrl": "https://qiandao.com/spu?id=561718736621538174",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1319": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/7db1f93fcb434689aacbeea19a916df6.png",
+    "sourceUrl": "https://qiandao.com/spu?id=359104607915505302",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1320": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/6e4df6e1373771737f45d277e6cf3ae5.png",
+    "sourceUrl": "https://qiandao.com/spu?id=720087443684162744",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1321": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/cbDineLhn09hFgKw2gqgVnxhnyHw8xB0.png",
+    "sourceUrl": "https://qiandao.com/spu?id=647753593054683723",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1322": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/bbb580da2161dd3986c482fc401270f5.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=339027315138804115",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1323": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fohVqCRwf0e.png",
+    "sourceUrl": "https://qiandao.com/spu?id=846056775038830229",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1324": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/0a41fafbfcbd1d24b90e57f7cc236f2d.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=361699781774457670",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1325": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/810d305f1f0070a4da0d3a7afdd05496.jpg",
+    "sourceUrl": "https://qiandao.com/spu?id=502618556404563969",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1326": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/M9d0pXzB1I.png",
+    "sourceUrl": "https://qiandao.com/spu?id=329428041757619078",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1327": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/0a6a2255fbd0e178d34fa305de8ebd1e.png",
+    "sourceUrl": "https://qiandao.com/spu?id=355376537647879099",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1328": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/c4887265f37f3acab95ac44eabc72224.jpg",
+    "sourceUrl": "https://qiandao.com/spu?id=503767215343019173",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1329": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/75a4d3667dd4ead17c84740a26ee0c83.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=381041432552731443",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1330": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/55393fc91ccc65f64cc2c56e88a2f1ae.png",
+    "sourceUrl": "https://qiandao.com/spu?id=522659526642604272",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1331": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/1fe31bb92dc22fabd1fea6032eaef862.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=468473759674824989",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1332": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/511085eb71b1e252db7ff61d87d50d98.png",
+    "sourceUrl": "https://qiandao.com/spu?id=691189310283793660",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1333": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/nek6YAiGR7.png",
+    "sourceUrl": "https://qiandao.com/spu?id=807305748290774789",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1334": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/38E4AC4F0C9A4E7ACAC9D9039BF763C7.png",
+    "sourceUrl": "https://qiandao.com/spu?id=623689784648312765",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1335": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/ca0b08ff8d7966877f12d9498e505a8b.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=349050329993778731",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1336": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/4b5cc4a9a8b64c514cd7de0c17e64c3d.png",
+    "sourceUrl": "https://qiandao.com/spu?id=714505996244037404",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1337": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/23d9b6d4db06b60d294c1940884c3f5f.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=498520805416660070",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1338": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/98281bf2e062d4d1052542a2ce26844c.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=362394097597673279",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1339": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/3f6d3655557226e2b5075267979c1bca.png",
+    "sourceUrl": "https://qiandao.com/spu?id=383327531975095894",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1340": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/ca2e38c9cb59f9b8963d1411aca0fa24.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=513131657092616917",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1341": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/4ba1074ebcdc0aa1bf115bb8dba190e8.png",
+    "sourceUrl": "https://qiandao.com/spu?id=654837127997159859",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1342": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/8586f5e7e7e3a316c0f297b3c3a5785d.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=359058819269115171",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1343": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/d5083daf411749d38740ca5a2586dc36.png",
+    "sourceUrl": "https://qiandao.com/spu?id=576541300120117500",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1344": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/b3897eb8c3e4b3a1ddf9eda2bd605446.jpg",
+    "sourceUrl": "https://qiandao.com/spu?id=496743307431580979",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1345": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/EhEFjv45an.jpg",
+    "sourceUrl": "https://qiandao.com/spu?id=832528359274595128",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1346": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/b52ec41bcf3ca866f320fc54f9a303ef.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=348629380249034579",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1347": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/65ff2a045fd3c127c0d4121920e470f6.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=362411625359101517",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1348": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/baHTCTtYUo.png",
+    "sourceUrl": "https://qiandao.com/spu?id=815807283865878619",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1349": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/51876038818dc0c48904f4aa32aa3c43.png",
+    "sourceUrl": "https://qiandao.com/spu?id=361988502361171014",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1350": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/8c021b53d6fee4114b72e220fb477af6.png",
+    "sourceUrl": "https://qiandao.com/spu?id=411176293195914793",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1351": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/46a67647820139c536c496c7724ebd84.png",
+    "sourceUrl": "https://qiandao.com/spu?id=614398967228242427",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1352": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/hW8bpyHguiauhiyviineJiw2mixaGy6y.png",
+    "sourceUrl": "https://qiandao.com/spu?id=679361051954888364",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1353": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/7bdce0d0a76db8257cf0d7eae0c07c21.png",
+    "sourceUrl": "https://qiandao.com/spu?id=710500703017364483",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1354": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/e792084eeb00234f0426ff9ea0b2427f.jpg",
+    "sourceUrl": "https://qiandao.com/spu?id=746157929530479018",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1355": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/e5ff72d9bd2a747a6d4b2daa164d8c97.png",
+    "sourceUrl": "https://qiandao.com/spu?id=797642794503030792",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1356": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/aNux2P6NnunYPoaaolRuOlhxbh4mQlUu.png",
+    "sourceUrl": "https://qiandao.com/spu?id=653691806248121011",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1357": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/233c59ecbbe3ee9712194b1c2679f12f.png",
+    "sourceUrl": "https://qiandao.com/spu?id=339711653752935076",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1358": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/d1a5d64edd045aeac663519ee35b54fe.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=364670056602368389",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1359": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://public.qiandaocdn.com/interior/images/nchrB8575S.png",
+    "sourceUrl": "https://qiandao.com/spu?id=803597793502437121",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1360": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/foQaL6Fkn4c.png",
+    "sourceUrl": "https://qiandao.com/spu?id=415228633494451161",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1361": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/DJYPQz2SHV.jpg",
+    "sourceUrl": "https://qiandao.com/spu?id=762495108951065934",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1362": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/5C450F97BD9E0E9CBD624D5A34103857.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=495955232472249955",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1363": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/767b8eaf6d96f07377c8ef8407c9d466.png",
+    "sourceUrl": "https://qiandao.com/spu?id=342681232796093713",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1364": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/2f09a6ae540df50682922ccbacefc79d.png",
+    "sourceUrl": "https://qiandao.com/spu?id=364578616748587486",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1365": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/4daff235cdbd35c21b25d21095dc13ba.png",
+    "sourceUrl": "https://qiandao.com/spu?id=364300182608682521",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1366": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/57e99696a8e25dfe0036eaf2e3008c9e.png",
+    "sourceUrl": "https://qiandao.com/spu?id=381361708264013651",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1367": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/12AC1DD91B94C660DADD5391262D65D4.jpeg",
+    "sourceUrl": "https://qiandao.com/spu?id=496307205042322161",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1368": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/5f42d4107e9eab9b9a94e97679af450b.png",
+    "sourceUrl": "https://qiandao.com/spu?id=496388014851853455",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1369": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/fd9cf2caafa9d72f10db12cdc426e4f2.png",
+    "sourceUrl": "https://qiandao.com/spu?id=739806016497139235",
+    "imageAuditStatus": "已核对",
+    "imageAuditReason": "千岛角色级页面与当前母表逐项反查后新增"
+  },
+  "KR-MER-1370": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f6g68erS2Nl.png",
+    "sourceUrl": "https://qiandao.com/spu?id=919448365517816413",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1371": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f6g68erS2Nl.png",
+    "sourceUrl": "https://qiandao.com/spu?id=919448365517816413",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1372": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f6g68erS2Nl.png",
+    "sourceUrl": "https://qiandao.com/spu?id=919448365517816413",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1373": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f6g68erS2Nl.png",
+    "sourceUrl": "https://qiandao.com/spu?id=919448365517816413",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1374": {
+    "fallbackImage": "",
+    "imageSource": "千岛角色级商品页（用户下载后本地化）",
+    "imageSourceUrl": "https://treasure.qiandaocdn.com/treasure/images/f6g68erS2Nl.png",
+    "sourceUrl": "https://qiandao.com/spu?id=919448365517816413",
+    "imageAuditStatus": "用户下载外链图本地化",
+    "imageAuditReason": "2026-08-20 用户提供下载压缩包；按外链原文件名与来源URL精确匹配后直接本地化。未生成图片。"
+  },
+  "KR-MER-1382": {
+    "fallbackImage": "",
+    "imageSource": "用户提供抱抱熊围巾商品页截图裁切",
+    "imageSourceUrl": "",
+    "sourceUrl": "",
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
+  },
+  "KR-MER-1383": {
+    "fallbackImage": "",
+    "imageSource": "用户提供抱抱熊痛包商品页截图裁切",
+    "imageSourceUrl": "",
+    "sourceUrl": "",
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
+  },
+  "KR-MER-1384": {
+    "fallbackImage": "",
+    "imageSource": "用户提供A咖背带裤Q版杯垫商品页截图裁切",
+    "imageSourceUrl": "",
+    "sourceUrl": "",
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
+  },
+  "KR-MER-1385": {
+    "fallbackImage": "",
+    "imageSource": "用户提供5uper Love商品页截图裁切",
+    "imageSourceUrl": "",
+    "sourceUrl": "",
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
+  },
+  "KR-MER-1386": {
+    "fallbackImage": "",
+    "imageSource": "用户提供5uper Love商品页截图裁切",
+    "imageSourceUrl": "",
+    "sourceUrl": "",
+    "imageAuditStatus": "用户图本地化写回",
+    "imageAuditReason": "用户提供并确认的商品图已直接本地化；未生成图片。"
   }
 }

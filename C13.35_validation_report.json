@@ -1,0 +1,31 @@
+{
+  "active_count": 1045,
+  "empty_images": [
+    "KR-MER-0203",
+    "KR-MER-0333",
+    "KR-MER-0488",
+    "KR-MER-0624",
+    "KR-MER-0635",
+    "KR-MER-0637",
+    "KR-MER-0661",
+    "KR-MER-0669",
+    "KR-MER-0880",
+    "KR-MER-0899",
+    "KR-MER-0925",
+    "KR-MER-0993",
+    "KR-MER-0997",
+    "KR-MER-1005",
+    "KR-MER-1008",
+    "KR-MER-1009",
+    "KR-MER-1010",
+    "KR-MER-1013",
+    "KR-MER-1014",
+    "KR-MER-1022",
+    "KR-MER-1024",
+    "KR-MER-1031",
+    "KR-MER-1038",
+    "KR-MER-1138",
+    "KR-MER-1141"
+  ],
+  "note": "C13.35 validation checkpoint generated from current files"
+}
