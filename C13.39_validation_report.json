@@ -1,0 +1,92 @@
+{
+  "version": "C13.39",
+  "generatedAt": "2026-08-21",
+  "activeCount": 1283,
+  "localImageRecordCount": 1273,
+  "noImageRecordCount": 10,
+  "uniqueReferencedAssetCount": 1268,
+  "decodedReferencedAssetCount": 1268,
+  "recoveredRecordCount": 213,
+  "missingCount": 10,
+  "missingIds": [
+    "KR-MER-0203",
+    "KR-MER-0333",
+    "KR-MER-0488",
+    "KR-MER-0637",
+    "KR-MER-0669",
+    "KR-MER-0899",
+    "KR-MER-0997",
+    "KR-MER-1009",
+    "KR-MER-1038",
+    "KR-MER-1141"
+  ],
+  "smallDefinition": "width <= 100 AND height <= 150",
+  "smallCount": 7,
+  "smallItems": [
+    {
+      "id": "KR-MER-0315",
+      "width": 43,
+      "height": 65,
+      "path": "assets/images/KR-MER-0315.webp"
+    },
+    {
+      "id": "KR-MER-0624",
+      "width": 94,
+      "height": 127,
+      "path": "assets/images/KR-MER-0624.png"
+    },
+    {
+      "id": "KR-MER-0711",
+      "width": 72,
+      "height": 80,
+      "path": "assets/images/KR-MER-0711.jpg"
+    },
+    {
+      "id": "KR-MER-0828",
+      "width": 65,
+      "height": 65,
+      "path": "assets/images/KR-MER-0828.jpg"
+    },
+    {
+      "id": "KR-MER-0876",
+      "width": 47,
+      "height": 76,
+      "path": "assets/images/KR-MER-0876.webp"
+    },
+    {
+      "id": "KR-MER-1132",
+      "width": 94,
+      "height": 125,
+      "path": "assets/images/KR-MER-1132.png"
+    },
+    {
+      "id": "KR-MER-1224",
+      "width": 96,
+      "height": 128,
+      "path": "assets/images/KR-MER-1224.webp"
+    }
+  ],
+  "trueTailCount": 17,
+  "trueTailIds": [
+    "KR-MER-0203",
+    "KR-MER-0315",
+    "KR-MER-0333",
+    "KR-MER-0488",
+    "KR-MER-0624",
+    "KR-MER-0637",
+    "KR-MER-0669",
+    "KR-MER-0711",
+    "KR-MER-0828",
+    "KR-MER-0876",
+    "KR-MER-0899",
+    "KR-MER-0997",
+    "KR-MER-1009",
+    "KR-MER-1038",
+    "KR-MER-1132",
+    "KR-MER-1141",
+    "KR-MER-1224"
+  ],
+  "decodeFailures": [],
+  "generatedImagesUsed": false,
+  "pass": true
+}

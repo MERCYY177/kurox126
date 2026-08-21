@@ -1,0 +1,3703 @@
+{
+  "targetCount": 214,
+  "downloadedCount": 212,
+  "failedCount": 2,
+  "results": [
+    {
+      "id": "KR-MER-1142",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fvhAznjx0lm.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        960,
+        1280
+      ],
+      "format": "JPEG",
+      "bytes": 52841,
+      "stagingPath": "work/recovery_staging/KR-MER-1142.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1143",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/dc9f7b038ab8eec99a12ffd41c70faa3.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 18431,
+      "stagingPath": "work/recovery_staging/KR-MER-1143.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1144",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/9cb548580a5ebe064324174dc7cf115c.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 9297,
+      "stagingPath": "work/recovery_staging/KR-MER-1144.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1145",
+      "status": "failed",
+      "url": "https://public.qiandaocdn.com/interior/images/DGrmiH4lYv.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "error": "HTTPError: HTTP Error 502: Bad Gateway",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1146",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/foL8imVta81.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        1080,
+        1440
+      ],
+      "format": "JPEG",
+      "bytes": 143767,
+      "stagingPath": "work/recovery_staging/KR-MER-1146.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1147",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/339534ccd5f7c7a5ae7fe05b089bd88e.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 34987,
+      "stagingPath": "work/recovery_staging/KR-MER-1147.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1148",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/f6rjIfJ8fPa.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 35969,
+      "stagingPath": "work/recovery_staging/KR-MER-1148.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1149",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fd536e1b5c9de548c4a8d0cdec7f6a49.jpg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        372,
+        388
+      ],
+      "format": "JPEG",
+      "bytes": 33614,
+      "stagingPath": "work/recovery_staging/KR-MER-1149.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1150",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/99d25f2e1e8a93b03a600455df9116bd.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 10870,
+      "stagingPath": "work/recovery_staging/KR-MER-1150.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1151",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/6356c364fc441851611f2c9336a3f2e1.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 13109,
+      "stagingPath": "work/recovery_staging/KR-MER-1151.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1152",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/0f7d1a545b13be36b983f6a8f16295cd.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 15580,
+      "stagingPath": "work/recovery_staging/KR-MER-1152.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1153",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/07013d5f040116028373aefe20e69e3b.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 9405,
+      "stagingPath": "work/recovery_staging/KR-MER-1153.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1154",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/63787e5bc5879bdb0e9c90732d7255aa.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 8425,
+      "stagingPath": "work/recovery_staging/KR-MER-1154.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1155",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/903a49e9241814b250cc1f38ce417f5d.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 14567,
+      "stagingPath": "work/recovery_staging/KR-MER-1155.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1156",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/ffFW2WAUvRg.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 61264,
+      "stagingPath": "work/recovery_staging/KR-MER-1156.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1157",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fb8cf314cb99d58c3f49d6ac5c7fca33.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 29769,
+      "stagingPath": "work/recovery_staging/KR-MER-1157.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1158",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/c29822bf439a2de8f00806cd793c1cf4.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 10740,
+      "stagingPath": "work/recovery_staging/KR-MER-1158.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1159",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/676ccf932e49e33bcf1b0ed07ef4d67b.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 44855,
+      "stagingPath": "work/recovery_staging/KR-MER-1159.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1160",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/2ff3ed92e8f5954ba1e1292f29aabcbb.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 12420,
+      "stagingPath": "work/recovery_staging/KR-MER-1160.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1161",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fj6Si1YJVZy.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        262,
+        349
+      ],
+      "format": "JPEG",
+      "bytes": 19944,
+      "stagingPath": "work/recovery_staging/KR-MER-1161.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1162",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fiWruivIxok.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 76007,
+      "stagingPath": "work/recovery_staging/KR-MER-1162.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1163",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/562ea6f6fbb7360065c521de47973771.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 66418,
+      "stagingPath": "work/recovery_staging/KR-MER-1163.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1164",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/93ce53abfc2f72001d3b9409da8ed593.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 62982,
+      "stagingPath": "work/recovery_staging/KR-MER-1164.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1165",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/511567926d2d2122ccdfe69dabc35e9c.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 44692,
+      "stagingPath": "work/recovery_staging/KR-MER-1165.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1166",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/T0ahaxHyP3hleNDaxXnsKVLngJdbuuFi.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        1080,
+        1440
+      ],
+      "format": "JPEG",
+      "bytes": 74439,
+      "stagingPath": "work/recovery_staging/KR-MER-1166.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1167",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/0623573c95082ddec54e37b88fec98a7.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 72727,
+      "stagingPath": "work/recovery_staging/KR-MER-1167.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1168",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fa7o3YKEmyI.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 56037,
+      "stagingPath": "work/recovery_staging/KR-MER-1168.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1169",
+      "status": "failed",
+      "url": "https://public.qiandaocdn.com/interior/images/gzJ5fw42HJ.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "error": "HTTPError: HTTP Error 502: Bad Gateway",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1170",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fBPo0WARHKD.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 32233,
+      "stagingPath": "work/recovery_staging/KR-MER-1170.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1171",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/2d6c0f4985293b78180d0f0b3be24b56.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 17373,
+      "stagingPath": "work/recovery_staging/KR-MER-1171.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1172",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/5c154790a82637cc7e19094f9112d64c.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 13745,
+      "stagingPath": "work/recovery_staging/KR-MER-1172.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1173",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/3190685e7ddbb5ef24704a1e27f1b48a.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 20189,
+      "stagingPath": "work/recovery_staging/KR-MER-1173.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1174",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/f8AN0bUTMJu.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 76198,
+      "stagingPath": "work/recovery_staging/KR-MER-1174.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1175",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/d015995eebd4dc6c5e2818ef996857dd.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16238,
+      "stagingPath": "work/recovery_staging/KR-MER-1175.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1176",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/a607589068dbb011753ea04a570d98ac.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 14749,
+      "stagingPath": "work/recovery_staging/KR-MER-1176.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1177",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/1ac9242124b5fe433253e4b397bd56b2.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 24555,
+      "stagingPath": "work/recovery_staging/KR-MER-1177.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1178",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fc2cf31bfa0505aafe16a4addbb10852.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 13086,
+      "stagingPath": "work/recovery_staging/KR-MER-1178.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1180",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/11413f5acc7ab14f21152b884cf9aada.jpg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        828,
+        846
+      ],
+      "format": "JPEG",
+      "bytes": 85325,
+      "stagingPath": "work/recovery_staging/KR-MER-1180.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1181",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fyNZHGtZOwe.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 99810,
+      "stagingPath": "work/recovery_staging/KR-MER-1181.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1182",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/d12b44c8f26bac163a25835e3adf7027.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 11505,
+      "stagingPath": "work/recovery_staging/KR-MER-1182.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1184",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fbe9c1fbd8dda7bc84f9dbeb3c79fa04.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 14677,
+      "stagingPath": "work/recovery_staging/KR-MER-1184.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1185",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/388e97869603797bac7cefe6fcd40c39.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 13893,
+      "stagingPath": "work/recovery_staging/KR-MER-1185.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1186",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/d8e5722f9858b0305e9a2da170e049a7.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 16299,
+      "stagingPath": "work/recovery_staging/KR-MER-1186.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1187",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/VZywxNp0aT.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        540,
+        720
+      ],
+      "format": "PNG",
+      "bytes": 360891,
+      "stagingPath": "work/recovery_staging/KR-MER-1187.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1188",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/eddb146a219c948408374bbf7845220a.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 22168,
+      "stagingPath": "work/recovery_staging/KR-MER-1188.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1189",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fvoNITW1LXA.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 56245,
+      "stagingPath": "work/recovery_staging/KR-MER-1189.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1190",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/f46f09f4b8165d4b5fbde6a4283d6402.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 19061,
+      "stagingPath": "work/recovery_staging/KR-MER-1190.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1191",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/01b0ba062ba63b3f6dc71ed6ead42bec.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 15987,
+      "stagingPath": "work/recovery_staging/KR-MER-1191.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1192",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/20379035121534fb9115849ddf1da646.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 18032,
+      "stagingPath": "work/recovery_staging/KR-MER-1192.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1193",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/V3EUT9LcqM.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "PNG",
+      "bytes": 265054,
+      "stagingPath": "work/recovery_staging/KR-MER-1193.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1194",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/e8bdd8af090eb5f326e318a7542f2d9a.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 17445,
+      "stagingPath": "work/recovery_staging/KR-MER-1194.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1195",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/67f6ad8f13babf14741bb11fa306d9f1.jpg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        300,
+        400
+      ],
+      "format": "JPEG",
+      "bytes": 18573,
+      "stagingPath": "work/recovery_staging/KR-MER-1195.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1196",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fed50aaca601bbe60cfb2b6ccb351f97.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 20292,
+      "stagingPath": "work/recovery_staging/KR-MER-1196.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1197",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/0f760bcdd32b7cc37b995ff8900d9e64.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 27053,
+      "stagingPath": "work/recovery_staging/KR-MER-1197.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1198",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/foL6WU4M0EG.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        1080,
+        1440
+      ],
+      "format": "JPEG",
+      "bytes": 128336,
+      "stagingPath": "work/recovery_staging/KR-MER-1198.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1199",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/37e036d160fb6f4744346f3e38388b8e.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 12980,
+      "stagingPath": "work/recovery_staging/KR-MER-1199.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1200",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/9364106a015a27c9305e2c455c320bf8.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 19414,
+      "stagingPath": "work/recovery_staging/KR-MER-1200.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1201",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/affdcb2b41458a4ec79a5cfc2346c861.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16901,
+      "stagingPath": "work/recovery_staging/KR-MER-1201.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1202",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/inkZ5S2IRkgikzNawcSDanSquarbg7t6.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 51031,
+      "stagingPath": "work/recovery_staging/KR-MER-1202.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1204",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/a3deb5581a65bca9016f16a249172fbd.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 10390,
+      "stagingPath": "work/recovery_staging/KR-MER-1204.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1205",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/952822371e1ce9b193c4ffe0fabd8d9f.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 30147,
+      "stagingPath": "work/recovery_staging/KR-MER-1205.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1206",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/dfffdb87a3234570e24950dfc86c7450.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 79668,
+      "stagingPath": "work/recovery_staging/KR-MER-1206.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1207",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/638cb1a702c30adf7eedaec2dab61146.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 12413,
+      "stagingPath": "work/recovery_staging/KR-MER-1207.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1208",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fauqC6feW6n.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 60100,
+      "stagingPath": "work/recovery_staging/KR-MER-1208.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1209",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fyNeQkkYKhR.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 46770,
+      "stagingPath": "work/recovery_staging/KR-MER-1209.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1212",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/0651174e101e35e0b809babd3ecde5e7.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 13089,
+      "stagingPath": "work/recovery_staging/KR-MER-1212.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1213",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fTrXPNdzF0h.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 58511,
+      "stagingPath": "work/recovery_staging/KR-MER-1213.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1214",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/b92a60224f0c7edb30d256ff15ef3bfc.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 28258,
+      "stagingPath": "work/recovery_staging/KR-MER-1214.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1215",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/c5d9de4861412379da39b577dbb87b20.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 12948,
+      "stagingPath": "work/recovery_staging/KR-MER-1215.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1216",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fv4B7qs4KDK.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 106361,
+      "stagingPath": "work/recovery_staging/KR-MER-1216.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1217",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/3c0230c7edd446512a064089a4acd8c5.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 20199,
+      "stagingPath": "work/recovery_staging/KR-MER-1217.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1218",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fa9db91cb35096a43d42f1a54f5f90de.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16640,
+      "stagingPath": "work/recovery_staging/KR-MER-1218.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1219",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/524e5ad407008f247d064577ee8a6d65.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 20386,
+      "stagingPath": "work/recovery_staging/KR-MER-1219.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1220",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/f6zhlUBRmKb.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 94683,
+      "stagingPath": "work/recovery_staging/KR-MER-1220.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1221",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fc5bdd63832f7c89718ab284513aa83a.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 75267,
+      "stagingPath": "work/recovery_staging/KR-MER-1221.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1222",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/e9079ed580970e0f3fe9852c0ce82ae9.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 21422,
+      "stagingPath": "work/recovery_staging/KR-MER-1222.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1223",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/1e0907c5d0d474e51a5bfe5dd798d148.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 18849,
+      "stagingPath": "work/recovery_staging/KR-MER-1223.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1224",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/8774BFA0FB38AA1FC04EC80CF44D6230.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        99,
+        99
+      ],
+      "format": "JPEG",
+      "bytes": 3774,
+      "stagingPath": "work/recovery_staging/KR-MER-1224.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1225",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/989c99353026804fa92d6f735928b6c2.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 19095,
+      "stagingPath": "work/recovery_staging/KR-MER-1225.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1226",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fa81563c16af0e0e567a344bb4d24e9e.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 70980,
+      "stagingPath": "work/recovery_staging/KR-MER-1226.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1227",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/b6iI4f3H7U.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "PNG",
+      "bytes": 231330,
+      "stagingPath": "work/recovery_staging/KR-MER-1227.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1230",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/13a28c350e47c0447f134d7a57625baf.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 22838,
+      "stagingPath": "work/recovery_staging/KR-MER-1230.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1231",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/ad14068a7f40f36c711f1c8c1f5f4a47.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 24768,
+      "stagingPath": "work/recovery_staging/KR-MER-1231.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1232",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/a98bd166a53e36f7494764266d3b82de.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 20820,
+      "stagingPath": "work/recovery_staging/KR-MER-1232.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1233",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/nwfvPHUl2G.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        540,
+        720
+      ],
+      "format": "PNG",
+      "bytes": 185989,
+      "stagingPath": "work/recovery_staging/KR-MER-1233.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1234",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/d4312760125e72b5c6559e6893d40a5a.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 23419,
+      "stagingPath": "work/recovery_staging/KR-MER-1234.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1235",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/D3I8gTj7rM.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "PNG",
+      "bytes": 204387,
+      "stagingPath": "work/recovery_staging/KR-MER-1235.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1236",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/c3a2682b293c0f25f92164e615f90f53.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 15263,
+      "stagingPath": "work/recovery_staging/KR-MER-1236.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1237",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/3062096f45a3ba170499db0ba7d3be7b.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 22233,
+      "stagingPath": "work/recovery_staging/KR-MER-1237.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1238",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/VNrAzFFKfO.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        540,
+        720
+      ],
+      "format": "PNG",
+      "bytes": 426968,
+      "stagingPath": "work/recovery_staging/KR-MER-1238.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1239",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/312849ddb31635fda6ea3228662aa75e.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 65652,
+      "stagingPath": "work/recovery_staging/KR-MER-1239.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1240",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/D3nFJ477h3.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "PNG",
+      "bytes": 188893,
+      "stagingPath": "work/recovery_staging/KR-MER-1240.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1241",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/92c4f9521115b464925392b72c97eb70.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 17968,
+      "stagingPath": "work/recovery_staging/KR-MER-1241.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1242",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/eb4dd68ea0abf8fdf7a0ed6a47939a21.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 20041,
+      "stagingPath": "work/recovery_staging/KR-MER-1242.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1243",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/2800612da336ede6d4b08969161c5272.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 48559,
+      "stagingPath": "work/recovery_staging/KR-MER-1243.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1244",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fUu5qsHNEXf.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        1080,
+        1440
+      ],
+      "format": "JPEG",
+      "bytes": 110832,
+      "stagingPath": "work/recovery_staging/KR-MER-1244.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1246",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/ded5545d4b52b24cd37ed1afac350602.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 11971,
+      "stagingPath": "work/recovery_staging/KR-MER-1246.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1247",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/a25be3e90df4afe3525775aea9a33130.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 17735,
+      "stagingPath": "work/recovery_staging/KR-MER-1247.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1248",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/c4ce8d37da6951ecd888e97b1e1e4357.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 24571,
+      "stagingPath": "work/recovery_staging/KR-MER-1248.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1249",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/88e4b9acfc3f80a4d545c53d70c9f798.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 70061,
+      "stagingPath": "work/recovery_staging/KR-MER-1249.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1250",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/011f0340caa6964bedbafdaa6427a8ec.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 25025,
+      "stagingPath": "work/recovery_staging/KR-MER-1250.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1251",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/b3635f34e4e94d195bd899041ea68e92.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 10884,
+      "stagingPath": "work/recovery_staging/KR-MER-1251.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1252",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/00142822d098216292c121ddde4cf8c1.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 6512,
+      "stagingPath": "work/recovery_staging/KR-MER-1252.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1253",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/456cb9420bd9c9a26584b23921d55651.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 10747,
+      "stagingPath": "work/recovery_staging/KR-MER-1253.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1254",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/17298e6700eb7621742ac7dbdd419819.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 14642,
+      "stagingPath": "work/recovery_staging/KR-MER-1254.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1256",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/0b72c4cba2fe07e527352af19c563fd6.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 27322,
+      "stagingPath": "work/recovery_staging/KR-MER-1256.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1259",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/f6zhbU89dUV.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 110659,
+      "stagingPath": "work/recovery_staging/KR-MER-1259.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1260",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/1fea63ca84c3ceaa7d0ce61b876502eb.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 63117,
+      "stagingPath": "work/recovery_staging/KR-MER-1260.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1261",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/bdf4e332141d2d42f91dd1ae7bcdd17b.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 41631,
+      "stagingPath": "work/recovery_staging/KR-MER-1261.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1262",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/a4e5138525229f520bb016f9428fc854.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 15037,
+      "stagingPath": "work/recovery_staging/KR-MER-1262.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1263",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/6e52050e4dfeaa0b538ceeeea067223b.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 14775,
+      "stagingPath": "work/recovery_staging/KR-MER-1263.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1264",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/ee6a6f8e41b462d09669de69c1ac5240.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 18447,
+      "stagingPath": "work/recovery_staging/KR-MER-1264.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1265",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fT8NEAM8m8a.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        578,
+        770
+      ],
+      "format": "JPEG",
+      "bytes": 32062,
+      "stagingPath": "work/recovery_staging/KR-MER-1265.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1266",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/f637aZKx4Ed.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 46700,
+      "stagingPath": "work/recovery_staging/KR-MER-1266.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1267",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fc8807c69840c775f15d0d123fa47723.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 23401,
+      "stagingPath": "work/recovery_staging/KR-MER-1267.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1268",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/884faf8b9e65bab33ff21fe9ac837295.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 42091,
+      "stagingPath": "work/recovery_staging/KR-MER-1268.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1269",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/D3bAhWgOuE.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "PNG",
+      "bytes": 190866,
+      "stagingPath": "work/recovery_staging/KR-MER-1269.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1271",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/822564781d306f45fc58cbe29ab0f950.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 52651,
+      "stagingPath": "work/recovery_staging/KR-MER-1271.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1272",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/bd3dce39bbf5c0d8339b375a4f4c76e4.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 14987,
+      "stagingPath": "work/recovery_staging/KR-MER-1272.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1273",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/53c9b322bdbfbef5202ae88a6c857abb.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 25729,
+      "stagingPath": "work/recovery_staging/KR-MER-1273.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1274",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/02da4803f1dcc087afbc60b0836242ad.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 19205,
+      "stagingPath": "work/recovery_staging/KR-MER-1274.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1275",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/db8276e1f09c884ec1c4018177f389f1.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 12195,
+      "stagingPath": "work/recovery_staging/KR-MER-1275.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1276",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/54010c83859d061efa1d84c2820d75e5.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 46951,
+      "stagingPath": "work/recovery_staging/KR-MER-1276.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1278",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/baqe3m8bOL.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        1080,
+        1440
+      ],
+      "format": "JPEG",
+      "bytes": 121057,
+      "stagingPath": "work/recovery_staging/KR-MER-1278.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1279",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/a1f792ecf512465f1289063aa874f23f.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 20082,
+      "stagingPath": "work/recovery_staging/KR-MER-1279.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1280",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/f1415fa98c023495560b1b89b16dd75c.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 20403,
+      "stagingPath": "work/recovery_staging/KR-MER-1280.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1281",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/f748e8d86d4353005849671530cfb5cc.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16846,
+      "stagingPath": "work/recovery_staging/KR-MER-1281.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1282",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/0bde20b694a25a470287f206da169bb7.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 17254,
+      "stagingPath": "work/recovery_staging/KR-MER-1282.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1283",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/3f0e5fb95819ee4b1cb0a22f0b2f708c.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 18157,
+      "stagingPath": "work/recovery_staging/KR-MER-1283.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1284",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/c7c9e800ac5dba07fa3a67f546fcf992.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 14494,
+      "stagingPath": "work/recovery_staging/KR-MER-1284.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1285",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/1a0c2d8ca9350a89f43e6ed88c2e9683.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 64172,
+      "stagingPath": "work/recovery_staging/KR-MER-1285.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1286",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/611a050fb96dfb2e35e23c9aade6f600.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 27666,
+      "stagingPath": "work/recovery_staging/KR-MER-1286.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1287",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/ccea139d768d913368978a3b1884f302.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 11247,
+      "stagingPath": "work/recovery_staging/KR-MER-1287.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1288",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/ba0e877cc4990c2b1541dcd2a170faab.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 10629,
+      "stagingPath": "work/recovery_staging/KR-MER-1288.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1289",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/01e2bc9c368f1d82be74b2c1944c2c39.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16810,
+      "stagingPath": "work/recovery_staging/KR-MER-1289.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1290",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/cd17fdd504717eee36dbafdb4a760152.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 17225,
+      "stagingPath": "work/recovery_staging/KR-MER-1290.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1291",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/DktPcD2VTG.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        540,
+        1006
+      ],
+      "format": "PNG",
+      "bytes": 511919,
+      "stagingPath": "work/recovery_staging/KR-MER-1291.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1293",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/dc650e71e8a61a25f09ca4a1d40b66fb.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 27332,
+      "stagingPath": "work/recovery_staging/KR-MER-1293.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1294",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/D3MZGe60x9.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "PNG",
+      "bytes": 201418,
+      "stagingPath": "work/recovery_staging/KR-MER-1294.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1295",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/53150fde57dfdd8545370cd7580931e0.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 63211,
+      "stagingPath": "work/recovery_staging/KR-MER-1295.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1296",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/ed86d0e809e5933a9200421cd130c934.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 13243,
+      "stagingPath": "work/recovery_staging/KR-MER-1296.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1297",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/35fb5aa38f5b34dc0f13b573b3bbaec1.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16768,
+      "stagingPath": "work/recovery_staging/KR-MER-1297.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1298",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/ede8d9e237d08152b2bd2c0d704e9be7.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 16668,
+      "stagingPath": "work/recovery_staging/KR-MER-1298.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1299",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/c318600c267cff7d32dfdb34e506c41c.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 18123,
+      "stagingPath": "work/recovery_staging/KR-MER-1299.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1300",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/65af8134fefcfd4a1465d980072fbfd9.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 27075,
+      "stagingPath": "work/recovery_staging/KR-MER-1300.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1301",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/a3fada0a447664ca73557833a840fc8d.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 15831,
+      "stagingPath": "work/recovery_staging/KR-MER-1301.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1302",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/56fbd20995354b1dc8f693f5126f3264.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 62468,
+      "stagingPath": "work/recovery_staging/KR-MER-1302.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1303",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/b4e3e531898d0afb1083836592c43373.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 43096,
+      "stagingPath": "work/recovery_staging/KR-MER-1303.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1304",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fygCv1qS3vL.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 61984,
+      "stagingPath": "work/recovery_staging/KR-MER-1304.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1305",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/d48e68b67075f8a6038b1ca292faf4b4.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 17460,
+      "stagingPath": "work/recovery_staging/KR-MER-1305.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1306",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/bwRk8tEwuR.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        540,
+        720
+      ],
+      "format": "PNG",
+      "bytes": 272341,
+      "stagingPath": "work/recovery_staging/KR-MER-1306.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1307",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/1af073a9dbbfa4e5897f8e7f148508f6.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 14897,
+      "stagingPath": "work/recovery_staging/KR-MER-1307.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1308",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/1551adf1b691caa1b559d6180b6af6e9.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 20432,
+      "stagingPath": "work/recovery_staging/KR-MER-1308.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1309",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/7ef861974865963c3a3fa8367e8d2ca9.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 67547,
+      "stagingPath": "work/recovery_staging/KR-MER-1309.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1310",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/f6P450BDRlG.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 52315,
+      "stagingPath": "work/recovery_staging/KR-MER-1310.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1311",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/07866566d9e33913f73b0b82f9a05f8c.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 13404,
+      "stagingPath": "work/recovery_staging/KR-MER-1311.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1312",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/616f44aed19503866a07d9855361d5c2.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16555,
+      "stagingPath": "work/recovery_staging/KR-MER-1312.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1313",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/5101894695a46b0685fbf3edc06a9108.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 18248,
+      "stagingPath": "work/recovery_staging/KR-MER-1313.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1314",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/e1a48c85578be452a3f4db6f04e59f7d.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 18859,
+      "stagingPath": "work/recovery_staging/KR-MER-1314.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1315",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/l9JBHHaoiVjw0aeqhPhuyLuo39uUnun4.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 15342,
+      "stagingPath": "work/recovery_staging/KR-MER-1315.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1316",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/c0e5ffb076e05391261a03de579cc2e0.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 17161,
+      "stagingPath": "work/recovery_staging/KR-MER-1316.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1317",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fo7BolOlDC0.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        1080,
+        1440
+      ],
+      "format": "JPEG",
+      "bytes": 119217,
+      "stagingPath": "work/recovery_staging/KR-MER-1317.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1318",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/2b3bc583495ba29bd7c496203c13fab2.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 17965,
+      "stagingPath": "work/recovery_staging/KR-MER-1318.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1319",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/7db1f93fcb434689aacbeea19a916df6.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 75485,
+      "stagingPath": "work/recovery_staging/KR-MER-1319.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1320",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/6e4df6e1373771737f45d277e6cf3ae5.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        1080,
+        1440
+      ],
+      "format": "JPEG",
+      "bytes": 124710,
+      "stagingPath": "work/recovery_staging/KR-MER-1320.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1321",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/cbDineLhn09hFgKw2gqgVnxhnyHw8xB0.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 42816,
+      "stagingPath": "work/recovery_staging/KR-MER-1321.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1322",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/bbb580da2161dd3986c482fc401270f5.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 20455,
+      "stagingPath": "work/recovery_staging/KR-MER-1322.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1323",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fohVqCRwf0e.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 62662,
+      "stagingPath": "work/recovery_staging/KR-MER-1323.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1324",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/0a41fafbfcbd1d24b90e57f7cc236f2d.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 19462,
+      "stagingPath": "work/recovery_staging/KR-MER-1324.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1325",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/810d305f1f0070a4da0d3a7afdd05496.jpg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        1080,
+        1080
+      ],
+      "format": "JPEG",
+      "bytes": 92644,
+      "stagingPath": "work/recovery_staging/KR-MER-1325.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1326",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/M9d0pXzB1I.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 17591,
+      "stagingPath": "work/recovery_staging/KR-MER-1326.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1327",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/0a6a2255fbd0e178d34fa305de8ebd1e.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 17893,
+      "stagingPath": "work/recovery_staging/KR-MER-1327.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1328",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/c4887265f37f3acab95ac44eabc72224.jpg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        804,
+        711
+      ],
+      "format": "JPEG",
+      "bytes": 44826,
+      "stagingPath": "work/recovery_staging/KR-MER-1328.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1329",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/75a4d3667dd4ead17c84740a26ee0c83.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 11686,
+      "stagingPath": "work/recovery_staging/KR-MER-1329.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1330",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/55393fc91ccc65f64cc2c56e88a2f1ae.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 20989,
+      "stagingPath": "work/recovery_staging/KR-MER-1330.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1331",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/1fe31bb92dc22fabd1fea6032eaef862.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16454,
+      "stagingPath": "work/recovery_staging/KR-MER-1331.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1332",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/511085eb71b1e252db7ff61d87d50d98.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 39566,
+      "stagingPath": "work/recovery_staging/KR-MER-1332.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1333",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/nek6YAiGR7.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        540,
+        720
+      ],
+      "format": "PNG",
+      "bytes": 265132,
+      "stagingPath": "work/recovery_staging/KR-MER-1333.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1334",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/38E4AC4F0C9A4E7ACAC9D9039BF763C7.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        326,
+        326
+      ],
+      "format": "JPEG",
+      "bytes": 10504,
+      "stagingPath": "work/recovery_staging/KR-MER-1334.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1335",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/ca0b08ff8d7966877f12d9498e505a8b.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 15665,
+      "stagingPath": "work/recovery_staging/KR-MER-1335.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1336",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/4b5cc4a9a8b64c514cd7de0c17e64c3d.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 66237,
+      "stagingPath": "work/recovery_staging/KR-MER-1336.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1337",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/23d9b6d4db06b60d294c1940884c3f5f.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        360
+      ],
+      "format": "JPEG",
+      "bytes": 20117,
+      "stagingPath": "work/recovery_staging/KR-MER-1337.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1338",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/98281bf2e062d4d1052542a2ce26844c.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 19222,
+      "stagingPath": "work/recovery_staging/KR-MER-1338.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1339",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/3f6d3655557226e2b5075267979c1bca.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 9939,
+      "stagingPath": "work/recovery_staging/KR-MER-1339.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1340",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/ca2e38c9cb59f9b8963d1411aca0fa24.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16474,
+      "stagingPath": "work/recovery_staging/KR-MER-1340.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1341",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/4ba1074ebcdc0aa1bf115bb8dba190e8.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 28939,
+      "stagingPath": "work/recovery_staging/KR-MER-1341.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1342",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/8586f5e7e7e3a316c0f297b3c3a5785d.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 13970,
+      "stagingPath": "work/recovery_staging/KR-MER-1342.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1343",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/d5083daf411749d38740ca5a2586dc36.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 66372,
+      "stagingPath": "work/recovery_staging/KR-MER-1343.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1344",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/b3897eb8c3e4b3a1ddf9eda2bd605446.jpg",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 84907,
+      "stagingPath": "work/recovery_staging/KR-MER-1344.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1345",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/EhEFjv45an.jpg",
+      "oldDimensions": null,
+      "newDimensions": [
+        689,
+        689
+      ],
+      "format": "JPEG",
+      "bytes": 37832,
+      "stagingPath": "work/recovery_staging/KR-MER-1345.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1346",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/b52ec41bcf3ca866f320fc54f9a303ef.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16044,
+      "stagingPath": "work/recovery_staging/KR-MER-1346.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1347",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/65ff2a045fd3c127c0d4121920e470f6.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 28791,
+      "stagingPath": "work/recovery_staging/KR-MER-1347.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1348",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/baHTCTtYUo.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        1080,
+        1440
+      ],
+      "format": "JPEG",
+      "bytes": 110446,
+      "stagingPath": "work/recovery_staging/KR-MER-1348.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1349",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/51876038818dc0c48904f4aa32aa3c43.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 19140,
+      "stagingPath": "work/recovery_staging/KR-MER-1349.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1350",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/8c021b53d6fee4114b72e220fb477af6.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 18798,
+      "stagingPath": "work/recovery_staging/KR-MER-1350.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1351",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/46a67647820139c536c496c7724ebd84.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        1080,
+        1080
+      ],
+      "format": "JPEG",
+      "bytes": 56783,
+      "stagingPath": "work/recovery_staging/KR-MER-1351.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1352",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/hW8bpyHguiauhiyviineJiw2mixaGy6y.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 59046,
+      "stagingPath": "work/recovery_staging/KR-MER-1352.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1353",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/7bdce0d0a76db8257cf0d7eae0c07c21.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 82304,
+      "stagingPath": "work/recovery_staging/KR-MER-1353.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1354",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/e792084eeb00234f0426ff9ea0b2427f.jpg",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 95900,
+      "stagingPath": "work/recovery_staging/KR-MER-1354.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1355",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/e5ff72d9bd2a747a6d4b2daa164d8c97.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        768,
+        1024
+      ],
+      "format": "JPEG",
+      "bytes": 70527,
+      "stagingPath": "work/recovery_staging/KR-MER-1355.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1356",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/aNux2P6NnunYPoaaolRuOlhxbh4mQlUu.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 20145,
+      "stagingPath": "work/recovery_staging/KR-MER-1356.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1357",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/233c59ecbbe3ee9712194b1c2679f12f.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 14165,
+      "stagingPath": "work/recovery_staging/KR-MER-1357.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1358",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/d1a5d64edd045aeac663519ee35b54fe.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        272,
+        362
+      ],
+      "format": "JPEG",
+      "bytes": 16181,
+      "stagingPath": "work/recovery_staging/KR-MER-1358.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1359",
+      "status": "downloaded",
+      "url": "https://public.qiandaocdn.com/interior/images/nchrB8575S.png",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        540,
+        910
+      ],
+      "format": "PNG",
+      "bytes": 274546,
+      "stagingPath": "work/recovery_staging/KR-MER-1359.png",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1360",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/foQaL6Fkn4c.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 45763,
+      "stagingPath": "work/recovery_staging/KR-MER-1360.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1361",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/DJYPQz2SHV.jpg",
+      "oldDimensions": null,
+      "newDimensions": [
+        500,
+        500
+      ],
+      "format": "JPEG",
+      "bytes": 28595,
+      "stagingPath": "work/recovery_staging/KR-MER-1361.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1362",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/5C450F97BD9E0E9CBD624D5A34103857.jpeg",
+      "oldDimensions": [
+        96,
+        128
+      ],
+      "newDimensions": [
+        608,
+        716
+      ],
+      "format": "JPEG",
+      "bytes": 34905,
+      "stagingPath": "work/recovery_staging/KR-MER-1362.jpg",
+      "wasBakedPlaceholder": false,
+      "wasTiny": true
+    },
+    {
+      "id": "KR-MER-1363",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/767b8eaf6d96f07377c8ef8407c9d466.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 20561,
+      "stagingPath": "work/recovery_staging/KR-MER-1363.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1364",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/2f09a6ae540df50682922ccbacefc79d.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 13672,
+      "stagingPath": "work/recovery_staging/KR-MER-1364.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1365",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/4daff235cdbd35c21b25d21095dc13ba.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 11933,
+      "stagingPath": "work/recovery_staging/KR-MER-1365.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1366",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/57e99696a8e25dfe0036eaf2e3008c9e.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 15484,
+      "stagingPath": "work/recovery_staging/KR-MER-1366.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1367",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/12AC1DD91B94C660DADD5391262D65D4.jpeg",
+      "oldDimensions": null,
+      "newDimensions": [
+        996,
+        748
+      ],
+      "format": "JPEG",
+      "bytes": 43312,
+      "stagingPath": "work/recovery_staging/KR-MER-1367.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1368",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/5f42d4107e9eab9b9a94e97679af450b.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        378,
+        504
+      ],
+      "format": "JPEG",
+      "bytes": 12540,
+      "stagingPath": "work/recovery_staging/KR-MER-1368.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    },
+    {
+      "id": "KR-MER-1369",
+      "status": "downloaded",
+      "url": "https://treasure.qiandaocdn.com/treasure/images/fd9cf2caafa9d72f10db12cdc426e4f2.png",
+      "oldDimensions": null,
+      "newDimensions": [
+        756,
+        1008
+      ],
+      "format": "JPEG",
+      "bytes": 70024,
+      "stagingPath": "work/recovery_staging/KR-MER-1369.jpg",
+      "wasBakedPlaceholder": true,
+      "wasTiny": false
+    }
+  ]
+}
